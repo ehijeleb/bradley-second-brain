@@ -24,6 +24,9 @@ Real examples to draw on for CVs and STAR answers. Only what actually happened, 
 - **Bershka:** customer service, sales, targets, teamwork, handling pressure.
 - **Reselling:** pricing, margins, tracking stock and profit (see [[Reselling]]).
 - **Portfolio:** see [[Portfolio Projects]].
+  - [[Money Buys Points]]: "Built and published a long-form Tableau Public dashboard testing whether Premier League transfer spending buys league points, using a 100 club-season dataset (2018-19 to 2022-23) assembled from Transfermarkt and official league tables, and rebuilt after spotting errors in an earlier version."
+  - [[Money Buys Points]]: "Showed that same-season spend explains only 5% of league points (the top spender won 0 of 5 titles) but adds about 6 points per EUR 100m the following season after controlling for prior performance (p = 0.001)." Python stats were done together with Claude, so describe them as analysis you led and be ready to explain each test (regression, Williams test, clustered errors).
+  - [[What Gets International Graduates Hired]]: "Built and published a Tableau Public dashboard on a 300,000-row synthetic dataset of international graduates, showing that three factors (advanced degree, strong language skills, a career edge) separated 4% from 100% employment, while subject and home country made no difference."
 
 ## STAR stories
 - 
@@ -38,4 +41,5 @@ Real examples to draw on for CVs and STAR answers. Only what actually happened, 
 
 ## Status log
 - 13-11-2026: hub created
+- 13-11-2026: portfolio CV bullets added to the evidence bank.
 - 13-11-2026: CV-v1 imported from the old Claude job-hunt project. Module marks wording needs checking (see [[CV-v1]]).

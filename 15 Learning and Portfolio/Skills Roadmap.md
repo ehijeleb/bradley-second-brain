@@ -18,7 +18,7 @@ status: active
 | Excel (formulas, pivot tables, lookups) | | | |
 | SQL | | | |
 | Python (pandas, plotting) | | | |
-| Power BI or Tableau | | | |
+| Power BI or Tableau | | Tableau: two published Tableau Public dashboards ([[Money Buys Points]], [[What Gets International Graduates Hired]]). Calculated fields, FIXED LODs, WINDOW_CORR, sets, highlight actions, dual axis, floating layouts, device layouts | Rewrite default tooltips on both dashboards |
 | Statistics (regression, hypothesis tests) | | degree | |
 | R | | | |
 | Data storytelling / presenting | | | |
@@ -29,7 +29,8 @@ status: active
 | | | | | |
 
 ## Learning log
-- 
+- Tableau hard parts so far: Tableau Public only renders Tableau and web-safe fonts; annotations and floating objects shift between Desktop and Public; keeping long-form dashboards to benchmark length; text baked into images isn't editable or accessible; colour stored in two places in the .twb file.
 
 ## Status log
 - 13-11-2026: hub created
+- 13-11-2026: Tableau evidence added from the portfolio import. Levels still to set.
