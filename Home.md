@@ -33,4 +33,4 @@ type: dashboard
 - **Reselling:** [[Reselling]] · [[Stock]] · [[Reselling expenses]]
 - **Work:** [[Bershka]]
 - **Personal:** [[Finance]] · [[Fitness]] · [[Admin]]
-- **Reference:** [[Start here]] · [[Vault conventions]] · [[About me]]
+- **Reference:** [[Start here]] · [[Setting up on a device]] · [[Vault conventions]] · [[About me]]
