@@ -21,6 +21,12 @@ For anything to do with the job hunt (assessing adverts, suggesting companies, r
 - In a cloud session working on a clone of the repository, pull first, then commit and push your changes to `main` at the end so they reach his devices.
 - Don't use email, calendar, drive or GitHub connectors unless Bradley says the account is theirs and asks you to.
 
+## Calendar
+- The Google Calendar connected in cloud sessions (benedict.ibha) is not Bradley's. Never read or write it.
+- Whenever Bradley asks to add something to his calendar, send him an `.ics` file instead (Bradley asked for this on 13-11-2026). Put it in the scratchpad, not the vault, and send it as a file.
+- Format: one VEVENT per event, `DTSTART;TZID=Europe/London`, a unique UID, a 30-minute reminder, CRLF line endings. Name the file after what's in it, e.g. `Gym plan.ics`.
+- Remind him how to import it: on the laptop, Google Calendar settings, then "Import & export"; on the iPhone, tap the file and check it goes into his Google calendar.
+
 ## Working in this vault
 - Follow `40 Resources/Vault conventions.md` for folders and properties (`type`, `area`, `status`, `deadline`, `waiting_on`, `repo`).
 - Use Obsidian wikilinks (`[[Note name]]`). Note names are unique across the vault.
