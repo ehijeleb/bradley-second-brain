@@ -11,7 +11,8 @@ cv_version: CV-v1
 > **Used for:** not confirmed yet.
 
 > [!warning] Check before sending again
-> The Education section lists Mathematical Enterprise (93%) and Differential Equations and Modelling (75%) as module results. A note in the old project says 93% was Bradley's individual mark on a module that was a 2:1 overall, and 75% was one exam. Reword so it can't be read as the module grade, for example "individual mark 93%".
+> - Module results: the transcript shows Mathematical Enterprise as a 2:1 (93% was an individual mark) and Differential Equations and Modelling as a 2:2 overall (75% was one exam). Medical Statistics isn't on the transcript. Fix before sending. See "Accuracy checks" in [[CV and Interview Prep]].
+> - Dissertation data: this version says three seasons; CV-v2 to v4 say five. Confirm which is right.
 
 ---
 
