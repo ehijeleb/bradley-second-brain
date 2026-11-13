@@ -1,6 +1,6 @@
 # Bradley's brain
 
-This is Bradley Duke's second brain: an Obsidian vault in `C:\Users\benny\Desktop\bradleys second brain`, synced to a private GitHub repository (`github.com/ehijeleb/bradley-second-brain`, on the `ehijeleb` GitHub account, which Bradley signs in with) by the Obsidian Git plugin. Call him Bradley. More about him: `40 Resources/About me.md`.
+This is Bradley Duke's second brain: an Obsidian vault in `C:\Users\hp\bradleys-brain`, synced to a private GitHub repository (`github.com/ehijeleb/bradley-second-brain`, on the `ehijeleb` GitHub account, which Bradley signs in with) by the Obsidian Git plugin. Call him Bradley. More about him: `40 Resources/About me.md`.
 
 ## First run
 If `Start here.md` has unticked items, start the session by telling Bradley what's still to fill in and offering to go through it one item at a time, most important first (applications so far, then CV, then portfolio projects). Tick each item when it's done.
