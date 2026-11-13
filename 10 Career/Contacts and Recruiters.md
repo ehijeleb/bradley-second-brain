@@ -12,12 +12,14 @@ status: active
 | --- | --- | --- | --- | --- | --- |
 | Lauren Jones | Datatech Analytics (recruitment agency) | Consultant. Email Lauren.Jones@datatech.org.uk, works 08:30 to 14:00 | Confirmed receiving the application for [[APP-001 ION Asset Architecture - Trading Operations Assistant]] on 04-11-2026 | 09-11-2026 (missed call, rescheduled) | None for now; Olivia is handling the CV |
 | Olivia Ross | Datatech Analytics (recruitment agency) | Consultant. Works 09:00 to 16:00 (phone in the old project) | Screening call for [[APP-001 ION Asset Architecture - Trading Operations Assistant]], 11-11-2026 | 13-11-2026 (she sent the application to ION) | Wait for her to pass on ION's feedback |
+| Jamie Bird | Sigma Labs | Recruitment contact. Email jamie.bird@sigmalabs.co.uk | Invited Bradley to the Equalture games for [[APP-006 Sigma Labs - Data Tech Graduate Training Programme]], 10-11-2026 | 10-11-2026 | Email with any questions about the assessment |
 | Lauren Whitfield | GRB | Recruiter | Feedback on [[Money Buys Points]] for the Data School application | 24-09-2026 or later, exact date not known | Application submitted ([[APP-002 The Data School - Data School]]); next start date unsure |
 
 ## Notes
 - 
 
 ## Status log
+- 13-11-2026: added Jamie Bird (Sigma Labs).
 - 13-11-2026: hub created
 - 13-11-2026: updated Lauren Jones and Olivia Ross with details from the old job-hunt project.
 - 13-11-2026: added Lauren Whitfield (GRB) from the Tableau Claude project.
