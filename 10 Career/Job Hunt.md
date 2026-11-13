@@ -60,6 +60,7 @@ views:
 - [ ] **Today (13-11-2026):** Betway's 2-week window ends. If no contact, mark [[APP-003 Betway - Junior Data Scientist]] Rejected
 - [ ] Fix module grades across CVs, and change "five seasons" to three in CV-v2, v3 and v4 (see "Accuracy checks" in [[CV and Interview Prep]])
 - [x] Log every application made so far (APP-001 onwards)
+- [ ] **20-11-2026:** chase Olivia Ross for ION's feedback on [[APP-001 ION Asset Architecture - Trading Operations Assistant]] if no news
 - [ ] Draft a target list of 10 to 15 less saturated employers (see "Suggesting companies")
 
 ## Waiting on

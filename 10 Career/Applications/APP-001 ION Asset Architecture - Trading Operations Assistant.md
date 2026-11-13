@@ -12,8 +12,8 @@ fit_score: 8
 stage: Submitted to ION
 cv_version: CV-v7
 cover_letter: 
-next_step: Wait for ION's feedback via Olivia Ross. If positive, in-person interviews at the Gherkin.
-deadline: 
+next_step: Wait for ION's feedback via Olivia Ross. If positive, in-person interviews at the Gherkin. Chase Olivia on 20-11-2026 if no news.
+deadline: 2026-11-20
 status: active
 waiting_on: ION feedback (via Olivia Ross, Datatech)
 ---
@@ -64,5 +64,6 @@ Bradley Duke
 - By 13-11-2026: CV-v7 sent to Olivia Ross.
 - 13-11-2026: imported from the old Claude job-hunt project. Bradley confirmed he's applied and that ION is the sports trading client.
 - 13-11-2026: Olivia Ross emailed (13:28) that she has sent Bradley's application to ION and will be in touch once she has their feedback.
+- 13-11-2026: follow-up set for 20-11-2026 (chase Olivia if no news).
 
 Back to [[Job Hunt]]
