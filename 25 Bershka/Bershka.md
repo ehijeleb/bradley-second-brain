@@ -16,6 +16,7 @@ status: active
 ## Shifts
 | Week starting | Shifts | Paid hours |
 | --- | --- | --- |
+| 02-11-2026 | Mon 2 to Fri 6 paid holiday. Sun 1, Sat 7 and Sun 8 off. | Holiday |
 | 09-11-2026 | Mon 9 sick day (paid). Tue 10 12:30-16:00 and 17:00-21:30. Wed 11 12:30-15:30 and 16:30-21:30. Thu 12 10:00-19:00. Sat 14 14:00-22:00. Fri 13 and Sun 15 off. | 32 (weekend 8) + sick day |
 | 16-11-2026 | Tue 17 10:00-19:00. Wed 18 10:00-19:00. Thu 19 12:30-21:30. Fri 20 12:30-21:30. Sat 21 13:00-22:00. Mon 16 and Sun 22 off. | 40 (weekend 8) |
 | 23-11-2026 | Mon 23 to Fri 27 paid holiday. Sat 28 and Sun 29 off. | Holiday |
@@ -26,7 +27,8 @@ status: active
 From rota screenshots, 13-11-2026. Paid hours take off unpaid lunch: a 9-hour shift has 1 hour unpaid lunch and a 20-minute paid break (8 paid), an 8-hour shift has a paid 30-minute lunch (8 paid). So every shift so far is 8 paid hours. The split shifts on 10 and 11 November already have the hour off between the two parts (8 paid each). The app showed 209 hours worked from 01-10-2026 to 12-11-2026.
 
 ## Notes
-- Holiday booked 23-11-2026 to 27-11-2026 (paid).
+- Paid holiday 02-11-2026 to 06-11-2026 and 23-11-2026 to 27-11-2026.
+- November pay estimate (paid 10-12-2026): about £2,537 gross. 152 hours at £14.96 plus 16 weekend hours at £16.46. Assumes each holiday and sick day pays 8 hours at the basic rate. Before tax and NI. Compare with the payslip.
 - Sick day 09-11-2026 (paid). Check it shows on the November payslip (paid 10-12-2026).
 - Tax code fixed to 1257L from 11-11-2026; refund expected on the December payslip. See Tax in [[Finance]].
 - Owed £35 for a Dart Charge from helping at Bluewater. Chase if not in the next payslip.
@@ -37,3 +39,4 @@ From rota screenshots, 13-11-2026. Paid hours take off unpaid lunch: a 9-hour sh
 - 13-11-2026: shifts added from rota screenshots up to 13-12-2026, plus sick day 09-11-2026.
 - 13-11-2026: break rules added; shift hours changed to paid hours.
 - 13-11-2026: corrected, 30-minute lunch on 8-hour shifts is paid.
+- 13-11-2026: holiday 02-11-2026 to 06-11-2026 added; November pay estimated.
