@@ -9,13 +9,13 @@ advert:
 date_applied: 
 closing_date: 
 fit_score: 8
-stage: Recruiter screening
+stage: Submitted to ION
 cv_version: CV-v7
 cover_letter: 
-next_step: Datatech to put Bradley forward to ION. Then in-person interviews at the Gherkin.
+next_step: Wait for ION's feedback via Olivia Ross. If positive, in-person interviews at the Gherkin.
 deadline: 
 status: active
-waiting_on: Datatech (putting Bradley forward)
+waiting_on: ION feedback (via Olivia Ross, Datatech)
 ---
 # APP-001 ION Asset Architecture - Trading Operations Assistant
 
@@ -63,5 +63,6 @@ Bradley Duke
 - 12-11-2026: CV in ION's format ([[CV-v7]]) prepared and email to Olivia drafted.
 - By 13-11-2026: CV-v7 sent to Olivia Ross.
 - 13-11-2026: imported from the old Claude job-hunt project. Bradley confirmed he's applied and that ION is the sports trading client.
+- 13-11-2026: Olivia Ross emailed (13:28) that she has sent Bradley's application to ION and will be in touch once she has their feedback.
 
 Back to [[Job Hunt]]

@@ -11,7 +11,7 @@ status: active
 | Name | Company / agency | Role | How we met | Last contact | Next step |
 | --- | --- | --- | --- | --- | --- |
 | Lauren Jones | Datatech Analytics (recruitment agency) | Consultant. Email Lauren.Jones@datatech.org.uk, works 08:30 to 14:00 | Confirmed receiving the application for [[APP-001 ION Asset Architecture - Trading Operations Assistant]] on 04-11-2026 | 09-11-2026 (missed call, rescheduled) | None for now; Olivia is handling the CV |
-| Olivia Ross | Datatech Analytics (recruitment agency) | Consultant. Works 09:00 to 16:00 (phone in the old project) | Screening call for [[APP-001 ION Asset Architecture - Trading Operations Assistant]], 11-11-2026 | 13-11-2026 (CV-v7 sent) | Wait for her to put Bradley forward to ION |
+| Olivia Ross | Datatech Analytics (recruitment agency) | Consultant. Works 09:00 to 16:00 (phone in the old project) | Screening call for [[APP-001 ION Asset Architecture - Trading Operations Assistant]], 11-11-2026 | 13-11-2026 (she sent the application to ION) | Wait for her to pass on ION's feedback |
 | Lauren Whitfield | GRB | Recruiter | Feedback on [[Money Buys Points]] for the Data School application | 24-09-2026 or later, exact date not known | Application submitted ([[APP-002 The Data School - Data School]]); next start date unsure |
 
 ## Notes

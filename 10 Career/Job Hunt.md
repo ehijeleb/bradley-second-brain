@@ -64,7 +64,7 @@ views:
 
 ## Waiting on
 - [[APP-002 The Data School - Data School]]: outcome of the application.
-- [[APP-001 ION Asset Architecture - Trading Operations Assistant]]: Datatech to put Bradley forward to ION.
+- [[APP-001 ION Asset Architecture - Trading Operations Assistant]]: ION's feedback (Olivia Ross sent the application on 13-11-2026).
 - [[APP-005 GHD - Graduate Data Consultant]]: outcome (eligibility risk: wants 2027 graduates).
 - [[APP-006 Sigma Labs - Data Tech Graduate Training Programme]]: outcome.
 - [[APP-003 Betway - Junior Data Scientist]]: response, or none by 13-11-2026.
@@ -86,6 +86,7 @@ views:
 - 13-11-2026: logged APP-003 Betway (applied 30-10-2026) and APP-004 WTW (applied 01-11-2026). Updated APP-001 ION with screening call, fit 8/10 and CV-v7. Added considered roles.
 - 13-11-2026: logged APP-005 GHD and APP-006 Sigma Labs (dates not known). CV-v7 sent to Olivia Ross for APP-001.
 - 13-11-2026: all applications so far logged (APP-001 to APP-006). None of the suggested schemes applied to.
+- 13-11-2026: APP-001 ION moved to stage Submitted to ION. Olivia Ross sent the application and is waiting on ION's feedback.
 
 ---
 
