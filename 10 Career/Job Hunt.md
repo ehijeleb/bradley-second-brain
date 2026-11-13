@@ -58,7 +58,7 @@ views:
 
 ## Next actions
 - [ ] **Today (13-11-2026):** Betway's 2-week window ends. If no contact, mark [[APP-003 Betway - Junior Data Scientist]] Rejected
-- [ ] **By 14-11-2026:** play the Equalture games for [[APP-006 Sigma Labs - Data Tech Graduate Training Programme]] (30 to 40 mins, one attempt)
+- [x] **By 14-11-2026:** play the Equalture games for [[APP-006 Sigma Labs - Data Tech Graduate Training Programme]] (30 to 40 mins, one attempt)
 - [ ] Fix module grades across CVs, and change "five seasons" to three in CV-v2, v3 and v4 (see "Accuracy checks" in [[CV and Interview Prep]])
 - [x] Log every application made so far (APP-001 onwards)
 - [ ] **20-11-2026:** chase Olivia Ross for ION's feedback on [[APP-001 ION Asset Architecture - Trading Operations Assistant]] if no news
@@ -68,7 +68,7 @@ views:
 - [[APP-002 The Data School - Data School]]: outcome of the application.
 - [[APP-001 ION Asset Architecture - Trading Operations Assistant]]: ION's feedback (Olivia Ross sent the application on 13-11-2026).
 - [[APP-005 GHD - Graduate Data Consultant]]: outcome (eligibility risk: wants 2027 graduates).
-- [[APP-006 Sigma Labs - Data Tech Graduate Training Programme]]: Bradley to play the Equalture games, due 14-11-2026 (link expires about 17-11-2026).
+- [[APP-006 Sigma Labs - Data Tech Graduate Training Programme]]: Equalture results (games completed 13-11-2026), then Sigma's decision.
 - [[APP-003 Betway - Junior Data Scientist]]: response, or none by 13-11-2026.
 - [[APP-004 WTW - Data Scientist Graduate Programme]]: online test invite if progressing. Likely screened out on A-level grades.
 
@@ -91,6 +91,7 @@ views:
 - 13-11-2026: APP-001 ION moved to stage Submitted to ION. Olivia Ross sent the application and is waiting on ION's feedback.
 - 13-11-2026: APP-006 Sigma Labs moved to stage Online test (Equalture games, invited 10-11-2026, due 14-11-2026).
 
+- 13-11-2026: APP-006 Sigma Labs Equalture games completed. Waiting on results.
 ---
 
 ## Rules for Claude

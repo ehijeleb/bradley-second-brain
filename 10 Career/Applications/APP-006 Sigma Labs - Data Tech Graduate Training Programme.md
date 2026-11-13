@@ -12,8 +12,9 @@ fit_score: 7
 stage: Online test
 cv_version: 
 cover_letter: 
-next_step: Play the Equalture neuroscientific games (30 to 40 mins), within 4 days of the Equalture email. Not done as of 13-11-2026.
-deadline: 2026-11-14
+next_step: Wait for Equalture results by email, then Sigma Labs' decision on the next stage.
+deadline: 
+waiting_on: Equalture results and Sigma Labs' decision
 status: active
 ---
 # APP-006 Sigma Labs - Data Tech Graduate Training Programme
@@ -38,5 +39,6 @@ status: active
 - 10-11-2026: Equalture invite arrived (09:30).
 - 13-11-2026: stage set to Online test (Equalture games), deadline 14-11-2026.
 - 13-11-2026: Equalture reminder (11:32), games not yet started ([[2026-11-13 Equalture - Reminder to complete Sigma Labs assessment]]).
+- 13-11-2026: Equalture games completed, within Sigma's 4-day window.
 
 Back to [[Job Hunt]]
