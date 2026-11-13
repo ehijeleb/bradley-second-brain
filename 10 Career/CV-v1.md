@@ -12,7 +12,6 @@ cv_version: CV-v1
 
 > [!warning] Check before sending again
 > - Module results: the transcript shows Mathematical Enterprise as a 2:1 (93% was an individual mark) and Differential Equations and Modelling as a 2:2 overall (75% was one exam). Medical Statistics isn't on the transcript. Fix before sending. See "Accuracy checks" in [[CV and Interview Prep]].
-> - Dissertation data: this version says three seasons; CV-v2 to v4 say five. Confirm which is right.
 
 ---
 

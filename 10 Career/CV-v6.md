@@ -13,7 +13,6 @@ cv_version: CV-v6
 > [!warning] Check before sending again
 > - Lists Mathematical Enterprise (93%) and Differential Equations and Modelling (75%). Transcript: Mathematical Enterprise 2:1, Differential Equations 2:2 overall (75% was one exam).
 > - Medical Statistics is listed in Relevant modules but isn't on the transcript.
-> - Says three seasons of dissertation data; CV-v2 to v4 say five. Confirm.
 
 ---
 

@@ -23,7 +23,7 @@ Name each version so applications can record which one was used (`cv_version` on
 
 > [!warning] Accuracy checks (from the old project, 13-11-2026)
 > - **Module grades:** the transcript shows Mathematical Enterprise as a 2:1 (93% was an individual mark) and Differential Equations and Modelling as a 2:2 overall (75% was one exam). Medical Statistics isn't on the transcript. Affects CV-v1, v2, v3, v4, v5 and v6. CV-v7's grades appear to match the transcript.
-> - **Dissertation data:** CV-v1, v6 and v7 say three seasons; CV-v2, v3 and v4 say five. Confirm which is right and use it everywhere.
+> - **Dissertation data:** it was three seasons (confirmed 13-11-2026). CV-v2, v3 and v4 wrongly say five.
 
 ## Cover letters
 - WTW, 01-11-2026: in [[APP-004 WTW - Data Scientist Graduate Programme]]. Not known whether attached.
@@ -53,5 +53,6 @@ Real examples to draw on for CVs and STAR answers. Only what actually happened, 
 ## Status log
 - 13-11-2026: hub created
 - 13-11-2026: portfolio CV bullets added to the evidence bank.
+- 13-11-2026: Bradley confirmed the dissertation used three seasons of data.
 - 13-11-2026: CV-v2 to CV-v7 and two cover letters imported. Accuracy checks added.
 - 13-11-2026: CV-v1 imported from the old Claude job-hunt project. Module marks wording needs checking (see [[CV-v1]]).

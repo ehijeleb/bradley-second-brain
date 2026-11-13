@@ -8,11 +8,9 @@ status: active
 > [!info] Snapshot
 > **What:** buying items and reselling them for profit. Tracks stock, sales, fees, expenses and profit.
 > **Where things live:** every item in [[Stock]] (one line each, updated when it sells). Costs that aren't items (postage bags, listing upgrades, travel to pick up) in [[Reselling expenses]]. The tables below work themselves out.
-> **Platforms:** (fill in: Vinted, eBay, Depop...)
+> **Platforms:** sells across several; resold shoes from about 2021 to 2023. Restarting November 2026.
+> **Community:** [[House of Resell]] (Discord), joined 13-11-2026.
 > Needs the **Dataview** plugin with **Enable JavaScript queries** turned on.
-
-> [!todo] To fill in
-> First time in: anything already bought or sold (see [[Start here]]).
 
 ## Profit by month
 ```dataviewjs
@@ -45,10 +43,11 @@ dv.view("20 Reselling/_scripts/reselling", { view: "stock" })
 Reselling money also counts as income: when profit is taken out, log it in that month's budget under [[Finance]] as `[income:: Reselling]`.
 
 ## Next actions
-- [ ] Log current stock
+- [ ] Log the first purchase in [[Stock]] when it happens
+- [ ] Note which platforms I have accounts on
 
 ## Notes
-- 
+- 13-11-2026: no stock yet. Previous experience reselling shoes, about 2021 to 2023.
 
 ## Check these lines
 ```dataviewjs
@@ -57,3 +56,4 @@ dv.view("20 Reselling/_scripts/reselling", { view: "check" })
 
 ## Status log
 - 13-11-2026: hub created
+- 13-11-2026: joined [[House of Resell]]. Starting from zero stock.

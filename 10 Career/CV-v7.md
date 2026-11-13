@@ -11,7 +11,6 @@ cv_version: CV-v7
 > **Used for:** [[APP-001 ION Asset Architecture - Trading Operations Assistant]] (sent to Olivia Ross by 13-11-2026).
 
 > [!warning] Check before sending again
-> - Says three seasons of dissertation data; CV-v2 to v4 say five. Confirm.
 > - Module grades here (Firsts and 2:1s) appear to match the transcript, so this is likely the most accurate version for grades.
 
 ---

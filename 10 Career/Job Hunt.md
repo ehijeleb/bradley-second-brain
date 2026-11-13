@@ -58,8 +58,8 @@ views:
 
 ## Next actions
 - [ ] **Today (13-11-2026):** Betway's 2-week window ends. If no contact, mark [[APP-003 Betway - Junior Data Scientist]] Rejected
-- [ ] Fix module grades and the three vs five seasons wording across CVs (see "Accuracy checks" in [[CV and Interview Prep]])
-- [ ] Log every application made so far (APP-001 onwards)
+- [ ] Fix module grades across CVs, and change "five seasons" to three in CV-v2, v3 and v4 (see "Accuracy checks" in [[CV and Interview Prep]])
+- [x] Log every application made so far (APP-001 onwards)
 - [ ] Draft a target list of 10 to 15 less saturated employers (see "Suggesting companies")
 
 ## Waiting on
@@ -73,7 +73,7 @@ views:
 ## Considered, not applied
 - Betway, Sports Trader (Esports), Gzira, Malta (hybrid, req JR13815). Fit 3/10.
 - Graduate Sports Data Scientist, Exeter (aggregator listing, thought to be ATASS Sports). The role turned out not to exist.
-- Suggested in the old project but no advert seen (Bradley has applied to some; to log): Civil Service GSS Fast Stream, Sky, Lloyds, Revolut, Aon Catastrophe Modelling, Zurich, Babcock, Experian, Swiss Re, Hiscox.
+- Suggested in the old project but no advert seen (Bradley confirmed 13-11-2026 he hasn't applied to any): Civil Service GSS Fast Stream, Sky, Lloyds, Revolut, Aon Catastrophe Modelling, Zurich, Babcock, Experian, Swiss Re, Hiscox.
 
 ## Decisions
 - 13-11-2026: kept the vault's APP-001 (ION) and APP-002 (Data School). The old tracker's APP-001 Betway and APP-002 WTW became APP-003 and APP-004, so no ID is reused.
@@ -85,6 +85,7 @@ views:
 - 13-11-2026: logged APP-002 The Data School, stage Applied. Date applied not known yet.
 - 13-11-2026: logged APP-003 Betway (applied 30-10-2026) and APP-004 WTW (applied 01-11-2026). Updated APP-001 ION with screening call, fit 8/10 and CV-v7. Added considered roles.
 - 13-11-2026: logged APP-005 GHD and APP-006 Sigma Labs (dates not known). CV-v7 sent to Olivia Ross for APP-001.
+- 13-11-2026: all applications so far logged (APP-001 to APP-006). None of the suggested schemes applied to.
 
 ---
 

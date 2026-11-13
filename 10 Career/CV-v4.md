@@ -12,7 +12,7 @@ cv_version: CV-v4
 
 > [!warning] Check before sending again
 > - Medical Statistics is listed in Relevant modules but isn't on the transcript.
-> - Says five seasons of dissertation data; CV-v1, v6 and v7 say three. Confirm.
+> - Says five seasons of dissertation data. Wrong: it was three (confirmed 13-11-2026). Fix before reusing.
 > - The Money Buys Points bullet says the regression was computed in Python. It was done together with Claude, so be ready to explain it in interview.
 
 ---

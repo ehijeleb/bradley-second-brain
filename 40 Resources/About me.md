@@ -12,7 +12,7 @@ _Written with Claude during setup on 13-11-2026. Edit freely: Claude reads this 
 - Sales assistant at [[Bershka]], London, since July 2026. Willing to relocate.
 - Captains a local football team, youth cricket coach, West Ham and NBA fan.
 - Aiming for a graduate role on a finance or technology route: **data analyst first**, also data science, BI, sports or performance analysis, betting and trading analytics, insurance, actuarial.
-- Resell items for profit on the side ([[Reselling]]).
+- Resell items for profit on the side ([[Reselling]]). Resold shoes about 2021 to 2023; restarting November 2026 with [[House of Resell]].
 - New to Obsidian and to tracking things in notes or spreadsheets: started 13-11-2026.
 
 ## What's in this brain

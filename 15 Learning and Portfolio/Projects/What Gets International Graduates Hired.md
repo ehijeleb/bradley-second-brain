@@ -15,6 +15,7 @@ repo:
 
 ## Optional improvements
 Marked finished, but these would strengthen it:
+- [ ] Fix the statistics (Bradley's wish, not urgent)
 - [ ] Rewrite the default tooltips
 - [ ] Replace Q1's 14 near-identical grey bars with a single dot strip
 - [ ] Decide how to handle the synthetic, rule-generated data (maybe reframe as "I found the hidden hiring rule")
@@ -44,7 +45,7 @@ Marked finished, but these would strengthen it:
 
 ## Status log
 - 09-11-2026: last worked on. Self-score 8/8/7/8/6/6/7 (point of view, story flow, chart choice, design craft, analytical depth, personality, technical polish).
-- 13-11-2026: imported from Bradley's Tableau Claude project.
+- 13-11-2026: imported from Bradley's Tableau Claude project. Bradley wants to fix the statistics at some point; not urgent.
 
 ## Links
 - [Tableau Public](https://public.tableau.com/app/profile/bradley.duke/viz/WhatGetsInternationalGraduatesHired/GraduateHiring)
