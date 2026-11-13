@@ -61,13 +61,14 @@ views:
 - [ ] Draft a target list of 10 to 15 less saturated employers (see "Suggesting companies")
 
 ## Waiting on
-- 
+- [[APP-001 ION Asset Architecture - Trading Operations Assistant]]: Datatech to send the full job description.
 
 ## Decisions
 - 13-11-2026: tracker kept as notes in this vault, with an Excel export on request, so it syncs and shows on [[Home]].
 
 ## Status log
 - 13-11-2026: hub created
+- 13-11-2026: logged APP-001 ION Asset Architecture (via Datatech), Trading Operations Assistant, stage Recruiter screening. More applications still to add.
 
 ---
 

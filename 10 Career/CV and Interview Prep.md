@@ -9,14 +9,11 @@ status: active
 > **What this covers:** CV versions, cover letters, interview preparation and assessment-centre practice for the [[Job Hunt]].
 > **Rules for rewrites:** see "Rewriting CVs and cover letters" in [[Job Hunt]]. Never invent achievements, one page, flag judgement calls.
 
-> [!todo] To fill in
-> Add Bradley's current CV as `CV-v1` (paste the text below, or drop the file in `Attachments/` and link it).
-
 ## CV versions
 Name each version so applications can record which one was used (`cv_version` on the application).
 | Version | Date | Aimed at | File or note |
 | --- | --- | --- | --- |
-| CV-v1 | | general | |
+| CV-v1 | imported 13-11-2026 | general (data science, statistics, quant) | [[CV-v1]] (original: "Bradley CV.pdf") |
 
 ## Cover letters
 - 
@@ -41,3 +38,4 @@ Real examples to draw on for CVs and STAR answers. Only what actually happened, 
 
 ## Status log
 - 13-11-2026: hub created
+- 13-11-2026: CV-v1 imported from the old Claude job-hunt project. Module marks wording needs checking (see [[CV-v1]]).
