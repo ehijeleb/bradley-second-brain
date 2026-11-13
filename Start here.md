@@ -11,7 +11,7 @@ Welcome to your brain, Bradley. It was set up on 13-11-2026 with the structure i
 - [x] **Portfolio projects:** anything you've built or are planning, so each gets a note in [[Portfolio Projects]].
 - [x] **Courses and skills:** anything you're studying now, and how confident you are with Excel, SQL, Python, Power BI and stats, for [[Skills Roadmap]].
 - [x] **Reselling:** anything you're tracking already (current stock, recent sales, platforms) for [[Reselling]].
-- [ ] **Money:** your Bershka hourly rate and rough monthly costs, if you want [[Finance]] set up. Optional, it works blank.
+- [x] **Money:** your Bershka hourly rate and rough monthly costs, if you want [[Finance]] set up. Optional, it works blank.
 - [x] **Obsidian plugins:** Git and Dataview installed (Dataview with "Enable JavaScript queries" on). See [[Setting up on a device]].
 
 ## Things to ask Claude
