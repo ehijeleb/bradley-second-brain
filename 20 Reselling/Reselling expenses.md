@@ -1,0 +1,9 @@
+---
+type: tracker
+area: reselling
+---
+# Reselling expenses
+
+Costs that aren't stock items: packaging, postage you paid up front, listing upgrades, travel to collect. One line each, starting with the date. Format: [[Reselling]].
+
+## Expenses

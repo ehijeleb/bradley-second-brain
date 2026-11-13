@@ -1,0 +1,100 @@
+filters:
+  not:
+    - file.inFolder("Templates")
+    - file.inFolder("90 Archive")
+properties:
+  file.name:
+    displayName: Note
+  file.folder:
+    displayName: Folder
+  file.mtime:
+    displayName: Edited
+views:
+  - type: table
+    name: Live applications
+    filters:
+      and:
+        - type == "application"
+        - status != "done"
+    order:
+      - app_id
+      - company
+      - role
+      - stage
+      - next_step
+      - deadline
+    sort:
+      - property: deadline
+        direction: ASC
+  - type: table
+    name: Overdue
+    filters:
+      and:
+        - deadline < today()
+        - status != "done"
+    order:
+      - file.name
+      - deadline
+      - status
+      - area
+    sort:
+      - property: deadline
+        direction: ASC
+  - type: table
+    name: Upcoming deadlines
+    filters:
+      and:
+        - deadline >= today()
+        - status != "done"
+    order:
+      - file.name
+      - deadline
+      - status
+      - area
+    sort:
+      - property: deadline
+        direction: ASC
+    limit: 15
+  - type: table
+    name: Active projects
+    filters:
+      and:
+        - type == "project"
+        - status == "active"
+    groupBy:
+      property: area
+      direction: ASC
+    order:
+      - file.name
+      - deadline
+      - file.mtime
+  - type: table
+    name: Waiting on others
+    filters:
+      and:
+        - status == "waiting"
+    order:
+      - file.name
+      - waiting_on
+      - file.mtime
+  - type: table
+    name: Inbox
+    filters:
+      and:
+        - file.inFolder("00 Inbox")
+    order:
+      - file.name
+      - file.mtime
+  - type: table
+    name: Recently edited
+    filters:
+      and:
+        - file.mtime > now() - "7d"
+    order:
+      - file.name
+      - file.folder
+      - file.mtime
+    sort:
+      - property: file.mtime
+        direction: DESC
+    limit: 15

@@ -1,0 +1,12 @@
+# Obsidian's per-device layout files
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.trash/
+.DS_Store
+
+# Never commit secrets
+.env
+.env.*
+*.pem
+*.key
+secrets/
