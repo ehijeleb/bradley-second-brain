@@ -12,7 +12,7 @@ fit_score: 7
 stage: Online test
 cv_version: 
 cover_letter: 
-next_step: Play the Equalture neuroscientific games (30 to 40 mins), within 4 days of the Equalture email. Not confirmed whether done.
+next_step: Play the Equalture neuroscientific games (30 to 40 mins), within 4 days of the Equalture email. Not done as of 13-11-2026.
 deadline: 2026-11-14
 status: active
 ---
