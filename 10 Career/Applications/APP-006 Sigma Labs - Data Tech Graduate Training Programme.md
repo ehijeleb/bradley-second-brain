@@ -37,5 +37,6 @@ status: active
 - 13-11-2026: logged. Bradley confirmed he applied.
 - 10-11-2026: Equalture invite arrived (09:30).
 - 13-11-2026: stage set to Online test (Equalture games), deadline 14-11-2026.
+- 13-11-2026: Equalture reminder (11:32), games not yet started ([[2026-11-13 Equalture - Reminder to complete Sigma Labs assessment]]).
 
 Back to [[Job Hunt]]
