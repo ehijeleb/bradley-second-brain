@@ -26,7 +26,7 @@ Planned around the [[Bershka]] rota. Rest on 9-hour 10:00-19:00 shifts and on Sa
 | Fri 20-11-2026 | Upper | 09:30-10:30 (shift 12:30) |
 | Sun 22-11-2026 | Lower | 11:00-12:00 |
 
-Not in Google Calendar yet. The calendar connected to Claude isn't Bradley's.
+Sent to Bradley as `Gym plan.ics` to import into Google Calendar on 13-11-2026.
 
 ## Log
 - 
