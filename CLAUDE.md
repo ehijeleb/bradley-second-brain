@@ -17,7 +17,7 @@ For anything to do with the job hunt (assessing adverts, suggesting companies, r
 - Work only inside this folder, unless Bradley gives you a file to import or asks you to look somewhere else.
 - Keep what you learn about Bradley in this vault (here or in About me), not in Claude's memory.
 - Don't change anything global: no edits to `~/.claude` settings, global git config or other projects.
-- On Bradley's computer, Obsidian Git does the syncing. If he asks you to commit, use this vault's own git identity (`git config` here, never `--global`), and leave pushing to him or to Obsidian Git.
+- On Bradley's computer, Obsidian Git also syncs. Whenever you finish a set of changes, commit them with this vault's own git identity (`git config` here, never `--global`) and push to `origin main` straight away, so they reach his iPhone (Bradley asked for this on 13-11-2026). Pull first if the push is rejected. Never force-push.
 - In a cloud session working on a clone of the repository, pull first, then commit and push your changes to `main` at the end so they reach his devices.
 - Don't use email, calendar, drive or GitHub connectors unless Bradley says the account is theirs and asks you to.
 
