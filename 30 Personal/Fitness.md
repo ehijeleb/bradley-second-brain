@@ -28,9 +28,15 @@ Planned around the [[Bershka]] rota. Rest on 9-hour 10:00-19:00 shifts and on Sa
 
 Sent to Bradley as `Gym plan.ics` to import into Google Calendar on 13-11-2026.
 
+## Membership
+- Plan: PureGym Hornchurch Core (24 hour), £34.99 a month + £15 joining fee. Buying on Black Friday, 27-11-2026, to catch any offer. Reminder sent as `PureGym Black Friday reminder.ics`.
+- Fallbacks at checkout: PureGym UK national landing page (£0 joining fee + 5% off Core), then codes ZEROJF, SAVEHALF. All unverified on 13-11-2026.
+- Not eligible: UNiDAYS student plans (graduated 2026).
+
 ## Log
 - 
 
 ## Status log
 - 13-11-2026: hub created
 - 13-11-2026: routine added; gym plan for 13-11-2026 to 22-11-2026 and Pilates 14-11-2026 added.
+- 13-11-2026: PureGym membership plan added; buying on Black Friday 27-11-2026.
