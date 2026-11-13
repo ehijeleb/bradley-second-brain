@@ -10,8 +10,8 @@ status: active
 
 | Name | Company / agency | Role | How we met | Last contact | Next step |
 | --- | --- | --- | --- | --- | --- |
-| Lauren Jones | Datatech (recruitment agency) | Consultant | Recruiter screening call for [[APP-001 ION Asset Architecture - Trading Operations Assistant]] | November 2026, exact date not known | Send full job description |
-| Olivia Ross | Datatech (recruitment agency) | Consultant | Same role, [[APP-001 ION Asset Architecture - Trading Operations Assistant]]; Bradley said he's very interested | November 2026, exact date not known | Not known |
+| Lauren Jones | Datatech Analytics (recruitment agency) | Consultant. Email Lauren.Jones@datatech.org.uk, works 08:30 to 14:00 | Confirmed receiving the application for [[APP-001 ION Asset Architecture - Trading Operations Assistant]] on 04-11-2026 | 09-11-2026 (missed call, rescheduled) | None for now; Olivia is handling the CV |
+| Olivia Ross | Datatech Analytics (recruitment agency) | Consultant. Works 09:00 to 16:00 (phone in the old project) | Screening call for [[APP-001 ION Asset Architecture - Trading Operations Assistant]], 11-11-2026 | 13-11-2026 (CV-v7 sent) | Wait for her to put Bradley forward to ION |
 | Lauren Whitfield | GRB | Recruiter | Feedback on [[Money Buys Points]] for the Data School application | 24-09-2026 or later, exact date not known | Application submitted ([[APP-002 The Data School - Data School]]); next start date unsure |
 
 ## Notes
@@ -19,5 +19,6 @@ status: active
 
 ## Status log
 - 13-11-2026: hub created
+- 13-11-2026: updated Lauren Jones and Olivia Ross with details from the old job-hunt project.
 - 13-11-2026: added Lauren Whitfield (GRB) from the Tableau Claude project.
 - 13-11-2026: added Lauren Jones and Olivia Ross (Datatech) from the old Claude job-hunt project. Both handle the same role (APP-001), confirmed by Bradley.

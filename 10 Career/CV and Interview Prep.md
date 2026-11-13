@@ -13,10 +13,21 @@ status: active
 Name each version so applications can record which one was used (`cv_version` on the application).
 | Version | Date | Aimed at | File or note |
 | --- | --- | --- | --- |
-| CV-v1 | imported 13-11-2026 | general (data science, statistics, quant) | [[CV-v1]] (original: "Bradley CV.pdf") |
+| CV-v1 | before 29-10-2026 | general (data science, statistics, quant) | [[CV-v1]] ("Bradley CV.pdf") |
+| CV-v2 | 29-10-2026 | Junior Data Scientist, ATS-friendly (Betway) | [[CV-v2]] (Bradley_Duke_CV.docx) |
+| CV-v3 | 01-11-2026 | WTW data science, insurance | [[CV-v3]] (Bradley_Duke_CV_WTW.docx) |
+| CV-v4 | 01-11-2026 | master data CV with Tableau dashboard | [[CV-v4]] (Bradley_Duke_CV.docx) |
+| CV-v5 | 01-11-2026 | trading operations | [[CV-v5]] (Bradley_Duke_CV_Trading_Ops.pdf) |
+| CV-v6 | 09-11-2026 | Sigma Labs graduate programme | [[CV-v6]] (Bradley Duke.pdf) |
+| CV-v7 | 12-11-2026 | ION / Datatech, Olivia's format | [[CV-v7]] (Bradley Duke CV.pdf) |
+
+> [!warning] Accuracy checks (from the old project, 13-11-2026)
+> - **Module grades:** the transcript shows Mathematical Enterprise as a 2:1 (93% was an individual mark) and Differential Equations and Modelling as a 2:2 overall (75% was one exam). Medical Statistics isn't on the transcript. Affects CV-v1, v2, v3, v4, v5 and v6. CV-v7's grades appear to match the transcript.
+> - **Dissertation data:** CV-v1, v6 and v7 say three seasons; CV-v2, v3 and v4 say five. Confirm which is right and use it everywhere.
 
 ## Cover letters
-- 
+- WTW, 01-11-2026: in [[APP-004 WTW - Data Scientist Graduate Programme]]. Not known whether attached.
+- Datatech application message, drafted 01-11-2026: in [[APP-001 ION Asset Architecture - Trading Operations Assistant]].
 
 ## Evidence bank
 Real examples to draw on for CVs and STAR answers. Only what actually happened, with figures where Bradley has them.
@@ -42,4 +53,5 @@ Real examples to draw on for CVs and STAR answers. Only what actually happened, 
 ## Status log
 - 13-11-2026: hub created
 - 13-11-2026: portfolio CV bullets added to the evidence bank.
+- 13-11-2026: CV-v2 to CV-v7 and two cover letters imported. Accuracy checks added.
 - 13-11-2026: CV-v1 imported from the old Claude job-hunt project. Module marks wording needs checking (see [[CV-v1]]).
