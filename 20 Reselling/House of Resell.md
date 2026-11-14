@@ -19,7 +19,7 @@ One dated entry per batch: what was pinged, what's worth acting on (with buy pri
 ### 14-11-2026
 - **Slipknot, (sic)est Stadium Tour, Wembley Stadium** (#hor-articles, missed flip, Ticket Hub). Face value £70, predicted resale £105 (1.5x), profit £35, ROI 50%. HOR rated it 5/5 risk. Source: [article](https://houseofresell.com/missed-flips/slipknot-sicest-stadium-tour) (not opened: the site is blocked in Claude's cloud sessions, so this is from the Discord post only).
 - **Act on:** nothing. It's a missed flip, so the sale has already gone.
-- **Takeaway:** a 50% ROI on paper at the highest risk rating. Resale fees and the risk of tickets not selling or being cancelled would eat most of the £35, so this is one to watch rather than chase.
+- **Takeaway:** a 50% ROI on paper at the highest risk rating. Resale fees and the risk of tickets not selling or being cancelled could eat into the £35, so this is one to watch rather than chase.
 
 ## What works for me
 Lessons from the group and from past sales: which categories, sizes and platforms make money.
