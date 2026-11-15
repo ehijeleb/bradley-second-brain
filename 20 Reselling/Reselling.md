@@ -45,6 +45,7 @@ Reselling money also counts as income: when profit is taken out, log it in that 
 ## Next actions
 - [x] Log the first purchase in [[Stock]] when it happens
 - [ ] Note which platforms I have accounts on
+- [ ] Sherpa jacket: if unsold by 10-12-2026, take down the eBay listing and return it to the Taylor Swift UK Store. Last day 15-12-2026 (30 days from purchase, counted from the buy date to be safe). Calendar reminders sent.
 
 ## Notes
 - 13-11-2026: no stock yet. Previous experience reselling shoes, about 2021 to 2023.
