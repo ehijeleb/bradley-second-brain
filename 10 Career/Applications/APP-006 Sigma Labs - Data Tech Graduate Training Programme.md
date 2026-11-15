@@ -42,5 +42,6 @@ status: active
 - 13-11-2026: Equalture reminder (11:32), games not yet started ([[2026-11-13 Equalture - Reminder to complete Sigma Labs assessment]]).
 - 13-11-2026: Equalture games completed, within Sigma's 4-day window.
 - 15-11-2026: GRB advert email saved. Chase email to Jamie Bird drafted, to send on or after 18-11-2026 if no results by then.
+- 15-11-2026: messaged Holly Dowd (GRB) on LinkedIn for advice on the later stages (see [[Contacts and Recruiters]]).
 
 Back to [[Job Hunt]]
