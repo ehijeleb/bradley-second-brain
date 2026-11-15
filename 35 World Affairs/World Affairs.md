@@ -24,10 +24,12 @@ status: active
 - Where a story links to Bradley's job hunt (markets, sport, betting regulation, data and AI), say so in a line.
 
 ## Following
-- 
+- **US politics** (main focus): the White House, Congress, the courts, elections and big policy fights.
+- **Israel and Palestine** (main focus): the war in Gaza, the West Bank, ceasefire and hostage talks, and the wider region.
 
 ## Questions
 - 
 
 ## Status log
 - 15-11-2026: hub created
+- 15-11-2026: Following set to US politics and Israel and Palestine
