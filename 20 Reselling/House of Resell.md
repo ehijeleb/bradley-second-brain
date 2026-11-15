@@ -37,6 +37,13 @@ Figures are HOR's, not checked independently.
 - **Also mentioned:** CoD MW4 EE codes (#no-talking-new-flips-only; EE pay-monthly only, Bradley isn't on EE so skip), MTG x Warhammer deck reprint, Request Invites 1, 2 and 3 in #active-flips, Pokémon Center newsletter (#flip-news-releases).
 - **Missed (13-11-2026):** Topps F1 Sapphire (£1,100), Topps Royalty Tennis and UFC raffles, GameOn 30th ETB (£49.99, needed a 7-day-old account with a £10 order).
 
+### Zelda 40th Anniversary Switch 2 (searched 15-11-2026)
+HOR call it the "30th"; the shops list it as the Legend of Zelda 40th Anniversary Edition. Resale £530 to £550 (console), controller £80 retail to £120.
+- **Console, most recent pings:** #argos-online 14-11-2026 19:07 (pre-order restocks, 21 pings since 25-10), #game-online 14-11-2026 16:13 (5 in stock), #argos-instore 14-11-2026 15:06, #very-online 12-11-2026 06:14, #currys-online 06-11-2026 06:30 (£434 earlier in October).
+- **The Game Collection bundles** (console plus games, case, SD card) in #unfiltered-shopify-uk-eu: £499.95 to £629.95, last 15-11-2026 15:21. Bundles cost more, so check the margin.
+- **Pro Controller:** #unfiltered-shopify-uk-eu (The Game Collection £89.95, last 15-11-2026 16:21), #argos-online 14-11-2026, #smythstoys-online (24 pings, last 02-11-2026).
+- Argos is the most frequent: turn on #argos-online, #game-online and #very-online for this one.
+
 ## Channels worth notifications
 #online-flips (main posts and the daily "Tomorrow" list), #active-flips, #no-talking-new-flips-only, #flip-news-releases, #pokemon-center-online, #argos-online, #asda-online, #john-lewis-online, #ps-direct-uk-online, #smythstoys-instore, #uk-taylor-swift-scraper, and in TCG Hub the Topps UK Scraper and Pokémon AIO Scraper.
 
@@ -51,3 +58,4 @@ Back to [[Reselling]]
 - 14-11-2026: digest added (Slipknot Wembley missed flip).
 - 15-11-2026: Taylor Swift sherpa jacket ping, bought.
 - 15-11-2026: #online-flips read through, digest and channel list added.
+- 15-11-2026: Zelda console ping history added.
