@@ -68,7 +68,8 @@ views:
 - [[APP-002 The Data School - Data School]]: outcome of the application.
 - [[APP-001 ION Asset Architecture - Trading Operations Assistant]]: ION's feedback (Olivia Ross sent the application on 13-11-2026).
 - [[APP-005 GHD - Graduate Data Consultant]]: outcome (eligibility risk: wants 2027 graduates).
-- [[APP-006 Sigma Labs - Data Tech Graduate Training Programme]]: Equalture results (games completed 13-11-2026), then Sigma's decision.
+- [[APP-006 Sigma Labs - Data Tech Graduate Training Programme]]: Sigma's decision (Equalture results in 15-11-2026). Chase Jamie Bird 18-11-2026 if nothing.
+- [[APP-007 G MASS - Graduate Underwriting Assistant Consultant]]: response to the application (applied 15-11-2026).
 - [[APP-003 Betway - Junior Data Scientist]]: response, or none by 13-11-2026.
 - [[APP-004 WTW - Data Scientist Graduate Programme]]: online test invite if progressing. Likely screened out on A-level grades.
 
@@ -93,6 +94,8 @@ views:
 
 - 13-11-2026: APP-006 Sigma Labs Equalture games completed. Waiting on results.
 - 15-11-2026: APP-006 Sigma Labs: saved the GRB advert email (Graduate Technical Consultant, £30,000, cohort 08-02-2027). Chase to Jamie Bird drafted for 18-11-2026.
+- 15-11-2026: logged APP-007 G MASS, Graduate Underwriting Assistant Consultant (applied 15-11-2026, fit 6/10, CV-v8 and cover letter).
+- 15-11-2026: APP-006 Sigma Labs Equalture results in (problem solving High, learning ability Average). Waiting on Sigma's decision.
 ---
 
 ## Rules for Claude

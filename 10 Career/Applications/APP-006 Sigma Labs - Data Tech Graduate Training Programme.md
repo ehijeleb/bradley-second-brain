@@ -12,9 +12,9 @@ fit_score: 7
 stage: Online test
 cv_version: 
 cover_letter: 
-next_step: Wait for Equalture results by email, then Sigma Labs' decision on the next stage.
+next_step: Wait for Sigma Labs' decision. If nothing by 18-11-2026, email Jamie Bird asking about the next stage.
 deadline: 2026-11-18
-waiting_on: Equalture results and Sigma Labs' decision
+waiting_on: Sigma Labs' decision on the next stage
 status: active
 ---
 # APP-006 Sigma Labs - Data Tech Graduate Training Programme
@@ -33,6 +33,16 @@ status: active
 - Found via a GRB mailshot on 04-11-2026 ([[2026-11-04 GRB - Graduate Technical Consultant - Fully Funded Training]]). Job title: Graduate Technical Consultant. 15-week full-time funded training, then employed by Sigma and placed with a UK client for two years. Starts on £30,000, rising in year two. Cohort starts 08-02-2027.
 - Missing: date applied (between 04 and 10-11-2026), location, exact closing date.
 
+## Equalture results (seen 15-11-2026)
+Personal scores page (link in Bradley's email, not copied here). No pass or fail shown; Sigma decides.
+- Learning ability / working memory: Average
+- Cognitive flexibility: Neutral
+- Problem solving ability: High
+- Problem solving style: Very intuitive (prefers trial and error over systematic analysis)
+- Feedback handling: Exceptional
+- Information sharing: Satisfactory
+- Ownership: Exceptional
+
 ## Log
 - 09-11-2026: CV-v6 and coding answer prepared.
 - 10-11-2026: Jamie Bird emailed: through to the next stage, Equalture games.
@@ -42,6 +52,7 @@ status: active
 - 13-11-2026: Equalture reminder (11:32), games not yet started ([[2026-11-13 Equalture - Reminder to complete Sigma Labs assessment]]).
 - 13-11-2026: Equalture games completed, within Sigma's 4-day window.
 - 15-11-2026: GRB advert email saved. Chase email to Jamie Bird drafted, to send on or after 18-11-2026 if no results by then.
+- 15-11-2026: Equalture results received (see above). Waiting on Sigma's decision.
 - 15-11-2026: messaged Holly Dowd (GRB) on LinkedIn for advice on the later stages (see [[Contacts and Recruiters]]).
 
 Back to [[Job Hunt]]
