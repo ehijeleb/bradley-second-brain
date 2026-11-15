@@ -9,7 +9,7 @@ Each area of the brain has its own chat in Claude Code, filed under **Bradley's 
 | --- | --- | --- |
 | **Career** | Job adverts, applications, follow-ups, CVs, cover letters, interview prep, recruiters | [[Job Hunt]], [[CV and Interview Prep]], [[Contacts and Recruiters]] |
 | **Learning and Portfolio** | Courses, skills, portfolio projects, Tableau and Power BI work | [[Skills Roadmap]], [[Portfolio Projects]] |
-| **Reselling** | Buying, listing and selling, stock, expenses, profit | [[Reselling]], [[Stock]], [[Reselling expenses]], [[House of Resell]] |
+| **Reselling** | Buying, listing and selling, stock, expenses, profit. Also tracks personal finances: spending, income, budget (added 15-11-2026) | [[Reselling]], [[Stock]], [[Reselling expenses]], [[House of Resell]], [[Finance]] |
 | **Bershka and Money** | Shifts and rota, pay and payslips, budget, bills, tax | [[Bershka]], [[Finance]] |
 | **Personal** | Gym and fitness, admin, calendar `.ics` files, emails in `00 Inbox` | [[Fitness]], [[Admin]] |
 | **World Affairs** | News briefings, world politics, explainers, questions about what's going on | [[World Affairs]] |
