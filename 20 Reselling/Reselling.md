@@ -50,6 +50,8 @@ Reselling money also counts as income: when profit is taken out, log it in that 
 - [ ] **16-11-2026 13:00:** Topps Premier League Gold Hobby Box drop (optional, £180, resale about £220). See [[House of Resell]].
 - [x] House of Resell setup done 15-11-2026: Request Invites 1, 2 and 3, channel notifications, shop accounts (Topps, Argos, Asda, GAME, Very, Pokémon Center UK).
 - [ ] **16-11-2026 morning:** set up Currys and Sony PlayStation Direct accounts with payment saved. Check the Pokémon Center UK newsletter is on.
+- [ ] **17-11-2026:** last day to collect the LEGO X-Mansion from Smyths Thurrock (held 2 days from order).
+- [ ] LEGO X-Mansion: if unsold by 08-12-2026, return it unopened to a Smyths store with the receipt and the NatWest card. Last day 13-12-2026 (28 days from purchase, the safe reading of Smyths' policy). Keep it sealed. Calendar reminders sent.
 - [ ] Sherpa jacket: if unsold by 10-12-2026, take down the eBay listing and return it to the Taylor Swift UK Store. Last day 15-12-2026 (30 days from purchase, counted from the buy date to be safe). Calendar reminders sent.
 
 ## Notes
