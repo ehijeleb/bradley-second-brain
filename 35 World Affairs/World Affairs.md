@@ -33,3 +33,4 @@ status: active
 ## Status log
 - 15-11-2026: hub created
 - 15-11-2026: Following set to US politics and Israel and Palestine
+- 15-11-2026: explainer written: [[Israel and Palestine]]
