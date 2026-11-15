@@ -67,4 +67,5 @@ dv.view("20 Reselling/_scripts/reselling", { view: "check" })
 - 13-11-2026: joined [[House of Resell]]. Starting from zero stock.
 - 15-11-2026: first buy, Taylor Swift Take Me to the Lakes sherpa jacket (3XL) for £115 from the UK store, off a House of Resell monitor ping.
 - 15-11-2026: sherpa jacket listed on eBay at £217.95.
+- 15-11-2026: LEGO X-Mansion 76294 bought for £289.99 from Smyths Wigan (#smythstoys-instore ping), for collection. Listed at £310.
 - 15-11-2026: entered the Riftbound raffle (both bundles), winner emails 17-11-2026. Request Invites 1 done.
