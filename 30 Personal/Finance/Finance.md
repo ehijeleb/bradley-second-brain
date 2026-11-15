@@ -45,6 +45,7 @@ Edit these and every month updates. Keep the `[key:: value]` parts as they are; 
 Give an account a `pct` to split your wages between accounts; the percentages must add up to 100. Accounts without a `pct` are just places money is paid from.
 - [account:: NatWest current] [pct:: 100]
 - [account:: NatWest credit card] used for petrol and fast food to build credit history, paid off from NatWest current
+- [account:: HSBC] may become the reselling account once buying picks up (15-11-2026)
 - [account:: Moneybox LISA] savings only: £50 a week goes in automatically (a transfer, so not logged as spending)
 
 ### Categories and monthly budgets
@@ -68,6 +69,7 @@ A budget of 0 means no monthly budget yet (or one-off costs).
 - Monthly: rent to parents £150 (day not recorded).
 - Monthly: phone £39 (day not recorded).
 - Monthly: gym, rising to £50 (cancelling; find a new membership).
+- Reselling stock is paid from NatWest current for now (sherpa jacket £120, 15-11-2026) and logged in [[Stock]], not here. May move to HSBC or the Amex later.
 - Monthly from 13-11-2026: [[House of Resell]] £35. Logged in [[Reselling expenses]], so not logged here too.
 - Monthly: credit card spending about £250 (petrol and fast food). Log each purchase with `[from:: NatWest credit card]`; paying the card off is a transfer, don't log it.
 

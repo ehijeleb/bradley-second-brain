@@ -28,6 +28,7 @@ dv.view("20 Reselling/_scripts/reselling", { view: "stock" })
 - Nike Air Max 90, size 9 [bought:: 02-11-2026] [cost:: 25.00] [from:: Vinted] [state:: listed]
 ```
 `state` is `in stock`, `listed`, `sold` or `kept` (kept items drop out of stock and profit).
+Optional `[paid:: NatWest current]` records which account or card paid for it.
 
 **Sold it**, add to the same line:
 ```
@@ -49,6 +50,7 @@ Reselling money also counts as income: when profit is taken out, log it in that 
 
 ## Notes
 - 13-11-2026: no stock yet. Previous experience reselling shoes, about 2021 to 2023.
+- 15-11-2026: reselling is paid from NatWest current for now. Once buying picks up, plan to move reselling to HSBC or the Amex, depending on the size of the purchase.
 - 15-11-2026: sherpa jacket cost is £115 plus £5 delivery. Listed on eBay at £217.95, the cheapest price these jackets were going for.
 
 ## Check these lines
