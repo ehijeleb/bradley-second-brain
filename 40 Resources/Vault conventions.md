@@ -13,6 +13,7 @@ type: reference
 | `20 Reselling` | [[Reselling]], [[Stock]], [[Reselling expenses]]. |
 | `25 Bershka` | [[Bershka]]: shifts and work notes. |
 | `30 Personal` | Finance (the [[Finance]] hub and one note per month), health, trips, admin. |
+| `35 World Affairs` | [[World Affairs]]: news briefings in `Briefings/`, topic explainers in `Explainers/`. |
 | `40 Resources` | Reference material not tied to one area. |
 | `90 Archive` | Finished or dropped things. Move, don't delete. |
 | `Templates` | Insert with Ctrl/Cmd+P, "Templates: Insert template". |
@@ -26,7 +27,7 @@ Hubs, modules, assessments and projects have these at the top. They feed [[Home]
 | Property | Values |
 | --- | --- |
 | `type` | `project`, `area`, `application`, `tracker`, `meeting`, `daily`, `finance`, `reference`, `dashboard` |
-| `area` | `career`, `learning`, `reselling`, `work`, `personal` |
+| `area` | `career`, `learning`, `reselling`, `work`, `personal`, `world` |
 | `stage` | applications only: Applied, Interview, Rejected, Offer, Withdrawn (or a specific step) |
 | `status` | `active`, `waiting`, `paused`, `done` |
 | `deadline` | `YYYY-MM-DD` (blank if none) |
@@ -34,7 +35,7 @@ Hubs, modules, assessments and projects have these at the top. They feed [[Home]
 | `repo` | GitHub URL, for code projects |
 
 ## Routine
-- **Daily (2 min):** open today's note, write the top 3, dump thoughts into Captured.
+- **Daily (2 min):** at 8am Claude writes the day's plan into today's note (see [[Which chat for what]]). Check it, adjust the top 3, dump thoughts into Captured.
 - **Evening (5 min):** move anything in Captured or `00 Inbox` into its hub. Tick tasks.
 - **Weekly (15 min):** go through [[Home]]. Update `status` and `deadline` on anything stale, archive finished things, add next week's deadlines.
 

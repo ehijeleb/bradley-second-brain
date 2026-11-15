@@ -21,6 +21,11 @@ For anything to do with the job hunt (assessing adverts, suggesting companies, r
 - In a cloud session working on a clone of the repository, pull first, then commit and push your changes to `main` at the end so they reach his devices.
 - Don't use email, calendar, drive or GitHub connectors unless Bradley says the account is theirs and asks you to.
 
+## Chats and daily plan
+- Each area has its own Claude Code chat (Career, Learning and Portfolio, Reselling, Bershka and Money, Personal, World Affairs). The map is `40 Resources/Which chat for what.md`. Several chats share this folder, so pull before editing.
+- World affairs: follow "Rules for Claude" in `35 World Affairs/World Affairs.md` (check the web, cite sources, neutral).
+- A scheduled task ("Daily plan", 8am) writes the day's plan into `01 Daily/YYYY-MM-DD.md` from the vault's own dates (Bershka shifts, Fitness plan, deadlines, next actions), never from a calendar connector.
+
 ## Calendar
 - The Google Calendar connected in cloud sessions (benedict.ibha) is not Bradley's. Never read or write it.
 - Whenever Bradley asks to add something to his calendar, send him an `.ics` file instead (Bradley asked for this on 13-11-2026). Put it in the scratchpad, not the vault, and send it as a file.

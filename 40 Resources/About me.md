@@ -21,6 +21,7 @@ _Written with Claude during setup on 13-11-2026. Edit freely: Claude reads this 
 - **Reselling:** [[Reselling]], [[Stock]], [[Reselling expenses]]
 - **Work:** [[Bershka]]
 - **Personal:** [[Finance]], [[Fitness]], [[Admin]]
+- **World affairs:** [[World Affairs]] (learning about world politics and the news, added 15-11-2026)
 
 ## How I like notes and answers
 - Short, direct and plain. Bullet points over paragraphs.
