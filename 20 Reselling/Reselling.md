@@ -43,7 +43,7 @@ dv.view("20 Reselling/_scripts/reselling", { view: "stock" })
 Reselling money also counts as income: when profit is taken out, log it in that month's budget under [[Finance]] as `[income:: Reselling]`.
 
 ## Next actions
-- [ ] Log the first purchase in [[Stock]] when it happens
+- [x] Log the first purchase in [[Stock]] when it happens
 - [ ] Note which platforms I have accounts on
 
 ## Notes
@@ -57,3 +57,4 @@ dv.view("20 Reselling/_scripts/reselling", { view: "check" })
 ## Status log
 - 13-11-2026: hub created
 - 13-11-2026: joined [[House of Resell]]. Starting from zero stock.
+- 15-11-2026: first buy, Taylor Swift Take Me to the Lakes sherpa jacket (3XL) for £115 from the UK store, off a House of Resell monitor ping.

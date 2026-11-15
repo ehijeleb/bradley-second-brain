@@ -21,6 +21,10 @@ One dated entry per batch: what was pinged, what's worth acting on (with buy pri
 - **Act on:** nothing. It's a missed flip, so the sale has already gone.
 - **Takeaway:** a 50% ROI on paper at the highest risk rating. Resale fees and the risk of tickets not selling or being cancelled could eat into the £35, so this is one to watch rather than chase.
 
+### 15-11-2026
+- **Taylor Swift, Take Me to the Lakes Fleece Sherpa Zip-Up Jacket** (Zephyr Shopify monitor, storeuk.taylorswift.com, 14:55). £115, 3XL in stock.
+- **Acted on:** Bradley bought one in 3XL. Logged in [[Stock]].
+
 ## What works for me
 Lessons from the group and from past sales: which categories, sizes and platforms make money.
 - Tickets: check HOR's risk rating, not just ROI. A 5/5 risk flip (Slipknot, 14-11-2026) only showed £35 profit on a £70 ticket before fees.
@@ -30,3 +34,4 @@ Lessons from the group and from past sales: which categories, sizes and platform
 
 Back to [[Reselling]]
 - 14-11-2026: digest added (Slipknot Wembley missed flip).
+- 15-11-2026: Taylor Swift sherpa jacket ping, bought.
