@@ -34,7 +34,7 @@ Figures are HOR's, not checked independently.
 - **PS5 Pro:** £790, resale about £950. 1 per account. Channels: #ps-direct-uk-online (restocking daily), #smythstoys-instore. Big outlay for the margin.
 - **Zelda 30th Anniversary console:** resale £530 to £550 (retail not given). Controller £80, resale £120. Restocks, no time.
 - **MTG Nauctis Collector Booster Display:** Amazon UK pre-order, paid on dispatch 05-02-2027, full post to come.
-- **Also mentioned:** CoD MW4 EE codes (#no-talking-new-flips-only), MTG x Warhammer deck reprint, Request Invites 1, 2 and 3 in #active-flips, Pokémon Center newsletter (#flip-news-releases).
+- **Also mentioned:** CoD MW4 EE codes (#no-talking-new-flips-only; EE pay-monthly only, Bradley isn't on EE so skip), MTG x Warhammer deck reprint, Request Invites 1, 2 and 3 in #active-flips, Pokémon Center newsletter (#flip-news-releases).
 - **Missed (13-11-2026):** Topps F1 Sapphire (£1,100), Topps Royalty Tennis and UFC raffles, GameOn 30th ETB (£49.99, needed a 7-day-old account with a £10 order).
 
 ## Channels worth notifications
