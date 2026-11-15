@@ -46,9 +46,9 @@ Reselling money also counts as income: when profit is taken out, log it in that 
 ## Next actions
 - [x] Log the first purchase in [[Stock]] when it happens
 - [ ] Note which platforms I have accounts on
-- [ ] Enter the Riftbound raffle (both bundles) by 16-11-2026 5pm. Register at playriftbound.com first. See [[House of Resell]].
+- [x] Enter the Riftbound raffle (both bundles) by 16-11-2026 5pm. Done 15-11-2026. Register at playriftbound.com first. See [[House of Resell]].
 - [ ] **16-11-2026 13:00:** Topps Premier League Gold Hobby Box drop (optional, £180, resale about £220). See [[House of Resell]].
-- [ ] House of Resell setup: request Invites 1, 2 and 3 in #active-flips, Pokémon Center newsletter, channel notifications, shop accounts with payment saved. See [[2026-11-16]].
+- [ ] House of Resell setup (Invites 1 done 15-11-2026; Invites 2 and 3 to do): request Invites 1, 2 and 3 in #active-flips, Pokémon Center newsletter, channel notifications, shop accounts with payment saved. See [[2026-11-16]].
 - [ ] Sherpa jacket: if unsold by 10-12-2026, take down the eBay listing and return it to the Taylor Swift UK Store. Last day 15-12-2026 (30 days from purchase, counted from the buy date to be safe). Calendar reminders sent.
 
 ## Notes
@@ -66,3 +66,4 @@ dv.view("20 Reselling/_scripts/reselling", { view: "check" })
 - 13-11-2026: joined [[House of Resell]]. Starting from zero stock.
 - 15-11-2026: first buy, Taylor Swift Take Me to the Lakes sherpa jacket (3XL) for £115 from the UK store, off a House of Resell monitor ping.
 - 15-11-2026: sherpa jacket listed on eBay at £217.95.
+- 15-11-2026: entered the Riftbound raffle (both bundles), winner emails 17-11-2026. Request Invites 1 done.
