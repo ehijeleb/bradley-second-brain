@@ -47,6 +47,8 @@ Reselling money also counts as income: when profit is taken out, log it in that 
 - [x] Log the first purchase in [[Stock]] when it happens
 - [ ] Note which platforms I have accounts on
 - [ ] Enter the Riftbound raffle (both bundles) by 16-11-2026 5pm. Register at playriftbound.com first. See [[House of Resell]].
+- [ ] **16-11-2026 13:00:** Topps Premier League Gold Hobby Box drop (optional, £180, resale about £220). See [[House of Resell]].
+- [ ] House of Resell setup: request Invites 1, 2 and 3 in #active-flips, Pokémon Center newsletter, channel notifications, shop accounts with payment saved. See [[2026-11-16]].
 - [ ] Sherpa jacket: if unsold by 10-12-2026, take down the eBay listing and return it to the Taylor Swift UK Store. Last day 15-12-2026 (30 days from purchase, counted from the buy date to be safe). Calendar reminders sent.
 
 ## Notes
