@@ -92,6 +92,7 @@ views:
 - 13-11-2026: APP-006 Sigma Labs moved to stage Online test (Equalture games, invited 10-11-2026, due 14-11-2026).
 
 - 13-11-2026: APP-006 Sigma Labs Equalture games completed. Waiting on results.
+- 15-11-2026: APP-006 Sigma Labs: saved the GRB advert email (Graduate Technical Consultant, £30,000, cohort 08-02-2027). Chase to Jamie Bird drafted for 18-11-2026.
 ---
 
 ## Rules for Claude
