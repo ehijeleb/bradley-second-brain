@@ -20,6 +20,7 @@ Name each version so applications can record which one was used (`cv_version` on
 | CV-v5 | 01-11-2026 | trading operations | [[CV-v5]] (Bradley_Duke_CV_Trading_Ops.pdf) |
 | CV-v6 | 09-11-2026 | Sigma Labs graduate programme | [[CV-v6]] (Bradley Duke.pdf) |
 | CV-v7 | 12-11-2026 | ION / Datatech, Olivia's format | [[CV-v7]] (Bradley Duke CV.pdf) |
+| CV-v8 | 15-11-2026 | G MASS Graduate Underwriting Assistant Consultant | [[CV-v8]] (Exports/G MASS/Bradley Duke CV.pdf) |
 
 > [!warning] Accuracy checks (from the old project, 13-11-2026)
 > - **Module grades:** the transcript shows Mathematical Enterprise as a 2:1 (93% was an individual mark) and Differential Equations and Modelling as a 2:2 overall (75% was one exam). Medical Statistics isn't on the transcript. Affects CV-v1, v2, v3, v4, v5 and v6. CV-v7's grades appear to match the transcript.
@@ -27,6 +28,7 @@ Name each version so applications can record which one was used (`cv_version` on
 
 ## Cover letters
 - WTW, 01-11-2026: in [[APP-004 WTW - Data Scientist Graduate Programme]]. Not known whether attached.
+- G MASS, 15-11-2026: PDF in `10 Career/Exports/G MASS/`, see [[CV-v8]].
 - Datatech application message, drafted 01-11-2026: in [[APP-001 ION Asset Architecture - Trading Operations Assistant]].
 
 ## Evidence bank
@@ -51,6 +53,7 @@ Real examples to draw on for CVs and STAR answers. Only what actually happened, 
 - SQL, Excel and stats questions to practise: see [[Skills Roadmap]].
 
 ## Status log
+- 15-11-2026: CV-v8 and cover letter made for G MASS (PDFs in Exports/G MASS).
 - 13-11-2026: hub created
 - 13-11-2026: portfolio CV bullets added to the evidence bank.
 - 13-11-2026: Bradley confirmed the dissertation used three seasons of data.
