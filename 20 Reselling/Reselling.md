@@ -48,6 +48,7 @@ Reselling money also counts as income: when profit is taken out, log it in that 
 
 ## Notes
 - 13-11-2026: no stock yet. Previous experience reselling shoes, about 2021 to 2023.
+- 15-11-2026: sherpa jacket cost is £115 plus £5 delivery. Listed on eBay at £217.95, the cheapest price these jackets were going for.
 
 ## Check these lines
 ```dataviewjs
@@ -58,3 +59,4 @@ dv.view("20 Reselling/_scripts/reselling", { view: "check" })
 - 13-11-2026: hub created
 - 13-11-2026: joined [[House of Resell]]. Starting from zero stock.
 - 15-11-2026: first buy, Taylor Swift Take Me to the Lakes sherpa jacket (3XL) for £115 from the UK store, off a House of Resell monitor ping.
+- 15-11-2026: sherpa jacket listed on eBay at £217.95.
