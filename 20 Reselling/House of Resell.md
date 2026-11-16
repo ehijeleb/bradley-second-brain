@@ -54,7 +54,7 @@ HOR call it the "30th"; the shops list it as the Legend of Zelda 40th Anniversar
 - **Lesson:** PS Direct restocks early (from about 08:00). Have the Sony account logged in, card saved and phone notifications on before 8am.
 
 ## Channels worth notifications
-#online-flips (main posts and the daily "Tomorrow" list), #active-flips, #no-talking-new-flips-only, #flip-news-releases, #pokemon-center-online, #argos-online, #asda-online, #john-lewis-online, #ps-direct-uk-online, #smythstoys-instore, #uk-taylor-swift-scraper, and in TCG Hub the Topps UK Scraper and Pokémon AIO Scraper.
+#online-flips (main posts and the "Tomorrow" list, usually around 19:00 but not every day; none on 16-11-2026), #active-flips, #no-talking-new-flips-only, #flip-news-releases, #pokemon-center-online, #argos-online, #asda-online, #john-lewis-online, #ps-direct-uk-online, #smythstoys-instore, #uk-taylor-swift-scraper, and in TCG Hub the Topps UK Scraper and Pokémon AIO Scraper.
 
 ## What works for me
 Lessons from the group and from past sales: which categories, sizes and platforms make money.
