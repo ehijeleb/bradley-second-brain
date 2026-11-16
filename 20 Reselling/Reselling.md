@@ -61,7 +61,7 @@ Reselling money also counts as income: when profit is taken out, log it in that 
 
 ## Notes
 - 13-11-2026: no stock yet. Previous experience reselling shoes, about 2021 to 2023.
-- 15-11-2026: reselling is paid from NatWest current for now. Once buying picks up, plan to move reselling to HSBC or the Amex, depending on the size of the purchase.
+- 15-11-2026: reselling is paid from NatWest current for now. 16-11-2026: the Amex card hasn't arrived yet, so NatWest stays the reselling card until it does. Once buying picks up, plan to move reselling to HSBC or the Amex, depending on the size of the purchase.
 - 15-11-2026: sherpa jacket cost is £115 plus £5 delivery. Listed on eBay at £217.95, the cheapest price these jackets were going for.
 
 ## Check these lines
@@ -74,6 +74,6 @@ dv.view("20 Reselling/_scripts/reselling", { view: "check" })
 - 13-11-2026: joined [[House of Resell]]. Starting from zero stock.
 - 15-11-2026: first buy, Taylor Swift Take Me to the Lakes sherpa jacket (3XL) for £115 from the UK store, off a House of Resell monitor ping.
 - 15-11-2026: sherpa jacket listed on eBay at £217.95.
-- 15-11-2026: LEGO X-Mansion 76294 bought for £289.99 from Smyths (#smythstoys-instore ping), for collection at Smyths Thurrock. Paid from NatWest current. Listed on eBay at £310.
+- 15-11-2026: LEGO X-Mansion 76294 bought for £289.99 from Smyths (#smythstoys-instore ping), for collection at Smyths Thurrock. Paid from NatWest current. Both listed on eBay 16-11-2026.Listed on eBay at £310.
 - 16-11-2026: X-Mansion sold on eBay, £300 to Bradley (buyer paid the Buyer Protection fee on top, collection so no postage). Profit £10.01 once collected and handed over.
 - 15-11-2026: entered the Riftbound raffle (both bundles), winner emails 17-11-2026. Request Invites 1 done.
