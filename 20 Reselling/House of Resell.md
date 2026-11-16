@@ -44,6 +44,14 @@ HOR call it the "30th"; the shops list it as the Legend of Zelda 40th Anniversar
 - **Pro Controller:** #unfiltered-shopify-uk-eu (The Game Collection £89.95, last 15-11-2026 16:21), #argos-online 14-11-2026, #smythstoys-online (24 pings, last 02-11-2026).
 - Argos is the most frequent: turn on #argos-online, #game-online and #very-online for this one.
 
+### 16-11-2026 morning (#success, #general-chat, monitors)
+- **Missed: PS5 Pro 2TB on PlayStation Direct.** Restocks about 07:56 (three #success checkouts by 08:18) and again 09:15 to 10:15 (10 pings in #ps-direct-uk-online). £789.99, or £750.49 with the PS Plus 5% discount. Members said 1 per account, the new-account trick is patched, some orders before 8am were cancelled, the site was slow and it sold out faster than last week. Resale about £950. Missed because the Sony account wasn't set up yet.
+- **Currys:** members asked "currys live?" at 08:55, but #currys-online had no pings today.
+- **Pokémon Center:** no drop. Chat was about cancelled PKC orders.
+- **Selfridges advent calendar:** out of stock; one member got one on last week's restock.
+- **#no-talking-hot-deals:** personal deals, not flips (Amazon Fire TV Stick £17.99, AirPods Pro 3 £174).
+- **Lesson:** PS Direct restocks early (from about 08:00). Have the Sony account logged in, card saved and phone notifications on before 8am.
+
 ## Channels worth notifications
 #online-flips (main posts and the daily "Tomorrow" list), #active-flips, #no-talking-new-flips-only, #flip-news-releases, #pokemon-center-online, #argos-online, #asda-online, #john-lewis-online, #ps-direct-uk-online, #smythstoys-instore, #uk-taylor-swift-scraper, and in TCG Hub the Topps UK Scraper and Pokémon AIO Scraper.
 
