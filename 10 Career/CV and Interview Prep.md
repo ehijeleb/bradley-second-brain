@@ -41,6 +41,9 @@ Real examples to draw on for CVs and STAR answers. Only what actually happened, 
   - [[Money Buys Points]]: "Showed that same-season spend explains only 5% of league points (the top spender won 0 of 5 titles) but adds about 6 points per EUR 100m the following season after controlling for prior performance (p = 0.001)." Python stats were done together with Claude, so describe them as analysis you led and be ready to explain each test (regression, Williams test, clustered errors).
   - [[What Gets International Graduates Hired]]: "Built and published a Tableau Public dashboard on a 300,000-row synthetic dataset of international graduates, showing that three factors (advanced degree, strong language skills, a career edge) separated 4% from 100% employment, while subject and home country made no difference."
 
+## Interview prep notes
+- [[ION interview prep]]: screening call for APP-001, with Excel practice workbook (16-11-2026).
+
 ## STAR stories
 - 
 
@@ -53,6 +56,7 @@ Real examples to draw on for CVs and STAR answers. Only what actually happened, 
 - SQL, Excel and stats questions to practise: see [[Skills Roadmap]].
 
 ## Status log
+- 16-11-2026: ION interview prep note and Excel practice workbook made.
 - 15-11-2026: CV-v8 and cover letter made for G MASS (PDFs in Exports/G MASS).
 - 13-11-2026: hub created
 - 13-11-2026: portfolio CV bullets added to the evidence bank.
