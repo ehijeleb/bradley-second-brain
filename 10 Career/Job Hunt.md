@@ -57,7 +57,7 @@ views:
 ```
 
 ## Next actions
-- [ ] **Today (13-11-2026):** Betway's 2-week window ends. If no contact, mark [[APP-003 Betway - Junior Data Scientist]] Rejected
+- [x] **Today (13-11-2026):** Betway's 2-week window ends. If no contact, mark [[APP-003 Betway - Junior Data Scientist]] Rejected
 - [x] **By 14-11-2026:** play the Equalture games for [[APP-006 Sigma Labs - Data Tech Graduate Training Programme]] (30 to 40 mins, one attempt)
 - [ ] Fix module grades across CVs, and change "five seasons" to three in CV-v2, v3 and v4 (see "Accuracy checks" in [[CV and Interview Prep]])
 - [x] Log every application made so far (APP-001 onwards)
@@ -65,12 +65,8 @@ views:
 - [ ] Draft a target list of 10 to 15 less saturated employers (see "Suggesting companies")
 
 ## Waiting on
-- [[APP-002 The Data School - Data School]]: outcome of the application.
 - [[APP-001 ION Asset Architecture - Trading Operations Assistant]]: ION's feedback (Olivia Ross sent the application on 13-11-2026).
-- [[APP-005 GHD - Graduate Data Consultant]]: outcome (eligibility risk: wants 2027 graduates).
 - [[APP-007 G MASS - Graduate Underwriting Assistant Consultant]]: response to the application (applied 15-11-2026).
-- [[APP-003 Betway - Junior Data Scientist]]: response, or none by 13-11-2026.
-- [[APP-004 WTW - Data Scientist Graduate Programme]]: online test invite if progressing. Likely screened out on A-level grades.
 
 ## Considered, not applied
 - Betway, Sports Trader (Esports), Gzira, Malta (hybrid, req JR13815). Fit 3/10.
@@ -94,6 +90,7 @@ views:
 - 13-11-2026: APP-006 Sigma Labs Equalture games completed. Waiting on results.
 - 15-11-2026: APP-006 Sigma Labs: saved the GRB advert email (Graduate Technical Consultant, £30,000, cohort 08-02-2027). Chase to Jamie Bird drafted for 18-11-2026.
 - 15-11-2026: logged APP-007 G MASS, Graduate Underwriting Assistant Consultant (applied 15-11-2026, fit 6/10, CV-v8 and cover letter).
+- 16-11-2026: Bradley confirmed APP-002 Data School, APP-003 Betway, APP-004 WTW and APP-005 GHD all rejected. Status done.
 - 16-11-2026: APP-006 Sigma Labs rejected after the Equalture games (cognitive flexibility the weak area). Status done; can reapply from 16-11-2027.
 - 15-11-2026: APP-006 Sigma Labs Equalture results in (problem solving High, learning ability Average). Waiting on Sigma's decision.
 ---

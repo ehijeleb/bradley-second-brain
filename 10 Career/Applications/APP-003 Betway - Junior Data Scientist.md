@@ -9,12 +9,12 @@ advert: https://myhcm.wd3.myworkdayjobs.com/en-US/Betway/job/Junior-Data-Scienti
 date_applied: 2026-10-30
 closing_date: 2026-11-13
 fit_score: 6
-stage: Applied
+stage: Rejected
 cv_version: CV-v2
 cover_letter: 
-next_step: No contact within 2 weeks means unsuccessful. If nothing by 13-11-2026, mark Rejected.
-deadline: 2026-11-13
-status: active
+next_step: None.
+deadline: 
+status: done
 ---
 # APP-003 Betway - Junior Data Scientist
 
@@ -34,6 +34,7 @@ status: active
 - Four fit reasons given: MLP classifier with 52 engineered features; validation-set comparison plus live out-of-sample testing; regression, time series and experimental analysis in R on business and energy data; explaining findings to non-specialist clients.
 
 ## Log
+- 16-11-2026: Bradley confirmed rejected (rejection date not recorded). Status done.
 - 30-10-2026: applied.
 - 13-11-2026: imported from the old Claude job-hunt project. The 2-week window ends today.
 

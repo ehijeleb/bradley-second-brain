@@ -9,12 +9,12 @@ advert:
 date_applied: 2026-11-01
 closing_date: 2026-11-20
 fit_score: 2
-stage: Applied
+stage: Rejected
 cv_version: CV-v3
 cover_letter: 
-next_step: If progressing, an online test and video interview, then an assessment centre in London.
+next_step: None.
 deadline: 
-status: active
+status: done
 ---
 # APP-004 WTW - Data Scientist Graduate Programme
 
@@ -57,6 +57,7 @@ Yours sincerely,
 Bradley Duke
 
 ## Log
+- 16-11-2026: Bradley confirmed rejected (rejection date not recorded). Status done.
 - 01-11-2026: applied.
 - 13-11-2026: imported from the old Claude job-hunt project.
 

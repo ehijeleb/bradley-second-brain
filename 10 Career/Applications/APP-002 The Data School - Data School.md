@@ -9,13 +9,13 @@ advert:
 date_applied: 
 closing_date: 
 fit_score: 
-stage: Applied
+stage: Rejected
 cv_version: 
 cover_letter: 
-next_step: Wait for the outcome. Prepare the Money Buys Points interview walkthrough.
+next_step: None.
 deadline: 
-status: active
-waiting_on: The Data School (outcome)
+status: done
+waiting_on: 
 ---
 # APP-002 The Data School - Data School
 
@@ -35,6 +35,7 @@ waiting_on: The Data School (outcome)
 - Missing: date applied (after 01-11-2026), role title, location, advert link, closing date, CV used, whether a cover letter was sent, and which dashboard version was live when submitted.
 
 ## Log
+- 16-11-2026: Bradley confirmed rejected (rejection date not recorded). Status done.
 - After 01-11-2026 (exact date not known): applied.
 - 13-11-2026: logged. Bradley confirmed he's submitted.
 

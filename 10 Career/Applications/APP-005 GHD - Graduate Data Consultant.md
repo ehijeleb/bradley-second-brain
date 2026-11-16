@@ -9,12 +9,12 @@ advert:
 date_applied: 
 closing_date: 
 fit_score: 8
-stage: Applied
+stage: Rejected
 cv_version: 
 cover_letter: 
-next_step: 
+next_step: None.
 deadline: 
-status: active
+status: done
 ---
 # APP-005 GHD - Graduate Data Consultant
 
@@ -29,6 +29,7 @@ status: active
 - Missing: date applied, advert link, closing date, CV used, cover letter, next step.
 
 ## Log
+- 16-11-2026: Bradley confirmed rejected (rejection date not recorded). Status done.
 - 01-11-2026 (likely): applied.
 - 13-11-2026: logged. Bradley confirmed he applied.
 
