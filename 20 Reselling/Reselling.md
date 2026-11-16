@@ -53,6 +53,7 @@ Reselling money also counts as income: when profit is taken out, log it in that 
 - [ ] **17-11-2026:** last day to collect the LEGO X-Mansion from Smyths Thurrock (held 2 days from order).
 - [ ] **18-11-2026 19:30:** X-Mansion handover to the eBay buyer at home (offered 16-11-2026, waiting for him to confirm). Shift ends 19:00. Scan his collection code to get paid.
 - [ ] LEGO X-Mansion sold 16-11-2026 (eBay, £300 to Bradley, local collection). Agree a collection time with the buyer in eBay messages, then scan or enter his collection code at handover to get paid. Delete the 08-12 and 13-12 return calendar events.
+- [ ] Lover rhinestone earbud case (Regular, bought 16-11-2026, £30 + £5.25 shipping, ships with the order): keep or cancel. Only eBay comp on 16-11-2026 was the AirPods Pro version, a US presale listing at £262.57 + delivery. No Regular comps; similar Lover rhinestone tumblers sell £47 to £65. If keeping, list as presale and cancel or return if no interest within a week.
 - [ ] Sherpa jacket: if unsold by 10-12-2026, take down the eBay listing and return it to the Taylor Swift UK Store. Last day 15-12-2026 (30 days from purchase, counted from the buy date to be safe). Calendar reminders sent.
 
 ## Notes
