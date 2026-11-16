@@ -49,6 +49,7 @@ HOR call it the "30th"; the shops list it as the Legend of Zelda 40th Anniversar
 
 ## What works for me
 Lessons from the group and from past sales: which categories, sizes and platforms make money.
+- LEGO X-Mansion 76294 (16-11-2026): Smyths £289.99, sold within a day for £300 to me, £10 profit, with several buyers interested. Big LEGO sets from #smythstoys-instore sell fast; price above about £320 next time to leave room for offers. On eBay, "you'll receive" is what counts: offers include the buyer's fee.
 - Tickets: check HOR's risk rating, not just ROI. A 5/5 risk flip (Slipknot, 14-11-2026) only showed £35 profit on a £70 ticket before fees.
 
 ## Status log
