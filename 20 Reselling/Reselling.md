@@ -51,7 +51,7 @@ Reselling money also counts as income: when profit is taken out, log it in that 
 - [x] House of Resell setup done 15-11-2026: Request Invites 1, 2 and 3, channel notifications, shop accounts (Topps, Argos, Asda, GAME, Very, Pokémon Center UK).
 - [ ] **16-11-2026 morning:** set up Currys and Sony PlayStation Direct accounts with payment saved. Check the Pokémon Center UK newsletter is on.
 - [ ] **17-11-2026:** last day to collect the LEGO X-Mansion from Smyths Thurrock (held 2 days from order).
-- [ ] LEGO X-Mansion sold 16-11-2026 (eBay, £310, local collection). Agree a collection time with the buyer in eBay messages, then scan or enter his collection code at handover to get paid. Delete the 08-12 and 13-12 return calendar events.
+- [ ] LEGO X-Mansion sold 16-11-2026 (eBay, £300 to Bradley, local collection). Agree a collection time with the buyer in eBay messages, then scan or enter his collection code at handover to get paid. Delete the 08-12 and 13-12 return calendar events.
 - [ ] Sherpa jacket: if unsold by 10-12-2026, take down the eBay listing and return it to the Taylor Swift UK Store. Last day 15-12-2026 (30 days from purchase, counted from the buy date to be safe). Calendar reminders sent.
 
 ## Notes
@@ -70,5 +70,5 @@ dv.view("20 Reselling/_scripts/reselling", { view: "check" })
 - 15-11-2026: first buy, Taylor Swift Take Me to the Lakes sherpa jacket (3XL) for £115 from the UK store, off a House of Resell monitor ping.
 - 15-11-2026: sherpa jacket listed on eBay at £217.95.
 - 15-11-2026: LEGO X-Mansion 76294 bought for £289.99 from Smyths (#smythstoys-instore ping), for collection at Smyths Thurrock. Paid from NatWest current. Listed on eBay at £310.
-- 16-11-2026: X-Mansion sold on eBay at £310 (full price, buyer paid the Buyer Protection fee, collection so no postage). Profit £20.01 once collected and handed over.
+- 16-11-2026: X-Mansion sold on eBay, £300 to Bradley (buyer paid the Buyer Protection fee on top, collection so no postage). Profit £10.01 once collected and handed over.
 - 15-11-2026: entered the Riftbound raffle (both bundles), winner emails 17-11-2026. Request Invites 1 done.
