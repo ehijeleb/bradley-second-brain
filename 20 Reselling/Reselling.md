@@ -53,7 +53,7 @@ Reselling money also counts as income: when profit is taken out, log it in that 
 - [ ] **17-11-2026:** last day to collect the LEGO X-Mansion from Smyths Thurrock (held 2 days from order).
 - [ ] **18-11-2026 19:30:** X-Mansion handover to the eBay buyer at home (offered 16-11-2026, waiting for him to confirm). Shift ends 19:00. Scan his collection code to get paid.
 - [ ] LEGO X-Mansion sold 16-11-2026 (eBay, £300 to Bradley, local collection). Agree a collection time with the buyer in eBay messages, then scan or enter his collection code at handover to get paid. Delete the 08-12 and 13-12 return calendar events.
-- [ ] Lover rhinestone earbud case (order WL3U1CM5E, £35.25 on NatWest, bought 16-11-2026): cancellation emailed to storesupport@umusic.com on 16-11-2026. Check the £35.25 refund lands on NatWest. If it ships anyway, return within 14 days of delivery (return postage at his cost). Removed from [[Stock]].
+- [ ] Lover rhinestone earbud case (order WL3U1CM5E, £35.25 on NatWest, bought 16-11-2026): cancellation requested 16-11-2026 via the contact form (umusicstoresupport.zendesk.com, requests/new). The storesupport@umusic.com address in the terms is unmonitored and only sends an auto-reply. Check the £35.25 refund lands on NatWest. If it ships anyway, return within 14 days of delivery (return postage at his cost). Removed from [[Stock]].
 - [ ] Sherpa jacket: store terms say 14 days to cancel from the day after delivery (not 30). Check the dispatch email when it arrives and fix the 10-12 and 15-12 return reminders.
 - [ ] Sherpa jacket: if unsold by 10-12-2026, take down the eBay listing and return it to the Taylor Swift UK Store. Last day 15-12-2026 (30 days from purchase, counted from the buy date to be safe). Calendar reminders sent.
 
