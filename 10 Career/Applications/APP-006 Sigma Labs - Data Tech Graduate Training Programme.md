@@ -9,13 +9,13 @@ advert: https://www.sigmalabs.co.uk/our-careers
 date_applied: 
 closing_date: 
 fit_score: 7
-stage: Online test
+stage: Rejected
 cv_version: 
 cover_letter: 
-next_step: Wait for Sigma Labs' decision. If nothing by 18-11-2026, email Jamie Bird asking about the next stage.
-deadline: 2026-11-18
-waiting_on: Sigma Labs' decision on the next stage
-status: active
+next_step: None. Can reapply from 16-11-2027.
+deadline: 
+waiting_on: 
+status: done
 ---
 # APP-006 Sigma Labs - Data Tech Graduate Training Programme
 
@@ -43,6 +43,9 @@ Personal scores page (link in Bradley's email, not copied here). No pass or fail
 - Information sharing: Satisfactory
 - Ownership: Exceptional
 
+## Outcome
+- 16-11-2026: rejected after the Equalture games ([[2026-11-16 Sigma Labs - Game Result]]). Sigma's feedback: strong on feedback handling; cognitive flexibility was the area to improve. Can reapply after 12 months (from 16-11-2027).
+
 ## Log
 - 09-11-2026: CV-v6 and coding answer prepared.
 - 10-11-2026: Jamie Bird emailed: through to the next stage, Equalture games.
@@ -52,6 +55,7 @@ Personal scores page (link in Bradley's email, not copied here). No pass or fail
 - 13-11-2026: Equalture reminder (11:32), games not yet started ([[2026-11-13 Equalture - Reminder to complete Sigma Labs assessment]]).
 - 13-11-2026: Equalture games completed, within Sigma's 4-day window.
 - 15-11-2026: GRB advert email saved. Chase email to Jamie Bird drafted, to send on or after 18-11-2026 if no results by then.
+- 16-11-2026: Jamie Bird emailed: not progressing. Stage Rejected, status done. Chase to Jamie no longer needed.
 - 15-11-2026: Equalture results received (see above). Waiting on Sigma's decision.
 - 15-11-2026: messaged Holly Dowd (GRB) on LinkedIn for advice on the later stages (see [[Contacts and Recruiters]]).
 
