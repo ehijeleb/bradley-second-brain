@@ -14,12 +14,14 @@ status: active
 | Olivia Ross | Datatech Analytics (recruitment agency) | Consultant. Works 09:00 to 16:00 (phone in the old project) | Screening call for [[APP-001 ION Asset Architecture - Trading Operations Assistant]], 11-11-2026 | 13-11-2026 (she sent the application to ION) | Wait for her to pass on ION's feedback |
 | Jamie Bird | Sigma Labs | Recruitment contact. Email jamie.bird@sigmalabs.co.uk | Invited Bradley to the Equalture games for [[APP-006 Sigma Labs - Data Tech Graduate Training Programme]], 10-11-2026 | 10-11-2026 | Email with any questions about the assessment |
 | Holly Dowd | GRB | Posted the Sigma Labs advert on GRB (job title not confirmed). LinkedIn: https://www.linkedin.com/in/holly-dowd-079576206/ | Found by Bradley via the GRB advert for [[APP-006 Sigma Labs - Data Tech Graduate Training Programme]], 15-11-2026 | 15-11-2026 (LinkedIn message asking about Sigma's later stages and interview prep) | Wait for her reply |
+| Oliver O'Brien | Hamilton Barnes (specialist tech recruitment consultancy, Liverpool Street) | Talent Acquisition Lead, hiring for Hamilton Barnes itself. Email oliver.obrien@hamilton-barnes.com (phone in his email) | Phone call 16-11-2026, then follow-up email ([[2026-11-16 Hamilton Barnes - Call Follow Up]]) | 16-11-2026 | Bradley to reply with his thoughts |
 | Lauren Whitfield | GRB | Recruiter | Feedback on [[Money Buys Points]] for the Data School application | 24-09-2026 or later, exact date not known | Application submitted ([[APP-002 The Data School - Data School]]); next start date unsure |
 
 ## Notes
 - 
 
 ## Status log
+- 16-11-2026: added Oliver O'Brien (Hamilton Barnes) after a call about working there.
 - 15-11-2026: Bradley messaged Holly Dowd on LinkedIn about Sigma Labs prep.
 - 15-11-2026: added Holly Dowd (GRB), for Sigma Labs interview prep.
 - 13-11-2026: added Jamie Bird (Sigma Labs).
