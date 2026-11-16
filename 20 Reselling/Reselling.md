@@ -47,7 +47,7 @@ Reselling money also counts as income: when profit is taken out, log it in that 
 - [x] Log the first purchase in [[Stock]] when it happens
 - [ ] Note which platforms I have accounts on
 - [x] Enter the Riftbound raffle (both bundles) by 16-11-2026 5pm. Done 15-11-2026. Register at playriftbound.com first. See [[House of Resell]].
-- [ ] **16-11-2026 13:00:** Topps Premier League Gold Hobby Box drop (optional, £180, resale about £220). See [[House of Resell]].
+- [x] **16-11-2026 13:00:** Topps Premier League Gold Hobby Box drop. Missed: the captcha wouldn't load at checkout. See [[House of Resell]].
 - [x] House of Resell setup done 15-11-2026: Request Invites 1, 2 and 3, channel notifications, shop accounts (Topps, Argos, Asda, GAME, Very, Pokémon Center UK).
 - [ ] Set up Currys and Sony PlayStation Direct accounts with payment saved. Sony: the existing account uses Mum's email and was playing up on 16-11-2026. Either get her to approve moving it to my own email (Account settings, Sign-in ID) or make a fresh account with my own email. Check the Pokémon Center UK newsletter is on.
 - [ ] **17-11-2026:** last day to collect the LEGO X-Mansion from Smyths Thurrock (held 2 days from order).

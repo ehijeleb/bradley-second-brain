@@ -36,6 +36,7 @@ Figures are HOR's, not checked independently.
 - **MTG Nauctis Collector Booster Display:** Amazon UK pre-order, paid on dispatch 05-02-2027, full post to come.
 - **Also mentioned:** CoD MW4 EE codes (#no-talking-new-flips-only; EE pay-monthly only, Bradley isn't on EE so skip), MTG x Warhammer deck reprint, Request Invites 1, 2 and 3 in #active-flips, Pokémon Center newsletter (#flip-news-releases).
 - **Missed (13-11-2026):** Topps F1 Sapphire (£1,100), Topps Royalty Tennis and UFC raffles, GameOn 30th ETB (£49.99, needed a 7-day-old account with a £10 order).
+- **Missed (16-11-2026):** Topps Premier League Gold Hobby Box. The captcha wouldn't work at checkout. Next time for Topps: be logged in 10 minutes early, have a second browser or the phone ready as a backup, and test a checkout (add something to the basket) beforehand so any captcha shows up early.
 
 ### Zelda 40th Anniversary Switch 2 (searched 15-11-2026)
 HOR call it the "30th"; the shops list it as the Legend of Zelda 40th Anniversary Edition. Resale £530 to £550 (console), controller £80 retail to £120.
