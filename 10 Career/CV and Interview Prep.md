@@ -43,6 +43,7 @@ Real examples to draw on for CVs and STAR answers. Only what actually happened, 
 
 ## Interview prep notes
 - [[ION interview prep]]: screening call for APP-001, with Excel practice workbook (16-11-2026).
+- [[ION interview cheat sheet]]: simple one-stop version for the 19-11-2026 interview, with PDF (17-11-2026).
 
 ## STAR stories
 - 

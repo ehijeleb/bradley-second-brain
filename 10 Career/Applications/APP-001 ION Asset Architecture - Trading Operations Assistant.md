@@ -36,7 +36,7 @@ waiting_on:
 - ION's FAQ says it is **not** affiliated with ION Group, ION Trading or other similarly named firms, and has no website on purpose.
 
 ## Notes
-- Prep: [[ION interview prep]] and the Excel practice workbook in `10 Career/Exports/ION/`.
+- Prep: [[ION interview cheat sheet]] (simple version, PDF in `10 Career/Exports/ION/`), [[ION interview prep]] (full detail) and the Excel practice workbook in `10 Career/Exports/ION/`.
 - Recruiters: Lauren Jones and Olivia Ross at Datatech (see [[Contacts and Recruiters]]).
 - Bradley told Datatech he can start immediately and would leave [[Bershka]].
 - Olivia asked for this CV order: personal profile (no coding or analytical skills), academics with 6 to 8 modules, skills, sports, then work experience. That's [[CV-v7]], sent to Olivia by 13-11-2026.
