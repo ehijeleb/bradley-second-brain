@@ -17,7 +17,7 @@ Trading Assistant, Ion Asset Architecture.
 
 - Who will interview me, and what's their role?
 - Will there be maths questions? Mental or written?
-- Tell her you start work at 12:30 on Thursday, so you need to finish by about 11:45.
+- No need to mention your 12:30 shift: you're happy to be late, so the call can run as long as ION want. Let your Bershka manager know you might be late.
 
 **Thursday morning:**
 

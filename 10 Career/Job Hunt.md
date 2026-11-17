@@ -63,7 +63,7 @@ views:
 - [x] Log every application made so far (APP-001 onwards)
 - [x] **16-11-2026:** call Olivia Ross with availability for ION's 30-minute screening call ([[APP-001 ION Asset Architecture - Trading Operations Assistant]]). Done 17-11-2026.
 - [ ] **17-11-2026 (tonight):** numerical pop quiz in [[ION interview prep]], as Olivia suggested
-- [ ] **18-11-2026 09:15:** Teams briefing with Olivia Ross (15 minutes). Tell her you have a hard stop for your 12:30 shift on Thursday
+- [ ] **18-11-2026 09:15:** Teams briefing with Olivia Ross (15 minutes).
 - [ ] **19-11-2026 11:00:** ION online interview, Google Meet, about 30 minutes. Phone on silent, test connection and camera first ([[ION interview prep]])
 - [ ] Draft a target list of 10 to 15 less saturated employers (see "Suggesting companies")
 

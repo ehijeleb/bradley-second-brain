@@ -11,7 +11,7 @@ area: career
 
 ## Logistics
 - **Clash on Wednesday:** the briefing runs 09:15 to 09:30, when you'd normally leave for a 10:00 shift. Take it from home and leave straight after, or take it on the move with headphones somewhere quiet.
-- **Thursday:** interview 11:00 to about 11:30, shift at 12:30. ION's guidelines say interviews can run 30 minutes to 2 hours, and ask you to say up front if you have a hard stop (it won't count against you). Tell Olivia in the briefing, and say it politely at the start of the call if needed.
+- **Thursday:** interview 11:00, booked for about 30 minutes, shift at 12:30. Bradley is happy to be late for work (17-11-2026), so no hard stop: the call can run long, which ION's guidelines say is normal (30 minutes to 2 hours). Let the Bershka manager know in advance.
 - Gym is planned for 09:30 to 10:30 on Thursday ([[Fitness]]). Worth moving it so you're not rushing back.
 - Before the call: phone on silent, test the connection, laptop camera at eye level, quiet room, plain background. Treat it as face to face (Olivia's advice).
 - Have open: [[CV-v7]] (the CV ION have), the spec, a pen and paper for working out.
@@ -26,7 +26,7 @@ Bradley is happy to be late for work to make this call longer (17-11-2026). Prio
 6. **What they want:** what has made past candidates succeed or fail with ION?
 7. **The role:** shifts, weekend rota, salary, start date, size of the team.
 8. **After:** feedback timing, next round format, how many rounds, how quickly they decide.
-9. **Tell her:** hard stop for the 12:30 shift on Thursday.
+9. **No hard stop:** Bradley is happy to be late for work, so don't limit the call.
 
 ## Who you'll talk to and what they want (from ION's guidelines)
 - **Round 1 interviewer:** usually someone with a background like yours (maths or science, probably from operations or trading). Or someone whose interest was caught by something on your CV. Most likely candidates: the "Beating the Bookies" dissertation or the dataset error. Know both inside out.
