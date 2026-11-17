@@ -9,11 +9,11 @@ advert:
 date_applied: 
 closing_date: 
 fit_score: 8
-stage: ION screening call
+stage: Interview (online, 19-11-2026)
 cv_version: CV-v7
 cover_letter: 
-next_step: Call Olivia Ross (Datatech office line, in her message) with availability for a 30-minute screening call with ION. Then prepare for it.
-deadline: 2026-11-16
+next_step: Teams briefing with Olivia Ross Wed 18-11-2026 09:15. ION online interview (Google Meet, about 30 minutes) Thu 19-11-2026 11:00. Prep in ION interview prep.
+deadline: 2026-11-19
 status: active
 waiting_on: 
 ---
@@ -31,7 +31,9 @@ waiting_on:
 - Shifts 07:00-17:00, 09:00-19:00 and 14:00-00:00. Quoted as a 50-hour week including 2 hours of breaks a day.
 - About 50% of weekends, rota set 2 weeks ahead, weekend days swapped for weekdays. Extra hours can be banked as leave. Call notes mention working from home at weekends after probation.
 - ION's guidelines: doesn't hire smokers, and expects offers to be decided within a few days.
-- Interviews: several in-person rounds at the Gherkin, 45 to 90 minutes each.
+- Interviews: normally several in-person rounds at the Gherkin (Floor 28, 30 St Mary Axe), 45 to 90 minutes each, no fixed number of rounds. Round 1 here is online.
+- Official spec title: **Trading Assistant** (Operations team). Spec and guidelines saved 17-11-2026: [[2026-11-17 Datatech - Interview Confirmation - Ion Asset Architecture UK Ltd]].
+- ION's FAQ says it is **not** affiliated with ION Group, ION Trading or other similarly named firms, and has no website on purpose.
 
 ## Notes
 - Prep: [[ION interview prep]] and the Excel practice workbook in `10 Career/Exports/ION/`.
@@ -67,5 +69,6 @@ Bradley Duke
 - 13-11-2026: Olivia Ross emailed (13:28) that she has sent Bradley's application to ION and will be in touch once she has their feedback.
 - 13-11-2026: follow-up set for 20-11-2026 (chase Olivia if no news).
 - 16-11-2026: Olivia Ross messaged: ION want a 30-minute screening call. Bradley to call her with his availability. Stage ION screening call; the 20-11-2026 chase is no longer needed.
+- 17-11-2026: Bradley spoke to Olivia. Olivia confirmed by email: online interview with ION, Thu 19-11-2026 11:00, Google Meet, about 30 minutes. Teams briefing with Olivia Wed 18-11-2026 09:15 to 09:30. Spec and guidelines received ([[2026-11-17 Datatech - Interview Confirmation - Ion Asset Architecture UK Ltd]]). Stage Interview.
 
 Back to [[Job Hunt]]

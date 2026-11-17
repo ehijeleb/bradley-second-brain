@@ -61,11 +61,14 @@ views:
 - [x] **By 14-11-2026:** play the Equalture games for [[APP-006 Sigma Labs - Data Tech Graduate Training Programme]] (30 to 40 mins, one attempt)
 - [ ] Fix module grades across CVs, and change "five seasons" to three in CV-v2, v3 and v4 (see "Accuracy checks" in [[CV and Interview Prep]])
 - [x] Log every application made so far (APP-001 onwards)
-- [ ] **16-11-2026:** call Olivia Ross with availability for ION's 30-minute screening call, then prepare for it ([[APP-001 ION Asset Architecture - Trading Operations Assistant]])
+- [x] **16-11-2026:** call Olivia Ross with availability for ION's 30-minute screening call ([[APP-001 ION Asset Architecture - Trading Operations Assistant]]). Done 17-11-2026.
+- [ ] **17-11-2026 (tonight):** numerical pop quiz in [[ION interview prep]], as Olivia suggested
+- [ ] **18-11-2026 09:15:** Teams briefing with Olivia Ross (15 minutes). Tell her you have a hard stop for your 12:30 shift on Thursday
+- [ ] **19-11-2026 11:00:** ION online interview, Google Meet, about 30 minutes. Phone on silent, test connection and camera first ([[ION interview prep]])
 - [ ] Draft a target list of 10 to 15 less saturated employers (see "Suggesting companies")
 
 ## Waiting on
-- [[APP-001 ION Asset Architecture - Trading Operations Assistant]]: ION want a 30-minute screening call. Bradley to call Olivia Ross with his availability (16-11-2026).
+- [[APP-001 ION Asset Architecture - Trading Operations Assistant]]: online interview Thu 19-11-2026 11:00. Then Olivia's feedback.
 - [[APP-007 G MASS - Graduate Underwriting Assistant Consultant]]: response to the application (applied 15-11-2026).
 
 ## Considered, not applied
@@ -93,6 +96,7 @@ views:
 - 16-11-2026: APP-001 ION moved to stage ION screening call (30 minutes, to be booked through Olivia Ross).
 - 16-11-2026: Bradley confirmed APP-002 Data School, APP-003 Betway, APP-004 WTW and APP-005 GHD all rejected. Status done.
 - 16-11-2026: APP-006 Sigma Labs rejected after the Equalture games (cognitive flexibility the weak area). Status done; can reapply from 16-11-2027.
+- 17-11-2026: APP-001 ION moved to stage Interview: online interview Thu 19-11-2026 11:00 (Google Meet, about 30 minutes), briefing with Olivia Ross Wed 18-11-2026 09:15.
 - 15-11-2026: APP-006 Sigma Labs Equalture results in (problem solving High, learning ability Average). Waiting on Sigma's decision.
 ---
 
