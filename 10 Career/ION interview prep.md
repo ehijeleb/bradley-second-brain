@@ -101,6 +101,42 @@ In line with the advertised salary (up to £33,000 base).
 - Overround: add up the implied probabilities for every outcome in a market. Home 2.10, Draw 3.40, Away 3.60 gives 47.6% + 29.4% + 27.8% = 104.8%, so 4.8% margin. Under 100% means the prices are wrong (an arbitrage), which is exactly the kind of error this role catches.
 - Quick sense checks: odds can't be below 1.00; a favourite should have the lowest odds; a settled market shouldn't still be open after the result.
 
+## How ION would use Excel (inferred)
+Nothing from ION spells this out. This is worked out from the spec (strong Excel, time zones and currencies, spotting inconsistencies, insight into counterparty and market behaviour) and the guidelines (in-house tools, big databases, spreadsheets not used to store data).
+- **Checking exports:** pulling trades, prices or settlement reports out of their in-house tools and checking them for errors, duplicates and gaps.
+- **Reconciliations:** matching ION's own trade records against what a counterparty or exchange reports. This is the same job as your finance internship reconciliations.
+- **Currencies:** turning positions or P&L in euros, dollars and so on into pounds.
+- **Time zones:** checking that event start times and settlement times line up across markets.
+- **Ad hoc analysis:** quick summaries of how a counterparty or market behaved (volumes, unusual prices) for the traders.
+- **Not:** storing data or building big models. That lives in their databases and code.
+
+## Technical questions they could ask
+Glassdoor reports for ION ([UK interview page](https://www.glassdoor.co.uk/Interview/Ion-Asset-Architecture-Interview-Questions-E5366622.htm)) are few and anonymous. They mention lots of maths problems and brainteasers, a skills test in about a third of processes, "name as many currencies as you can", and being shown a list of dates and asked for patterns. Treat these as anecdotes.
+
+**Excel (answer only with what you've really used)**
+1. *How would you find duplicate trades in a list?* Conditional formatting, Highlight duplicates; or `=COUNTIF(A:A,A2)>1`; or Remove Duplicates on a copy, never the original.
+2. *How would you check two lists match (our trades against the counterparty's)?* Look up each ID in the other list: `=VLOOKUP(A2,Other!A:C,3,FALSE)`, wrapped in `IFERROR(...,"Missing")`, then a column flagging any amount that differs. Then filter on the mismatches.
+3. *VLOOKUP vs INDEX/MATCH vs XLOOKUP?* VLOOKUP only looks to the right and breaks if columns move. INDEX/MATCH and XLOOKUP can look left. Use FALSE / exact match for IDs. Only claim XLOOKUP if you've used it.
+4. *Total stakes for one counterparty in one currency?* `=SUMIFS(Stake, Counterparty, "X", Currency, "EUR")`. COUNTIFS works the same way for counts.
+5. *Summarise volume by market and day?* Pivot table: rows market, columns date, values sum of stake.
+6. *Convert a time from New York to London?* Times are fractions of a day, so `=A2+5/24` (or `+TIME(5,0,0)`). Watch the clocks-change weeks, when the gap is 4 hours.
+7. *Convert euros to pounds with a rate in one cell?* `=B2/$F$1`. The `$` keeps the rate cell fixed when you copy the formula down (an absolute reference).
+8. *Flag unusual prices?* A column comparing each price with the average or the previous price, plus conditional formatting for anything outside a band. Or sort and look at the extremes.
+9. *A number won't add up in a SUM. Why?* It's probably stored as text (left-aligned, green triangle). Fix with VALUE or Text to Columns.
+
+**SQL (welcome, not required)**: be honest that you're learning. Know the shape: `SELECT market, SUM(stake) FROM trades WHERE trade_date = '2026-11-19' GROUP BY market;` and that a JOIN matches two tables on a shared ID, like VLOOKUP.
+
+**Scenarios (likely for an operations role)**
+- *At 2am you see a market still open after the match has finished. What do you do?* Check it against a second source, follow the procedure to stop or suspend it if there is one, escalate to the trader on call, record what happened and when. Don't guess.
+- *A counterparty's report doesn't match ours.* Check our side first (timing, currency, duplicates), list the specific differences, then contact them with the evidence.
+- *Two urgent problems at once.* Prioritise by money at risk and time left, tell the team which you're taking.
+
+**Brainteasers reported on Glassdoor**
+- A £100,000 house falls 30%. What rise gets it back? It's now £70,000 and needs £30,000: 30/70 = **42.9%**, not 30%.
+- 8 coins, one heavier, a balance scale. Find it in **2 weighings**: weigh 3 against 3. If they balance, weigh the remaining 2. If not, take the heavy 3 and weigh 1 against 1: if they balance, it's the third.
+- Name as many currencies as you can: GBP, EUR, USD, JPY, CHF, AUD, CAD, NZD, SEK, NOK, DKK, HKD, SGD, CNY, INR, ZAR, BRL, MXN, PLN, TRY, KRW.
+- A list of dates: look for weekdays against weekends, gaps, duplicates, wrong formats (US vs UK), dates in the future, or a pattern like every 7 days.
+
 ## Numerical pop quiz (do tonight, no calculator)
 Olivia: questions range from "working out" to quick fire. Cover the answers, then check.
 
