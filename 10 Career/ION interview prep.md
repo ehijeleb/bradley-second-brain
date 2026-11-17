@@ -46,7 +46,7 @@ Strong for reconciliations and analysis. In the finance internship I reconciled 
 
 **3. Picking up new applications quickly**
 *"Tell me about a time you had to learn a new tool fast."*
-Taught myself Tableau and published two dashboards ([[Money Buys Points]] and [[What Gets International Graduates Hired]]). At university I learned Dartfish for match tagging, plus Minitab, Statistica and MATLAB, as each module needed them. Also learned the Bershka tills and stock systems from scratch. **Bradley to fill:** how long Tableau took you to get usable, and one thing you worked out on your own.
+Taught myself Tableau and published two dashboards ([[Money Buys Points]] and [[What Gets International Graduates Hired]]). At university I learned Dartfish for match tagging, plus Minitab, Statistica and MATLAB, as each module needed them. **Bradley to fill:** how long Tableau took you to get usable, and one thing you worked out on your own.
 
 **4. Attention to detail**
 *"Give an example of an error you spotted that others missed."*
