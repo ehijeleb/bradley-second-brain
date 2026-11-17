@@ -11,6 +11,7 @@ status: active
 > **Logging pay:** in the month the money arrives, for example `- 10-12-2026 Bershka (November) [income:: Wages] [hours:: 140] [deductions:: 0]` plus a weekend line with `[rate:: 16.46]`. Or just `[amt::]` from the payslip.
 > **Breaks:** 9-hour shift: 1 hour unpaid lunch plus 20-minute paid break (8 paid). 8-hour shift: 30-minute lunch, paid (8 paid).
 > **Shifts:** Bradley will send his schedule; Claude can send it as an `.ics` file for his Google Calendar (see [[CLAUDE]] rules) and work out expected pay from it.
+> **Getting there:** about a 10-minute drive from home (Bradley, 17-11-2026).
 > **Useful for the job hunt:** customer-facing, sales and teamwork examples go in the evidence bank in [[CV and Interview Prep]].
 
 ## Shifts
