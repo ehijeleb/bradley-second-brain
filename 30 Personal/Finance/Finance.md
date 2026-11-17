@@ -75,7 +75,7 @@ A budget of 0 means no monthly budget yet (or one-off costs).
 
 ## Debts and money owed
 - **University accommodation: £2,800 owed.** Plan: pay in instalments on the Amex card when it arrives, depending on the limit. Things to weigh before deciding: interest if the Amex isn't cleared in full each month, and how much of the limit it uses (high use can lower a credit score). The NatWest balance could cover it outright. Not financial advice: check the terms of the Amex and the accommodation's payment options.
-- **Owed to me: £35** Dart Charge from Bershka (Bluewater trip). Chase if not in the next payslip.
+- **Owed to me: £35** Dart Charge from Bershka (Bluewater trip). Claim it through the Inet app (Bradley heard this 17-11-2026). Chase if not in the next payslip.
 - **Tax refund: about £884.60** overpaid, expected back automatically on the December payslip. See Tax below.
 
 ## Tax
@@ -98,7 +98,7 @@ Imported 13-11-2026 from Bradley's tax refund chat. Sensitive details (NI number
 ### Tax to-do
 - [ ] Check the December payslip (about 10-12-2026): code 1257L with no M1 or X, and the refund shown
 - [ ] If no refund on the December payslip, contact ITX payroll
-- [ ] Check the HMRC account shows estimated income of £21,000
+- [x] Check the HMRC account shows estimated income of £21,000 (confirmed 17-11-2026)
 - [ ] Check whether untaxed savings interest is over £1,000 a year (if so, about £3.60 tax may be due)
 - [ ] Find out the student loan plan and when repayments start. A course started in England from 01-08-2023 is usually Plan 5, repaid from the April after finishing, so likely April 2027. Check in the Student Loans Company account
 - [ ] Ask Bershka whether workplace pension auto-enrolment applies (none deducted so far)
@@ -121,3 +121,4 @@ Proposed by Claude on 13-11-2026 from the figures above. Change or delete any of
 - 13-11-2026: Finance set up, blank
 - 13-11-2026: filled in with Bradley: pay, accounts, balances, budgets, recurring payments, debts and proposed goals.
 - 13-11-2026: tax refund details imported (about £884.60 due back on the December payslip). Hourly rate corrected to £14.96 from payslips.
+- 17-11-2026: HMRC estimated income of £21,000 confirmed. Dart Charge to be claimed in the Inet app. Bradley will log expenses as they happen from now on.

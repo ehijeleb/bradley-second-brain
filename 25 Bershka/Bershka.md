@@ -31,7 +31,7 @@ From rota screenshots, 13-11-2026. Paid hours take off unpaid lunch: a 9-hour sh
 - November pay estimate (paid 10-12-2026): about £2,537 gross. 152 hours at £14.96 plus 16 weekend hours at £16.46. Assumes each holiday and sick day pays 8 hours at the basic rate. Before tax and NI. Compare with the payslip.
 - Sick day 09-11-2026 (paid). Check it shows on the November payslip (paid 10-12-2026).
 - Tax code fixed to 1257L from 11-11-2026; refund expected on the December payslip. See Tax in [[Finance]].
-- Owed £35 for a Dart Charge from helping at Bluewater. Chase if not in the next payslip.
+- Owed £35 for a Dart Charge from helping at Bluewater. Can be claimed in the Inet app; not claimed yet (17-11-2026). Chase if not in the next payslip.
 
 ## Status log
 - 13-11-2026: hub created
@@ -40,3 +40,4 @@ From rota screenshots, 13-11-2026. Paid hours take off unpaid lunch: a 9-hour sh
 - 13-11-2026: break rules added; shift hours changed to paid hours.
 - 13-11-2026: corrected, 30-minute lunch on 8-hour shifts is paid.
 - 13-11-2026: holiday 02-11-2026 to 06-11-2026 added; November pay estimated.
+- 17-11-2026: Dart Charge can be claimed in the Inet app.
