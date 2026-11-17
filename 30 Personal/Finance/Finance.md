@@ -16,7 +16,7 @@ hourly_wage: 14.96
 > [!info] Snapshot (13-11-2026)
 > **Pay:** [[Bershka]] (employer ITX UK Limited), £14.96 an hour from September 2026 (payslips; Bradley rounds it to £15), plus £1.50 at weekends. 40 hours a week. Pay period is the calendar month, paid on the 10th of the next month into NatWest.
 > **Take-home:** gross has been £2,450 to £3,230 a month (August to October). Net was £2,060 to £2,620 on the old Month 1 tax code; it should be slightly higher from December on the correct code 1257L. Year-to-date 2026-27 gross £9,415.64, tax £1,090.40, NI £435.96.
-> **No deductions yet** for student loan or workplace pension (see Tax).
+> **No deductions yet** for student loan or workplace pension (see Tax). Student loan repayments start April 2027: 9% of pay above £2,168 a month (SLC, 17-11-2026).
 > **Balances (13-11-2026):** NatWest current £4,270.00. Moneybox LISA £689.46. NatWest credit card £95.90 in credit (limit £3,704.10).
 > **Owe:** £2,800 to university accommodation. **Owed to me:** £35 Dart Charge from Bershka; possible £800 tax refund.
 
@@ -86,6 +86,7 @@ Imported 13-11-2026 from Bradley's tax refund chat. Sensitive details (NI number
 - **Refund:** about £884.60 overpaid to 10-11-2026 (£1,090.40 paid against about £205.80 due). Expected on the December payslip as a negative tax line of roughly £500, so December take-home is about £885 higher than under the old code. Exact figure depends on November pay, including holiday 23-11-2026 to 27-11-2026.
 - **If payroll doesn't refund it:** contact ITX payroll to apply the 11-11-2026 code notice. Failing that, HMRC reconciles after 05-04-2027 and sends a P800. HMRC: 0300 200 3300 or Help in the HMRC app.
 - **National Insurance:** category A, correct on every payslip.
+- **Student loan:** repayments start April 2027, taken by Bershka through payroll ([[2026-11-17 Student Loans Company - Repaying your student loan]]). From 06-04-2027 the threshold is £26,025 a year (£2,168 a month), and he repays 9% of pay above it, worked out each payslip. On a £2,600 gross month that's about £39; on £3,000 about £75. Interest is RPI-based; anything left 40 years after repayments start is written off. The email doesn't say which plan.
 - **Pay history:** £13.50 an hour (July), £14.85 (August), £14.96 (September on).
 
 | Pay date | Period | Code | Gross | Tax | NI | Net |
@@ -100,7 +101,8 @@ Imported 13-11-2026 from Bradley's tax refund chat. Sensitive details (NI number
 - [ ] If no refund on the December payslip, contact ITX payroll
 - [x] Check the HMRC account shows estimated income of £21,000 (confirmed 17-11-2026)
 - [ ] Check whether untaxed savings interest is over £1,000 a year (if so, about £3.60 tax may be due)
-- [ ] Find out the student loan plan and when repayments start. A course started in England from 01-08-2023 is usually Plan 5, repaid from the April after finishing, so likely April 2027. Check in the Student Loans Company account
+- [ ] Student loan: repayments start April 2027, confirmed by SLC on 17-11-2026 ([[2026-11-17 Student Loans Company - Repaying your student loan]]). Still to check in the SLC account: which plan, the balance, and that the email on the account is personal, not a university one
+- [ ] From the April 2027 payslip, check a student loan deduction appears. Before then, none should be taken; if one is, ask SLC for a refund
 - [ ] Ask Bershka whether workplace pension auto-enrolment applies (none deducted so far)
 - [ ] Keep all 2026-27 payslips, and check the P60 when it arrives (after 05-04-2027)
 - [ ] Optional: delete the 13-11-2026 "Check HMRC app" calendar event
@@ -121,4 +123,4 @@ Proposed by Claude on 13-11-2026 from the figures above. Change or delete any of
 - 13-11-2026: Finance set up, blank
 - 13-11-2026: filled in with Bradley: pay, accounts, balances, budgets, recurring payments, debts and proposed goals.
 - 13-11-2026: tax refund details imported (about £884.60 due back on the December payslip). Hourly rate corrected to £14.96 from payslips.
-- 17-11-2026: HMRC estimated income of £21,000 confirmed. Dart Charge to be claimed in the Inet app. Bradley will log expenses as they happen from now on.
+- 17-11-2026: Student Loans Company email: repayments start April 2027. HMRC estimated income of £21,000 confirmed. Dart Charge to be claimed in the Inet app. Bradley will log expenses as they happen from now on.
