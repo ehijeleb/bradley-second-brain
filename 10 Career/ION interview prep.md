@@ -58,7 +58,7 @@ Taught myself Tableau and published two dashboards ([[Money Buys Points]] and [[
 
 **4. Attention to detail**
 *"Give an example of an error you spotted that others missed."*
-Dissertation: while checking three seasons of match data (52 statistics per match), I found a previously unreported error in the source dataset, documented it and corrected for it before modelling. **Bradley to fill:** what exactly the error was and how you spotted it. This is your strongest answer, so know it cold.
+Dissertation: while checking three seasons of match data (52 statistics per match), I found a previously unreported error in the source dataset, documented it and corrected for it before modelling. **Bradley's account (mock interview, 17-11-2026):** while compiling the dataset it got corrupted (some statistics overlapped, some were removed). He spotted it when checking the data before putting it into the neural network. FBref had just lost its Opta data, so he rebuilt the dataset from several sources. **Still to confirm:** whether the CV line "previously unreported error in the source dataset" matches this (source error, or his own file corrupting), and exactly how he spotted it.
 Backups: in the match report, the pitch-zone data was wrong after the teams swapped ends at half-time, and I corrected it. On Money Buys Points I spotted errors in an earlier version and rebuilt it.
 *"How do you make sure your own work is right?"* Check totals against a second source, sense-check extremes, re-check anything that looks too good, and check before sending, not after.
 
