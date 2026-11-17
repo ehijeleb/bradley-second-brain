@@ -33,19 +33,61 @@ area: career
 
 **What this means for you:** Excel matters for the role (the spec asks for it), but they don't use spreadsheets as a data store. Pitch Excel as checking and analysis, and stress learning their in-house tools and SQL quickly. "Ability to come to grips with new applications quickly" is in the spec.
 
-## What the spec asks for, and your evidence
-| They want | Your evidence |
-| --- | --- |
-| BSc, ideally maths or science | High 2:1, Mathematics and Sports Science, Nottingham Trent, 2026 |
-| Excel | Pivot tables, VLOOKUP, reconciliations, dashboards (finance internship, match dashboard) |
-| Attention to detail ("a single character can make all the difference") | Data error found in the dissertation source dataset; 200+ transactions a week reconciled |
-| Numeracy, including probabilities | Maths degree; dissertation model output match probabilities and compared them with bookmaker odds |
-| Time zones and currencies | **Bradley to fill:** any real example (for example international stock or orders at Bershka, travel, reselling abroad). If none, say you're comfortable and show it in the quiz |
-| Making informed trading decisions | Dissertation: tested model probabilities against market odds over two live matchweeks. Reselling: deciding what to buy and sell at what price (see [[Reselling]]) |
-| Organised, keeps colleagues updated | **Bradley to fill:** Bershka handovers, or captaining your football team |
-| Weekend rota, swap weekdays for weekends at least 50% of the time | Already told Datatech yes. Only confirm if true |
-| Initiative, self-starter | Portfolio projects built on your own time (Tableau transfer spend dashboard), reselling business |
-| SQL welcome | Learning it now ([[Skills Roadmap]]); happy to learn on the job |
+## Every requirement in the spec: question and answer
+For each one: the question they're likely to ask, then your answer from real evidence. Say it in your own words; don't read it out. **Bradley to fill** means only you have the detail.
+
+**1. BSc, ideally maths or science**
+*"Tell me about your degree. What did you enjoy most?"*
+High 2:1 in Maths and Sports Science at Nottingham Trent. Firsts in Applied Statistics, Statistical Modelling and Performance Analysis; 2:1 in Probability and Statistical Inference. The best part was the dissertation, "Beating the Bookies": predicting Premier League results and comparing my model's probabilities with bookmaker odds. That's the closest thing in my degree to what ION does.
+
+**2. Excel**
+*"How would you rate your Excel? Give an example."*
+Strong for reconciliations and analysis. In the finance internship I reconciled 200+ transactions a week and used pivot tables and VLOOKUP to find discrepancies in ledger data. In Performance Analysis I tagged 1,000+ match events and built a one-page dashboard with pivot tables and charts. Name what you haven't used (for example XLOOKUP, Power Query, macros) and say you'd pick them up quickly. See the Excel questions below.
+
+**3. Picking up new applications quickly**
+*"Tell me about a time you had to learn a new tool fast."*
+Taught myself Tableau and published two dashboards ([[Money Buys Points]] and [[What Gets International Graduates Hired]]). At university I learned Dartfish for match tagging, plus Minitab, Statistica and MATLAB, as each module needed them. Also learned the Bershka tills and stock systems from scratch. **Bradley to fill:** how long Tableau took you to get usable, and one thing you worked out on your own.
+
+**4. Attention to detail**
+*"Give an example of an error you spotted that others missed."*
+Dissertation: while checking three seasons of match data (52 statistics per match), I found a previously unreported error in the source dataset, documented it and corrected for it before modelling. **Bradley to fill:** what exactly the error was and how you spotted it. This is your strongest answer, so know it cold.
+Backups: in the match report, the pitch-zone data was wrong after the teams swapped ends at half-time, and I corrected it. On Money Buys Points I spotted errors in an earlier version and rebuilt it.
+*"How do you make sure your own work is right?"* Check totals against a second source, sense-check extremes, re-check anything that looks too good, and check before sending, not after.
+
+**5. Numeracy, including probabilities**
+*Expect live questions: see the pop quiz and brainteasers below.*
+Talking point: in the dissertation I turned bookmaker odds into implied probabilities, took out the margin, and compared them with my model's probabilities.
+
+**6. Time zones and currencies**
+*"Are you comfortable working across time zones and currencies?"*
+Yes. Money Buys Points used Transfermarkt data in euros, so I worked in EUR (for example "6 points per EUR 100m"). In the NatWest vs FTSE project I worked with prices at 30-second, daily and monthly scales and left out non-trading days so they didn't distort the results, which is the same idea as knowing when each market is open. Following the NBA from the UK means always converting US times. **Bradley to fill:** any other real example (buying or selling abroad, travel).
+*Be ready for:* "What time is it in New York now?" (5 hours behind in November) and "Name as many currencies as you can."
+
+**7. Making informed trading decisions**
+*"Tell me about a decision you made based on data or odds."*
+The dissertation was this: if my model's probability for a result was higher than the bookmaker's implied probability, that's a value bet. I tested it over two live matchweeks. **Bradley to fill:** what the live test showed, even if the model lost. Saying honestly what didn't work is a good answer.
+Judgement call: reselling (deciding what to buy at what price for a margin, see [[Reselling]]) is real trading-style decision-making. Use it only if you're comfortable talking about it.
+
+**8. Organisation, structured approach, keeping colleagues updated**
+*"How do you organise your work? How do you keep your team informed?"*
+Finance internship: a weekly reconciliation routine and month-end close to a deadline. Captaining a football team: organising players and passing on information. **Bradley to fill:** a Bershka example (handing over to the next shift, telling a manager about a stock problem). Being honest that you track the job hunt, reselling and money in one system is also fair evidence of being structured.
+
+**9. SQL**
+*"What's your SQL like?"*
+Be honest: basics, working through the W3Schools course. Your CV lists SQL, so don't contradict it, but don't oversell it. Know the basic shape of a query (below). Say you're keen to learn it properly on the job, as the spec allows.
+
+**10. Interpersonal skills, mature and responsible**
+*"Tell me about a difficult customer or colleague." "When were you trusted with responsibility?"*
+Bershka: customer-facing every day. Coaching youth cricket: being responsible for young players. Jigsaw24 project: worked with commercially sensitive data under a confidentiality agreement and presented findings to the partner. **Bradley to fill:** one real Bershka story with a difficult customer or a busy period.
+
+**11. Flexible hours, weekend rota, swapping weekdays for weekends at least 50% of the time**
+*"Are you genuinely OK with this?"*
+Yes, and you can show it: at Bershka you already work shifts that change week to week, including weekends, late finishes up to 22:00 and split shifts. Only say yes if it's true. They'll take a straight answer seriously.
+
+**12. Initiative (they say this matters most)**
+*"Tell me about something you started on your own."*
+After graduating I built and published Money Buys Points on my own time: assembled a 100 club-season dataset from Transfermarkt and league tables, built it in Tableau, then rebuilt it when I found errors in the first version. In the finance internship I didn't just reconcile, I recommended process improvements. **Bradley to fill:** one of those improvements.
+Careful: the Money Buys Points statistics were done with Claude's help. Say you led the analysis and be ready to explain what the regression shows, or leave the stats out.
 
 ## The role in one line
 Support ION's researchers in running their trading strategies: monitor 24/7 trading platforms, spot errors and unusual behaviour, take corrective action, troubleshoot the trade cycle, and liaise with traders, counterparties and trading venues. Data quality and operations, not pure analysis. Strong Excel; SQL learnt on the job.
