@@ -17,11 +17,16 @@ area: career
 - Have open: [[CV-v7]] (the CV ION have), the spec, a pen and paper for working out.
 
 ## Ask Olivia in the briefing (Wed 09:15)
-- Who's interviewing: someone from trading operations, a researcher or HR? (Round 1 is usually with someone from a similar background.)
-- Will there be numerical questions, and are they mental arithmetic, written working, or both? Calculator allowed?
-- Anything ION have said about your CV that they'll want to dig into?
-- Tell her about the 12:30 shift, so the call can't run long, and ask her to pass that on.
-- Next steps if it goes well (ION normally do several in-person rounds at the Gherkin).
+Bradley is happy to be late for work to make this call longer (17-11-2026). Priority order:
+1. **Structure:** how long, who's on the call, what order (chat, CV, maths, questions), definitely 30 minutes?
+2. **Interviewer:** name, role, background, what they care about, can I look them up on LinkedIn?
+3. **Maths:** mental or written, calculator, odds/probability or general arithmetic, how many, time pressure, example of a past question.
+4. **Tests:** any Excel task, screen sharing, brainteasers, scenario questions?
+5. **CV:** anything ION picked up on or have concerns about (for example 2026 grad, SQL, Bershka)?
+6. **What they want:** what has made past candidates succeed or fail with ION?
+7. **The role:** shifts, weekend rota, salary, start date, size of the team.
+8. **After:** feedback timing, next round format, how many rounds, how quickly they decide.
+9. **Tell her:** hard stop for the 12:30 shift on Thursday.
 
 ## Who you'll talk to and what they want (from ION's guidelines)
 - **Round 1 interviewer:** usually someone with a background like yours (maths or science, probably from operations or trading). Or someone whose interest was caught by something on your CV. Most likely candidates: the "Beating the Bookies" dissertation or the dataset error. Know both inside out.
