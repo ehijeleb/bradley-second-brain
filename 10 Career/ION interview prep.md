@@ -23,6 +23,14 @@ area: career
 - Tell her about the 12:30 shift, so the call can't run long, and ask her to pass that on.
 - Next steps if it goes well (ION normally do several in-person rounds at the Gherkin).
 
+## Who you'll talk to and what they want (from ION's guidelines)
+- **Round 1 interviewer:** usually someone with a background like yours (maths or science, probably from operations or trading). Or someone whose interest was caught by something on your CV. Most likely candidates: the "Beating the Bookies" dissertation or the dataset error. Know both inside out.
+- **At the start:** ask their name and role if they don't say. Then pitch your answers at them: more detail for a researcher, more process for an operations person.
+- **"A story the CV can't tell":** they want the person, not a list. Have a clear thread: maths plus sport led to the dissertation on odds, checking data is what you're good at, and that's why a sports trading operations role makes sense.
+- **"Expect to be challenged":** expect follow-ups such as "why?", "how do you know?", "what would you do differently?". It's fine to pause, think out loud, or say "I'm not sure, but I'd check it like this". Don't bluff.
+- **Fit on interests and personality:** it's a small team. Let your interest in sport and markets come through naturally, and show you'd be easy to work with.
+- **Later rounds:** with people from other backgrounds. Every line on your CV is fair game.
+
 ## What ION is (from their guidelines, the only official source)
 - **Ion Asset Architecture UK Limited**: a small team of researchers and software developers analysing and **trading sports markets**. Evidence-driven, highly automated. Floor 28, 30 St Mary Axe (the Gherkin).
 - **Not** part of ION Group, ION Trading, ION Equity or any similar name: their FAQ says so directly. Don't mention ION Group or XTP. (The note here before 17-11-2026 guessed at an ION Group link. That was wrong.)
