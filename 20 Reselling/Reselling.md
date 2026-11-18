@@ -107,3 +107,4 @@ dv.view("20 Reselling/_scripts/reselling", { view: "check" })
 - 18-11-2026: Acoustic Piano slippers listed on Vinted (£80, offers to about £70).
 - 18-11-2026: Vinted listings went up with stock photos. Vinted requires your own photos of the actual item, and items in hand, so swap in real photos (X-Mansions now, the rest on arrival).
 - 18-11-2026: Vinted removed the dress listing for using stock photos (flagged as a duplicate) and warned that another breach could restrict listing ([[2026-11-18 Vinted Support - Listing removed (duplicate)]]). Re-list only with fresh photos of my own once it arrives. Dress back to in stock.
+- 18-11-2026: X-Mansions, sherpa, notebook and slippers are all live on Vinted with stock photos, at risk after the warning. Plan: own photos on the X-Mansions now; delete the sherpa, notebook and slippers listings until they arrive.
