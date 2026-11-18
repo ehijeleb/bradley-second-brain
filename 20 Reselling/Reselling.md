@@ -115,3 +115,4 @@ dv.view("20 Reselling/_scripts/reselling", { view: "check" })
 - 18-11-2026: second Vinted warning: listings hidden for copyrighted (stock) photos ([[2026-11-18 Vinted - Listings hidden (copyrighted images)]]). Hidden until own photos are added. Next breach may restrict listing. Rule from now: Vinted only with own photos of items in hand.
 - 18-11-2026: all Vinted listings removed except the controller and slippers, still under Vinted review. Delete those two as soon as the review ends. eBay listings unchanged (controller removed, appeal pending).
 - 18-11-2026: sherpa jacket delivered. Last return day 02-12-2026. Take own photos and re-list on Vinted.
+- 18-11-2026: sherpa jacket re-listed on Vinted with own photos (sealed bag, tag, SKU sticker), about £195. Also on eBay at £217.95. End the other listing when one sells.
