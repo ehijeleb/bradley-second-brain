@@ -16,6 +16,9 @@ area: career
 - Before the call: phone on silent, test the connection, laptop camera at eye level, quiet room, plain background. Treat it as face to face (Olivia's advice).
 - Have open: [[CV-v7]] (the CV ION have), the spec, a pen and paper for working out.
 
+## What Olivia said (18-11-2026)
+Olivia's briefing (18-11-2026): interviewer Mez, Talent Acquisition, 30 minutes. Topics: CV and modules (trends in datasets), why ION when it's not analytical, the role and the business, numerical background, problem solving, quick-fire maths, sorting thousands of dates, currencies known, Excel functions and formulas. Excel task only at the face-to-face round. SQL trained on the job with shadowing. Cheat sheet updated to match.
+
 ## Ask Olivia in the briefing (Wed 09:15)
 Bradley is happy to be late for work to make this call longer (17-11-2026). Priority order:
 1. **Structure:** how long, who's on the call, what order (chat, CV, maths, questions), definitely 30 minutes?

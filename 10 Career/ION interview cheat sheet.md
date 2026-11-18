@@ -11,31 +11,32 @@ Trading Assistant, Ion Asset Architecture.
 
 ---
 
-## 1. The day
+## 1. What Olivia told you (18-11)
 
-**Wednesday 18-11, 09:15:** 15-minute Teams call with Olivia. Ask her:
-
-- Who will interview me, and what's their role?
-- Will there be maths questions? Mental or written?
-- No need to mention your 12:30 shift: you're happy to be late, so the call can run as long as ION want. Let your Bershka manager know you might be late.
+- **Who:** Mez, from Talent Acquisition (Irish). Not a trader. Expect questions about you, your motivation and fit, plus quick-fire maths.
+- **Length:** 30 minutes.
+- **They'll cover:** your CV and modules, why ION, the role and the business, your numerical background and problem solving, quick-fire maths, sorting thousands of dates, what currencies you know, and what you can do with Excel functions and formulas.
+- **No Excel task on Thursday.** The hands-on formulas and functions task comes in the face-to-face round.
+- **Training:** SQL is taught on the job, with shadowing.
 
 **Thursday morning:**
 
-- Skip the gym or keep it short. Eat something.
+- Eat something. No gym.
 - 10:30: laptop charged, camera at eye level, quiet room, plain background.
 - Have ready: your CV (CV-v7), pen, paper, a glass of water.
 - 10:50: phone on silent. Open the Meet link from Olivia's email.
-- Smile, sit up, look at the camera when you talk.
+- Smile, sit up, look at the camera when you talk. Use Mez's name once or twice.
 
 ---
 
 ## 2. What the 30 minutes will probably look like
 
 1. **Hello and small talk** (2 min)
-2. **"Tell me about yourself"** (2 min)
-3. **Questions about your CV and why ION** (10 min)
-4. **Maths and quick-fire questions** (10 min)
-5. **Your questions for them** (5 min)
+2. **"Tell me about yourself" and your CV** (5 min)
+3. **Your modules and projects** (5 min)
+4. **Why ION, the role, the business** (5 min)
+5. **Maths, dates, currencies, Excel** (10 min)
+6. **Your questions** (3 min)
 
 ---
 
@@ -64,13 +65,31 @@ Trading Assistant, Ion Asset Architecture.
 
 ---
 
+## 4a. Your modules (they'll ask, so pick two)
+
+Relevant modules: **Applied Statistics (First), Statistical Modelling (First), Performance Analysis (First), Probability and Statistical Inference (2:1), Mathematical Enterprise (2:1)**, plus the dissertation.
+
+Olivia said to talk about **spotting trends in datasets**, which you did a lot of. Your best examples:
+
+- **Share price project (NatWest vs the FTSE):** wrote five rules for spotting patterns in time series, tested them on data built in Excel, then applied them to around 60 real prices at different time scales. Left out non-trading days so they didn't distort the results.
+- **Performance Analysis:** tagged 1,000+ events from a match, cleaned the pitch-zone data, and used pivot tables and charts to show team and player patterns.
+- **Business simulation:** 150+ survey responses, statistical testing found three significant consumer trends.
+- **Dissertation:** three seasons of match data, 52 statistics per match, looking for what predicts results.
+
+**How to say it:** "A lot of my degree was finding patterns in data and checking they're real, not noise. For example..." then one example in 30 seconds.
+
+---
+
 ## 5. Personal questions
 
 **Why this role?**
 "It's about accuracy with numbers in sport. That's what I enjoyed most in my degree, especially the dissertation. And I like that the work is live, so accuracy really matters."
 
 **Why ION?**
-"You're a small, evidence-driven team trading sports markets. I like that it's flat and based on ideas, so what I put in shows. I read your guidelines, and the focus on automation means this job is about catching what the systems miss. That's what I'm good at."
+"You're a small, evidence-driven team trading sports markets, so maths, probability and sport all count here. I like that it's flat and based on ideas, so what I put in shows. I read your guidelines: because so much is automated, this job is about catching what the systems miss. That's what I'm good at."
+
+**This isn't an analytical role. Why this rather than an analyst job?** (Olivia flagged this one)
+"I know it's operations, not analysis, and that's what I want right now. You learn how a trading business really works by being close to it: watching live markets, catching errors, talking to traders. I'd rather understand the business from the inside first. My strengths are accuracy and numbers, and in operations a mistake costs money straight away, so those skills actually matter. And with SQL training and shadowing on the job, I'd keep building the technical side too."
 
 **Why are you leaving Bershka?**
 "I took it after graduating to work while I found a role that uses my degree. This is that role."
@@ -112,10 +131,51 @@ Football (captain), youth cricket coaching, West Ham, the NBA, and reselling.
 ## 6. Skills questions
 
 **How good is your Excel?**
-"Strong for checking and analysing data: pivot tables, VLOOKUP, charts and dashboards, reconciliations." Only name what you've really used.
+"Strong for checking and analysing data: pivot tables, VLOOKUP, charts and dashboards, reconciliations." Only name what you've really used. Practise the functions below tonight so you can talk about them honestly.
 
-**How would you find duplicate trades?**
-"Conditional formatting to highlight duplicates, or a COUNTIF column to flag anything that appears more than once."
+**What can you do with Excel functions and formulas?** (Olivia flagged this one)
+
+| Job | Function |
+| --- | --- |
+| Look something up | `VLOOKUP`, `INDEX` + `MATCH`, `XLOOKUP` |
+| Add up or count with conditions | `SUMIFS`, `COUNTIFS`, `AVERAGEIFS` |
+| Make a decision | `IF`, `IFERROR`, `AND`, `OR` |
+| Clean text | `TRIM`, `LEFT`, `RIGHT`, `MID`, `UPPER`, `CONCAT` |
+| Dates | `DATE`, `DAY`, `MONTH`, `YEAR`, `WEEKDAY`, `DATEVALUE` |
+| Round numbers | `ROUND` |
+
+**Arranging data with only functions** (no clicking Sort or Filter). In newer Excel:
+
+- `=SORT(A2:C5000, 2, 1)` sorts the whole table by column 2, smallest first (-1 for largest first).
+- `=SORTBY(A2:C5000, B2:B5000, -1)` sorts by another column.
+- `=FILTER(A2:C5000, C2:C5000="EUR")` keeps only euro rows.
+- `=UNIQUE(B2:B5000)` lists each value once (for example, every counterparty).
+- Combine them: `=SORT(UNIQUE(B2:B5000))` gives a sorted list of unique values.
+
+Why it's better than sorting by hand: the original data stays untouched, and the result updates itself when the data changes.
+
+**How would you sort thousands of dates?** (Olivia flagged this one)
+
+1. **Check they're real dates first.** Excel stores dates as numbers. Text that looks like a date won't sort properly (it sits left-aligned). Fix with `DATEVALUE` or Text to Columns.
+2. **Watch the format.** 03/04 is 3 April in the UK but 4 March in the US. Check a date where the day is over 12.
+3. **Sort:** `=SORT(A2:A5000)` (oldest first) or `=SORT(A2:A5000,,-1)` (newest first).
+4. **Then check them:**
+   - Duplicates: `=COUNTIF(A:A, A2)>1`
+   - Gaps: `=A3-A2` shows the days between each date
+   - Weekends: `=WEEKDAY(A2, 2)>5`
+   - Group by month: `=MONTH(A2)` and `=YEAR(A2)`, or a pivot table
+   - Anything impossible: dates in the future, or before the data should start
+
+**What currencies do you know?** (Olivia flagged this one)
+Say the name and the code:
+
+- **Main ones:** British pound GBP, Euro EUR, US dollar USD, Japanese yen JPY, Swiss franc CHF
+- **Commonwealth:** Australian dollar AUD, Canadian dollar CAD, New Zealand dollar NZD
+- **Nordic:** Swedish krona SEK, Norwegian krone NOK, Danish krone DKK
+- **Asia:** Hong Kong dollar HKD, Singapore dollar SGD, Chinese yuan CNY, Indian rupee INR, South Korean won KRW
+- **Others:** South African rand ZAR, Brazilian real BRL, Mexican peso MXN, Polish zloty PLN, Turkish lira TRY
+
+Bonus point: some countries use the euro but aren't in the EU (Montenegro, Kosovo), and some EU countries don't use the euro (Sweden, Denmark, Poland).
 
 **How would you check our trades match a counterparty's?**
 "Look up each trade ID in their list with VLOOKUP. Flag anything missing or with a different amount, then filter to see just the problems."
@@ -127,7 +187,7 @@ Football (captain), youth cricket coaching, West Ham, the NBA, and reselling.
 "Excel stores times as fractions of a day, so add or subtract hours divided by 24."
 
 **What's your SQL like?**
-"The basics. I'm working through a course now and I'm keen to use it every day." Only list commands you've actually practised.
+"The basics. I'm working through a course now, and I know you train SQL on the job with shadowing, which is a big part of why this role appeals." Only list commands you've actually practised.
 
 **A market is still open after the match has finished. What do you do?**
 "Check it against another source, follow the procedure to stop it, tell the trader straight away, and write down what happened and when. I wouldn't guess."
