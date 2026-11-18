@@ -25,6 +25,7 @@ For anything to do with the job hunt (assessing adverts, suggesting companies, r
 - Each area has its own Claude Code chat (Career, Learning and Portfolio, Reselling, Bershka and Money, Personal, World Affairs). The map is `40 Resources/Which chat for what.md`. Several chats share this folder, so pull before editing.
 - World affairs: follow "Rules for Claude" in `35 World Affairs/World Affairs.md` (check the web, cite sources, neutral).
 - A scheduled task ("Daily plan", 8am) writes the day's plan into `01 Daily/YYYY-MM-DD.md` from the vault's own dates (Bershka shifts, Fitness plan, deadlines, next actions), never from a calendar connector.
+- The daily plan also checks the Returns table in [[Reselling]]: any item still in [[Stock]] (not sold or kept) whose last return day is within 5 days goes under "Due or overdue", with the last day, how to return it and whether it's listed. On the last day itself, put it in Top 3. Also flag any delivered item whose last return day hasn't been filled in yet (Bradley asked for this on 18-11-2026).
 
 ## Calendar
 - The Google Calendar connected in cloud sessions (benedict.ibha) is not Bradley's. Never read or write it.
