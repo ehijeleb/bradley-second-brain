@@ -21,7 +21,7 @@ status: active
 - 
 
 ## Status log
-- 18-11-2026: Olivia Ross briefed Bradley for the ION interview (interviewer Mez, Talent Acquisition).
+- 18-11-2026: Olivia Ross briefed Bradley for the ION interview (interviewer Drish, Talent Acquisition).
 - 17-11-2026: Olivia Ross confirmed the ION interview (19-11-2026 11:00) and booked a briefing call (18-11-2026 09:15).
 - 16-11-2026: Olivia Ross: ION want a screening call.
 - 16-11-2026: Jamie Bird sent Sigma's rejection. Holly's original question is now moot.

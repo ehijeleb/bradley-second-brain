@@ -96,7 +96,7 @@ views:
 - 16-11-2026: APP-001 ION moved to stage ION screening call (30 minutes, to be booked through Olivia Ross).
 - 16-11-2026: Bradley confirmed APP-002 Data School, APP-003 Betway, APP-004 WTW and APP-005 GHD all rejected. Status done.
 - 16-11-2026: APP-006 Sigma Labs rejected after the Equalture games (cognitive flexibility the weak area). Status done; can reapply from 16-11-2027.
-- 18-11-2026: APP-001 ION briefing with Olivia done. Interviewer Mez (Talent Acquisition), 30 minutes; Excel task only at the face-to-face round.
+- 18-11-2026: APP-001 ION briefing with Olivia done. Interviewer Drish (Talent Acquisition), 30 minutes; Excel task only at the face-to-face round.
 - 17-11-2026: APP-001 ION moved to stage Interview: online interview Thu 19-11-2026 11:00 (Google Meet, about 30 minutes), briefing with Olivia Ross Wed 18-11-2026 09:15.
 - 15-11-2026: APP-006 Sigma Labs Equalture results in (problem solving High, learning ability Average). Waiting on Sigma's decision.
 ---

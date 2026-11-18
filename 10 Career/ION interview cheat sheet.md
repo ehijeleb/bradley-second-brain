@@ -13,11 +13,17 @@ Trading Assistant, Ion Asset Architecture.
 
 ## 1. What Olivia told you (18-11)
 
-- **Who:** Mez, from Talent Acquisition (Irish). Not a trader. Expect questions about you, your motivation and fit, plus quick-fire maths.
-- **Length:** 30 minutes.
-- **They'll cover:** your CV and modules, why ION, the role and the business, your numerical background and problem solving, quick-fire maths, sorting thousands of dates, what currencies you know, and what you can do with Excel functions and formulas.
-- **No Excel task on Thursday.** The hands-on formulas and functions task comes in the face-to-face round.
-- **Training:** SQL is taught on the job, with shadowing.
+- **Who:** Drish, from Talent Acquisition. Has some technical knowledge and will ask maths questions, but isn't a trader. Olivia may send Drish's contact details.
+- **Length:** 30 minutes exactly (the 30 minutes to 2 hours in the guidelines is for in-person rounds).
+- **They'll cover:** a run-through of your CV, your degree and the modules you enjoyed and why, why you want this role (when it isn't hugely analytical), the role itself, what ION does as a business, quick-fire maths, sorting thousands of dates, what currencies you know, and a couple of Excel questions to see how much experience you have.
+- **They'll also tell you** about the role, the business and what the first three months look like.
+- **They'll check** you're happy with the shift pattern, weekend work and 5 days a week in the office.
+- **What they look for:** a strong numerical background and problem solving. They tend to hire people with hard degrees: maths, economics, statistics. Your maths degree fits.
+- **The role, in Olivia's words:** reviewing large volumes of data, troubleshooting, and updating the live platform in time.
+- **Training:** lots of it on the job, including SQL. You shadow someone for a while, learn the ropes, then take on your own workload.
+- **If you don't know something:** say so. "I haven't done that before, but I'd like to learn it" is exactly what Olivia advised.
+- **No Excel task on Thursday.** If you get through, the face-to-face at the Gherkin includes a task: rearrange a dataset using only formulas, at a computer. Olivia will give you a separate prep call for that round.
+- **Her maths examples (you got them all right on the call):** 30% of 200 = 60. 145 to the power 0 = 1. Square root of 121 = 11. "My brother was half my age when I was 4. I'm now 24. How old is he?" = 22.
 
 **Thursday morning:**
 
@@ -25,7 +31,7 @@ Trading Assistant, Ion Asset Architecture.
 - 10:30: laptop charged, camera at eye level, quiet room, plain background.
 - Have ready: your CV (CV-v7), pen, paper, a glass of water.
 - 10:50: phone on silent. Open the Meet link from Olivia's email.
-- Smile, sit up, look at the camera when you talk. Use Mez's name once or twice.
+- Smile, sit up, look at the camera when you talk. Use Drish's name once or twice.
 
 ---
 
@@ -89,7 +95,7 @@ Olivia said to talk about **spotting trends in datasets**, which you did a lot o
 "You're a small, evidence-driven team trading sports markets, so maths, probability and sport all count here. I like that it's flat and based on ideas, so what I put in shows. I read your guidelines: because so much is automated, this job is about catching what the systems miss. That's what I'm good at."
 
 **This isn't an analytical role. Why this rather than an analyst job?** (Olivia flagged this one)
-"I know it's operations, not analysis, and that's what I want right now. You learn how a trading business really works by being close to it: watching live markets, catching errors, talking to traders. I'd rather understand the business from the inside first. My strengths are accuracy and numbers, and in operations a mistake costs money straight away, so those skills actually matter. And with SQL training and shadowing on the job, I'd keep building the technical side too."
+"I know it's operations, not analysis: reviewing large volumes of data, troubleshooting, and keeping the live platform updated in time. That's what I want right now. You learn how a trading business really works by being close to it: watching live markets, catching errors, talking to traders. I'd rather understand the business from the inside first. My strengths are accuracy and numbers, and in operations a mistake costs money straight away, so those skills actually matter. And with SQL training and shadowing on the job, I'd keep building the technical side too."
 
 **Why are you leaving Bershka?**
 "I took it after graduating to work while I found a role that uses my degree. This is that role."
@@ -112,8 +118,8 @@ Captaining the football team: organising players, keeping everyone informed, sta
 **Where do you see yourself in five years?**
 "Really good at the operations side, then taking on more responsibility. Maybe moving towards trading or research at ION if I've earned it."
 
-**Are you OK with weekends and the hours?**
-"Yes. My shifts at Bershka already change every week, including weekends and late finishes."
+**Are you OK with the shifts, weekends and 5 days a week in the office?** (Olivia says they'll check this)
+"Yes. I understand it's 5 days a week, with weekend work on a rota. Sometimes weekends can be from home, but I'd need to be available to come in when you need me, and that's fine. My shifts at Bershka already change every week, including weekends and late finishes." Only say yes if it's true.
 
 **What do you do outside work?**
 Football (captain), youth cricket coaching, West Ham, the NBA, and reselling.
@@ -223,6 +229,37 @@ Bonus point: some countries use the euro but aren't in the EU (Montenegro, Kosov
 
 - A 30% fall needs a **42.9%** rise to get back, not 30%.
 
+**More quick-fire practice** (the type Olivia gave you)
+
+1. 15% of 80
+2. 25% of 360
+3. 2 to the power 10
+4. 3 to the power 4
+5. Square root of 144, 169, 196, 225
+6. 12 x 15
+7. 0.2 x 0.3
+8. 1/8 as a decimal
+9. When I was 6, my sister was half my age. I'm now 40. How old is she?
+10. A bat and ball cost £1.10. The bat costs £1 more than the ball. How much is the ball?
+11. A train goes 60 mph for 45 minutes. How far?
+12. 17% of 300
+
+> [!success]- Answers
+> 1. 12
+> 2. 90
+> 3. 1,024
+> 4. 81
+> 5. 12, 13, 14, 15
+> 6. 180
+> 7. 0.06
+> 8. 0.125
+> 9. 37 (she's 3 years younger: half of 6 is 3)
+> 10. 5p (not 10p: 5p + £1.05 = £1.10)
+> 11. 45 miles
+> 12. 51 (10% is 30, 7% is 21)
+
+**Rules worth knowing:** anything to the power 0 is 1. Age gaps never change. For percentages, find 10% and 1% first, then build up.
+
 **If you're stuck:** say your working out loud. They're marking how you think, not only the answer.
 
 ---
@@ -231,7 +268,8 @@ Bonus point: some countries use the euro but aren't in the EU (Montenegro, Kosov
 
 - What does a normal shift look like for a Trading Assistant?
 - What are the most common errors the team catches?
-- How long until new starters work on their own?
+- How long is the shadowing period before I'd have my own workload?
+- What would the first three months look like? (They may cover this themselves. If so, ask something else.)
 - What does progression look like from this role?
 
 ---
