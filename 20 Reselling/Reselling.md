@@ -65,6 +65,18 @@ Reselling money also counts as income: when profit is taken out, log it in that 
 - [ ] **18-11-2026 onwards:** Red Bull Advent Calendar at Tesco stores, £25 with Clubcard (was £45), until 09-12-2026. Check eBay sold prices first (the ping only showed a £53.99 + £6.65 asking price), then pick some up if the margin holds after postage. See [[House of Resell]]. 18-11-2026: bought 2 on the Amex (the store limited it to 2), aiming for about £50 each. Then 4 more on the Amex, 6 in total. Keep the receipts for returns.
 - [ ] **By 23-11-2026:** Smyths delivery, order UK303047392 (GTA VI DualSense, white, ordered 18-11-2026 on Apple Pay). 1 controller, £74.99 on NatWest, added to [[Stock]]. Change its state to listed if you list it as a presale. eBay sold £94 to £100 + postage on 18-11-2026. See [[House of Resell]].
 
+## Returns
+Return windows for everything in [[Stock]], checked 18-11-2026. "Verified" means it comes from the shop's own terms or support; "unconfirmed" means third-party guides only, so check the receipt or order email. Update the last day once delivery dates are known. Keep every receipt and order email, and keep items unopened with tags on.
+
+| Item | Shop | Window | Last day | Conditions | Confidence |
+| --- | --- | --- | --- | --- | --- |
+| LEGO X-Mansion x2 | Smyths Romford (in store, 17-11-2026) | 28 days from purchase | 15-12-2026 | Unopened, resaleable, receipt | Verified (Smyths returns page via search) |
+| GTA VI DualSense | Smyths online (UK303047392) | 14-day cooling-off plus 14 extra days, from delivery | About 21-12-2026 if delivered 23-11-2026 | Unopened, dispatch email, bring the NatWest card | Verified (Smyths returns page via search) |
+| Red Bull Advent Calendar x6 | Tesco Extra (18-11-2026, Amex) | Not stated by Tesco for in-store food; guides say 30 days | Unconfirmed: check the receipt, aim to decide by 09-12-2026 | Receipt, back to an Extra or Superstore (not Express), before the best-before date, refund at £25 to the Amex | Unconfirmed |
+| H&M x Elie Saab dress | H&M online (17-11-2026) | Guides say 30 days from delivery, but designer collabs can be shorter (one had 7 days online) | Unknown until delivery and the order email are checked | Tags on, unworn | Unconfirmed: check the order email |
+| Sherpa jacket, sweatpants, notebook, slippers, earbud case | Taylor Swift UK Store | 14 days from the day after delivery | Delivery + 14 days (dates needed) | Unopened, same condition; earbud case via the Royal Mail returns portal in support's reply | Verified for the sherpa (store terms) and earbud case (support); assumed the same for the rest |
+| Topps NOW Ronaldo pack | Topps UK | Printed to order; Topps' store policy says sales are final | No return | n/a | Unconfirmed for the UK site |
+
 ## Notes
 - 13-11-2026: no stock yet. Previous experience reselling shoes, about 2021 to 2023.
 - 15-11-2026: reselling is paid from NatWest current for now. 16-11-2026: the Amex card hasn't arrived yet, so NatWest stays the reselling card until it does. Once buying picks up, plan to move reselling to HSBC or the Amex, depending on the size of the purchase. 17-11-2026: the Amex arrived; first reselling buy on it 18-11-2026 (2 Red Bull advent calendars).
@@ -84,3 +96,4 @@ dv.view("20 Reselling/_scripts/reselling", { view: "check" })
 - 16-11-2026: X-Mansion sold on eBay, £300 to Bradley (buyer paid the Buyer Protection fee on top, collection so no postage). Profit £10.01 once collected and handed over.
 - 15-11-2026: entered the Riftbound raffle (both bundles), winner emails 17-11-2026. Request Invites 1 done.
 - 17-11-2026: X-Mansion collected from Smyths Thurrock and handed over to the eBay buyer. Topps Super Tin refund (£24.99) landed. Bought 2 more X-Mansions (£289.99 each, Smyths Romford click and collect, NatWest), listed on eBay at £320 payout each, messages already in. Holding the Acoustic Piano notebook and slippers for now (watchers on the listings).
+- 18-11-2026: return windows for all stock added under Returns.
