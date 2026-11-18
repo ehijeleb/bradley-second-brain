@@ -8,24 +8,26 @@ Everything you've done, one brief each. Know these and you can answer almost any
 
 ## Which project for which question
 
-| If they ask about... | Use |
+| If they ask about... | Use (tap to jump) |
 | --- | --- |
-| Attention to detail, spotting errors | Dissertation data problem, Money Buys Points rebuild, match report half-time fix, finance internship |
-| Numeracy and probability | Dissertation, Money Buys Points, share price project |
-| Trends and patterns in data | Share price project, business simulation, Money Buys Points, match report |
-| Excel | Finance internship, match report, share price project, business simulation |
-| Learning new software fast | Tableau dashboards, Dartfish, Statistica, R, Minitab |
-| Problem solving, troubleshooting | Dissertation rebuild, Money Buys Points rebuild |
-| Trading decisions, odds | Dissertation (live bets), reselling |
-| Time zones and currencies | Money Buys Points (euros), share price project (trading days and times) |
-| Communicating, working with others | Jigsaw24, energy project, business simulation, football captain, Bershka |
-| Responsibility, maturity | Jigsaw24 confidentiality, cricket coaching, finance internship |
-| Initiative | Money Buys Points, graduate dashboard, portfolio website, reselling |
-| Organisation and deadlines | Finance internship month-end, dissertation, reports with page limits |
+| Attention to detail, spotting errors | [[#1. Dissertation, Beating the Bookies (2025 to 2026)\|Dissertation data problem]], [[#8. Money Buys Points, Tableau dashboard (personal project, 2026)\|Money Buys Points rebuild]], [[#2. Performance Analysis, post-match report (module, First)\|match report half-time fix]], [[#11. Finance internship, USP College Finance Office (June to August 2023)\|finance internship]] |
+| Numeracy and probability | [[#1. Dissertation, Beating the Bookies (2025 to 2026)\|Dissertation]], [[#8. Money Buys Points, Tableau dashboard (personal project, 2026)\|Money Buys Points]], [[#3. Share price project, NatWest vs the FTSE (Mathematical Enterprise, and time series work)\|share price project]] |
+| Trends and patterns in data | [[#3. Share price project, NatWest vs the FTSE (Mathematical Enterprise, and time series work)\|Share price project]], [[#4. Business simulation, data analyst role (2024)\|business simulation]], [[#8. Money Buys Points, Tableau dashboard (personal project, 2026)\|Money Buys Points]], [[#2. Performance Analysis, post-match report (module, First)\|match report]] |
+| Excel | [[#11. Finance internship, USP College Finance Office (June to August 2023)\|Finance internship]], [[#2. Performance Analysis, post-match report (module, First)\|match report]], [[#3. Share price project, NatWest vs the FTSE (Mathematical Enterprise, and time series work)\|share price project]], [[#4. Business simulation, data analyst role (2024)\|business simulation]] |
+| Learning new software fast | [[#8. Money Buys Points, Tableau dashboard (personal project, 2026)\|Tableau (Money Buys Points)]], [[#9. What Gets International Graduates Hired, Tableau dashboard (personal project, 2026)\|Tableau (graduates)]], [[#2. Performance Analysis, post-match report (module, First)\|Dartfish]], [[#1. Dissertation, Beating the Bookies (2025 to 2026)\|Statistica]], [[#5. Jigsaw24 industry project (2024 to 2026)\|R]], [[#3. Share price project, NatWest vs the FTSE (Mathematical Enterprise, and time series work)\|Minitab]] |
+| Problem solving, troubleshooting | [[#1. Dissertation, Beating the Bookies (2025 to 2026)\|Dissertation rebuild]], [[#8. Money Buys Points, Tableau dashboard (personal project, 2026)\|Money Buys Points rebuild]] |
+| Trading decisions, odds | [[#1. Dissertation, Beating the Bookies (2025 to 2026)\|Dissertation (live bets)]], [[#13. Reselling (about 2021 to 2023, restarted November 2026)\|reselling]] |
+| Time zones and currencies | [[#8. Money Buys Points, Tableau dashboard (personal project, 2026)\|Money Buys Points (euros)]], [[#3. Share price project, NatWest vs the FTSE (Mathematical Enterprise, and time series work)\|share price project (trading days and times)]] |
+| Communicating, working with others | [[#5. Jigsaw24 industry project (2024 to 2026)\|Jigsaw24]], [[#6. Energy consumption modelling (statistics module)\|energy project]], [[#4. Business simulation, data analyst role (2024)\|business simulation]], [[#14. Football captain and youth cricket coach\|football captain]], [[#12. Bershka, sales assistant (July 2026 to now)\|Bershka]] |
+| Responsibility, maturity | [[#5. Jigsaw24 industry project (2024 to 2026)\|Jigsaw24 confidentiality]], [[#14. Football captain and youth cricket coach\|cricket coaching]], [[#11. Finance internship, USP College Finance Office (June to August 2023)\|finance internship]] |
+| Initiative | [[#8. Money Buys Points, Tableau dashboard (personal project, 2026)\|Money Buys Points]], [[#9. What Gets International Graduates Hired, Tableau dashboard (personal project, 2026)\|graduate dashboard]], [[#10. Portfolio website (2026)\|portfolio website]], [[#13. Reselling (about 2021 to 2023, restarted November 2026)\|reselling]] |
+| Organisation and deadlines | [[#11. Finance internship, USP College Finance Office (June to August 2023)\|Finance internship month-end]], [[#1. Dissertation, Beating the Bookies (2025 to 2026)\|dissertation]], [[#6. Energy consumption modelling (statistics module)\|reports with page limits]] |
+
+**All projects:** [[#1. Dissertation, Beating the Bookies (2025 to 2026)|1. Dissertation]] · [[#2. Performance Analysis, post-match report (module, First)|2. Match report]] · [[#3. Share price project, NatWest vs the FTSE (Mathematical Enterprise, and time series work)|3. Share price]] · [[#4. Business simulation, data analyst role (2024)|4. Business simulation]] · [[#5. Jigsaw24 industry project (2024 to 2026)|5. Jigsaw24]] · [[#6. Energy consumption modelling (statistics module)|6. Energy modelling]] · [[#7. Design of Experiments coursework|7. Design of Experiments]] · [[#8. Money Buys Points, Tableau dashboard (personal project, 2026)|8. Money Buys Points]] · [[#9. What Gets International Graduates Hired, Tableau dashboard (personal project, 2026)|9. Graduates dashboard]] · [[#10. Portfolio website (2026)|10. Portfolio website]] · [[#11. Finance internship, USP College Finance Office (June to August 2023)|11. Finance internship]] · [[#12. Bershka, sales assistant (July 2026 to now)|12. Bershka]] · [[#13. Reselling (about 2021 to 2023, restarted November 2026)|13. Reselling]] · [[#14. Football captain and youth cricket coach|14. Football and cricket]]
 
 ---
 
-## 1. Dissertation: Beating the Bookies (2025 to 2026)
+## 1. Dissertation, Beating the Bookies (2025 to 2026)
 
 **What:** a neural network (multi-layer perceptron) that predicts Premier League results, compared with bookmaker odds.
 
@@ -49,9 +51,11 @@ Everything you've done, one brief each. Know these and you can answer almost any
 - What the two live matchweeks showed (won or lost, and what you learned).
 - The AUC of 0.9844 is very high for football. If asked, know whether the 52 statistics were from before the match or from the match itself. If they were from the match, say the model explains results rather than predicting them in advance. Being upfront about limits impresses people.
 
+[[#Which project for which question|Back to the table]]
+
 ---
 
-## 2. Performance Analysis: post-match report (module, First)
+## 2. Performance Analysis, post-match report (module, First)
 
 **What:** a full analysis of one football match, turned into a one-page dashboard.
 
@@ -65,9 +69,11 @@ Everything you've done, one brief each. Know these and you can answer almost any
 
 **Shows:** attention to detail (the half-time fix is a perfect small example), Excel, learning new software, spotting patterns.
 
+[[#Which project for which question|Back to the table]]
+
 ---
 
-## 3. Share price project: NatWest vs the FTSE (Mathematical Enterprise, and time series work)
+## 3. Share price project, NatWest vs the FTSE (Mathematical Enterprise, and time series work)
 
 **What:** testing ways to spot patterns in share prices, then using them on real data.
 
@@ -84,9 +90,11 @@ Everything you've done, one brief each. Know these and you can answer almost any
 
 **Shows:** finding trends, Excel, financial markets, knowing when markets are open (time zones angle), careful data handling.
 
+[[#Which project for which question|Back to the table]]
+
 ---
 
-## 4. Business simulation: data analyst role (2024)
+## 4. Business simulation, data analyst role (2024)
 
 **What:** a group project building a business proposal. You were the data analyst.
 
@@ -100,6 +108,8 @@ Everything you've done, one brief each. Know these and you can answer almost any
 **Numbers:** 150+ responses, 3 significant trends.
 
 **Shows:** trends in data, telling real patterns from noise, Excel, teamwork, presenting.
+
+[[#Which project for which question|Back to the table]]
 
 ---
 
@@ -115,6 +125,8 @@ Everything you've done, one brief each. Know these and you can answer almost any
 
 **Shows:** responsibility (trusted with confidential data), working with a real client, explaining results to non-specialists.
 
+[[#Which project for which question|Back to the table]]
+
 ---
 
 ## 6. Energy consumption modelling (statistics module)
@@ -129,6 +141,8 @@ Everything you've done, one brief each. Know these and you can answer almost any
 
 **Shows:** choosing the right tool by testing, not guessing; explaining technical results simply; working to a tight brief.
 
+[[#Which project for which question|Back to the table]]
+
 ---
 
 ## 7. Design of Experiments coursework
@@ -139,9 +153,11 @@ Everything you've done, one brief each. Know these and you can answer almost any
 
 **Shows:** checking your work is valid before trusting it. Use briefly, as backup.
 
+[[#Which project for which question|Back to the table]]
+
 ---
 
-## 8. Money Buys Points: Tableau dashboard (personal project, 2026)
+## 8. Money Buys Points, Tableau dashboard (personal project, 2026)
 
 **What:** does Premier League transfer spending buy league points? Built on your own time, published on Tableau Public.
 
@@ -161,9 +177,11 @@ Everything you've done, one brief each. Know these and you can answer almost any
 
 **Careful:** the statistical tests were done with Claude's help. Say you led the analysis. Explain findings in plain English, or skip the stats.
 
+[[#Which project for which question|Back to the table]]
+
 ---
 
-## 9. What Gets International Graduates Hired: Tableau dashboard (personal project, 2026)
+## 9. What Gets International Graduates Hired, Tableau dashboard (personal project, 2026)
 
 **What:** a second published dashboard: what decides whether an international graduate gets a job?
 
@@ -175,6 +193,8 @@ Everything you've done, one brief each. Know these and you can answer almost any
 
 **Shows:** handling large datasets, learning Tableau, initiative.
 
+[[#Which project for which question|Back to the table]]
+
 ---
 
 ## 10. Portfolio website (2026)
@@ -183,9 +203,11 @@ Everything you've done, one brief each. Know these and you can answer almost any
 
 **Shows:** initiative, learning new tools. A good answer to "what have you done off your own back?"
 
+[[#Which project for which question|Back to the table]]
+
 ---
 
-## 11. Finance internship: USP College Finance Office (June to August 2023)
+## 11. Finance internship, USP College Finance Office (June to August 2023)
 
 **What you did**
 
@@ -200,15 +222,19 @@ Everything you've done, one brief each. Know these and you can answer almost any
 
 **Check:** be ready to say how the 2 days and 15% came about, and one improvement you suggested.
 
+[[#Which project for which question|Back to the table]]
+
 ---
 
-## 12. Bershka: sales assistant (July 2026 to now)
+## 12. Bershka, sales assistant (July 2026 to now)
 
 **What you do:** customer-facing sales at Bershka Lakeside, 40 hours a week on a changing rota: weekends, late finishes up to 22:00, split shifts.
 
 **Shows:** flexibility with shifts and weekends, dealing with people, working under pressure on busy days.
 
 **Have ready:** one real story about a busy shift or a difficult customer.
+
+[[#Which project for which question|Back to the table]]
 
 ---
 
@@ -218,6 +244,8 @@ Everything you've done, one brief each. Know these and you can answer almost any
 
 **Shows:** making decisions with money on the line using market prices, spotting opportunities, organisation. Your call whether to mention it.
 
+[[#Which project for which question|Back to the table]]
+
 ---
 
 ## 14. Football captain and youth cricket coach
@@ -225,3 +253,5 @@ Everything you've done, one brief each. Know these and you can answer almost any
 **What:** captain of a local football team; coach young cricket players.
 
 **Shows:** leadership, keeping people informed, staying calm under pressure, responsibility for others. Plus your genuine love of sport (West Ham, NBA).
+
+[[#Which project for which question|Back to the table]]
