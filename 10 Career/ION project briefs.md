@@ -57,7 +57,7 @@ Everything you've done, one brief each. Know these and you can answer almost any
 
 **What you did**
 
-- Tagged over 1,000 events from a full match in Dartfish (passes, shots, where on the pitch).
+- Tagged over 1,000 events from a full match in Dartfish.
 - Noticed the pitch-zone data was wrong after the teams swapped ends at half-time, and corrected it.
 - Used Excel pivot tables and charts to build a one-page dashboard of team and player performance.
 
