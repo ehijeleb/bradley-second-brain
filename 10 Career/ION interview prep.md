@@ -6,7 +6,7 @@ area: career
 
 > [!info] What this is
 > Prep for the ION online interview for [[APP-001 ION Asset Architecture - Trading Operations Assistant]]: **Thursday 19-11-2026, 11:00, Google Meet, about 30 minutes** (link in Olivia's email). Briefing with Olivia Ross on Teams **Wednesday 18-11-2026, 09:15 to 09:30**. Made 16-11-2026, updated 17-11-2026 with ION's spec and guidelines ([[2026-11-17 Datatech - Interview Confirmation - Ion Asset Architecture UK Ltd]]).
-> **Excel practice:** `10 Career/Exports/ION/ION Excel practice.xlsx` (sports trading data with planted errors, tasks and an answer key).
+> **Excel practice:** `10 Career/Exports/ION/ION Excel practice.xlsx` (sports trading data with planted errors, tasks and an answer key) and `ION Excel functions practice.xlsx` (18-11-2026: function guide, 15 self-checking tasks, formulas-only sorting like the face-to-face task, dates).
 > Answers below use only real evidence from [[CV-v7]] and [[CV and Interview Prep]]. Lines marked **Bradley to fill** need a real example from you.
 
 ## Logistics
