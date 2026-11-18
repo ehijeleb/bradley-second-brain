@@ -100,3 +100,4 @@ dv.view("20 Reselling/_scripts/reselling", { view: "check" })
 - 17-11-2026: X-Mansion collected from Smyths Thurrock and handed over to the eBay buyer. Topps Super Tin refund (£24.99) landed. Bought 2 more X-Mansions (£289.99 each, Smyths Romford click and collect, NatWest), listed on eBay at £320 payout each, messages already in. Holding the Acoustic Piano notebook and slippers for now (watchers on the listings).
 - 18-11-2026: return windows for all stock added under Returns.
 - 18-11-2026: all Taylor Swift Store orders dispatched. Returning the sweatpants and earbud case as soon as they arrive. Remove them from [[Stock]] once refunded.
+- 18-11-2026: both X-Mansions also listed on Vinted at £320. Take the other listing down when one sells on either site.
