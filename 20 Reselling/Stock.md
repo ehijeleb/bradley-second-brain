@@ -10,7 +10,7 @@ One line per item. Add the sold fields to the same line when it sells. Format an
 - Taylor Swift Take Me to the Lakes Fleece Sherpa Zip-Up Jacket, size 3XL [bought:: 15-11-2026] [cost:: 120.00] [from:: Taylor Swift UK Store] [paid:: NatWest current] [state:: listed]
 - LEGO Marvel 76294 X-Men: The X-Mansion [bought:: 15-11-2026] [cost:: 289.99] [from:: Smyths Toys, Thurrock (click and collect)] [paid:: NatWest current] [state:: sold] [sold:: 16-11-2026] [price:: 300.00] [platform:: eBay]
 - Topps NOW Cristiano Ronaldo 2026 Portugal Final Farewell Pack (2 cards) [bought:: 16-11-2026] [cost:: 18.00] [from:: Topps UK] [paid:: NatWest current] [state:: in stock]
-- Taylor Swift Acoustic Piano Cozy Slippers, size 36 [bought:: 16-11-2026] [cost:: 55.25] [from:: Taylor Swift UK Store] [paid:: NatWest current] [state:: in stock]
+- Taylor Swift Acoustic Piano Cozy Slippers, size 36 [bought:: 16-11-2026] [cost:: 55.25] [from:: Taylor Swift UK Store] [paid:: NatWest current] [state:: listed]
 - Taylor Swift The Eras Tour Acoustic Piano Sweatpants, size L [bought:: 16-11-2026] [cost:: 70.25] [from:: Taylor Swift UK Store] [paid:: NatWest current] [state:: listed]
 - Taylor Swift Acoustic Piano Notebook [bought:: 16-11-2026] [cost:: 30.25] [from:: Taylor Swift UK Store] [paid:: NatWest current] [state:: listed]
 - Taylor Swift Lover Album Cloud Rhinestone Earbud Case, Regular (AirPods Gen 4) [bought:: 16-11-2026] [cost:: 35.25] [from:: Taylor Swift UK Store] [paid:: NatWest current] [state:: listed]

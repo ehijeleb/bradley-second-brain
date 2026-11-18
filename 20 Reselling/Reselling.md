@@ -104,3 +104,4 @@ dv.view("20 Reselling/_scripts/reselling", { view: "check" })
 - 18-11-2026: H&M x Elie Saab dress listed on Vinted (about £825, offers to about £780).
 - 18-11-2026: sherpa jacket listed on Vinted (£195, offers to about £175).
 - 18-11-2026: Acoustic Piano notebook listed on Vinted (about £45 to £55).
+- 18-11-2026: Acoustic Piano slippers listed on Vinted (£80, offers to about £70).
