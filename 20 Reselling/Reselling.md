@@ -105,3 +105,4 @@ dv.view("20 Reselling/_scripts/reselling", { view: "check" })
 - 18-11-2026: sherpa jacket listed on Vinted (£195, offers to about £175).
 - 18-11-2026: Acoustic Piano notebook listed on Vinted (about £45 to £55).
 - 18-11-2026: Acoustic Piano slippers listed on Vinted (£80, offers to about £70).
+- 18-11-2026: Vinted listings went up with stock photos. Vinted requires your own photos of the actual item, and items in hand, so swap in real photos (X-Mansions now, the rest on arrival).
