@@ -45,6 +45,13 @@ Figures are HOR's, not checked independently.
 - **Stock checker 07:07** (#online-instore-stock-checker): Tesco Rainham Extra (Bridge Road, RM13 9YZ, 0.4 mi) had 50 units at £25 Clubcard price.
 - **Returns:** Tesco refunds card payments to the same card, at the price paid (£25). Keep the receipt. Amex is accepted in store.
 
+### 18-11-2026 midday (GTA VI DualSense, screenshots from Bradley)
+- **DualSense Wireless Controller, Grand Theft Auto VI Limited Edition (White).** #success 12:16: a member checked out 3 at £74.99 each, free delivery.
+- **eBay sold 18-11-2026** (Bradley's screenshot): £99.99 + £3.89 delivery, £94.30 + £3.89 (presale), £99.99 + £3.38 (presale). Real sales, not asking prices.
+- **#general-chat 12:14 to 12:15:** members say white sells for the same as black (£100+), "no risk in buying". One sold 2 the day before for £105. The black version's delivery dates are still unclear.
+- **Margin:** about £20 to £25 each before postage at £74.99 in and £95 to £100 out. eBay is free for private sellers.
+- **Acted on:** Bradley ordered from Smyths online on 18-11-2026 (order UK303047392, Apple Pay, delivery by 23-11-2026).
+
 ### Zelda 40th Anniversary Switch 2 (searched 15-11-2026)
 HOR call it the "30th"; the shops list it as the Legend of Zelda 40th Anniversary Edition. Resale £530 to £550 (console), controller £80 retail to £120.
 - **Console, most recent pings:** #argos-online 14-11-2026 19:07 (pre-order restocks, 21 pings since 25-10), #game-online 14-11-2026 16:13 (5 in stock), #argos-instore 14-11-2026 15:06, #very-online 12-11-2026 06:14, #currys-online 06-11-2026 06:30 (£434 earlier in October).
@@ -77,3 +84,4 @@ Back to [[Reselling]]
 - 15-11-2026: #online-flips read through, digest and channel list added.
 - 15-11-2026: Zelda console ping history added.
 - 18-11-2026: Red Bull Advent Calendar (Tesco £25 Clubcard) ping added.
+- 18-11-2026: GTA VI DualSense (white) pings and eBay sold prices added.
