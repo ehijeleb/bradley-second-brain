@@ -42,6 +42,8 @@ Figures are HOR's, not checked independently.
 - **Red Bull Advent Calendar (24 x 250ml), Tesco stores, £25 with Clubcard** (normally £45). Posted by Manny (HOR) at 00:04 with @everyone: "clear that stock asap, won't last long", free returns just in case. Clubcard price valid 18-11-2026 to 09-12-2026.
 - **Resale:** the only figure in the screenshot is an eBay listing at £53.99 + £6.65 delivery. That's an asking price, not a sale, so check eBay sold listings before buying several.
 - **Act on:** worth a look at a Tesco on the way to or from work today. Needs a Clubcard. It's bulky and heavy (24 cans), so collection sales or courier postage will eat into the margin.
+- **Stock checker 07:07** (#online-instore-stock-checker): Tesco Rainham Extra (Bridge Road, RM13 9YZ, 0.4 mi) had 50 units at £25 Clubcard price.
+- **Returns:** Tesco refunds card payments to the same card, at the price paid (£25). Keep the receipt. Amex is accepted in store.
 
 ### Zelda 40th Anniversary Switch 2 (searched 15-11-2026)
 HOR call it the "30th"; the shops list it as the Legend of Zelda 40th Anniversary Edition. Resale £530 to £550 (console), controller £80 retail to £120.
