@@ -72,6 +72,7 @@ views:
 - [[APP-007 G MASS - Graduate Underwriting Assistant Consultant]]: response to the application (applied 15-11-2026).
 
 ## Considered, not applied
+- British Airways, Data Science Apprentice, Heathrow (Level 6 BSc Data Science degree apprenticeship, £27,611, 3 years, start 01-09-2027, closes 19-11-2026). Fit 5/10: strong on skills, but a second bachelor's, and existing degree holders may not be eligible for apprenticeship funding. Bradley plans to apply on 19-11-2026 if eligible.
 - Betway, Sports Trader (Esports), Gzira, Malta (hybrid, req JR13815). Fit 3/10.
 - Graduate Sports Data Scientist, Exeter (aggregator listing, thought to be ATASS Sports). The role turned out not to exist.
 - Suggested in the old project but no advert seen (Bradley confirmed 13-11-2026 he hasn't applied to any): Civil Service GSS Fast Stream, Sky, Lloyds, Revolut, Aon Catastrophe Modelling, Zurich, Babcock, Experian, Swiss Re, Hiscox.
