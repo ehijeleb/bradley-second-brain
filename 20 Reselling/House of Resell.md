@@ -38,6 +38,11 @@ Figures are HOR's, not checked independently.
 - **Missed (13-11-2026):** Topps F1 Sapphire (£1,100), Topps Royalty Tennis and UFC raffles, GameOn 30th ETB (£49.99, needed a 7-day-old account with a £10 order).
 - **Missed (16-11-2026):** Topps Premier League Gold Hobby Box. The captcha wouldn't work at checkout. Next time for Topps: be logged in 10 minutes early, have a second browser or the phone ready as a backup, and test a checkout (add something to the basket) beforehand so any captcha shows up early.
 
+### 18-11-2026 (#instore-flips, screenshot from Bradley)
+- **Red Bull Advent Calendar (24 x 250ml), Tesco stores, £25 with Clubcard** (normally £45). Posted by Manny (HOR) at 00:04 with @everyone: "clear that stock asap, won't last long", free returns just in case. Clubcard price valid 18-11-2026 to 09-12-2026.
+- **Resale:** the only figure in the screenshot is an eBay listing at £53.99 + £6.65 delivery. That's an asking price, not a sale, so check eBay sold listings before buying several.
+- **Act on:** worth a look at a Tesco on the way to or from work today. Needs a Clubcard. It's bulky and heavy (24 cans), so collection sales or courier postage will eat into the margin.
+
 ### Zelda 40th Anniversary Switch 2 (searched 15-11-2026)
 HOR call it the "30th"; the shops list it as the Legend of Zelda 40th Anniversary Edition. Resale £530 to £550 (console), controller £80 retail to £120.
 - **Console, most recent pings:** #argos-online 14-11-2026 19:07 (pre-order restocks, 21 pings since 25-10), #game-online 14-11-2026 16:13 (5 in stock), #argos-instore 14-11-2026 15:06, #very-online 12-11-2026 06:14, #currys-online 06-11-2026 06:30 (£434 earlier in October).
@@ -69,3 +74,4 @@ Back to [[Reselling]]
 - 15-11-2026: Taylor Swift sherpa jacket ping, bought.
 - 15-11-2026: #online-flips read through, digest and channel list added.
 - 15-11-2026: Zelda console ping history added.
+- 18-11-2026: Red Bull Advent Calendar (Tesco £25 Clubcard) ping added.
