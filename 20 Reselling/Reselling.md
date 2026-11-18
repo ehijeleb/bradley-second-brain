@@ -111,3 +111,4 @@ dv.view("20 Reselling/_scripts/reselling", { view: "check" })
 - 18-11-2026: slippers are also listed on eBay. Bradley is keeping the Vinted stock-photo listings up for now (only the dress was removed).
 - 18-11-2026: GTA VI controller listed on Vinted (stock photos). Controller and slippers listings are under Vinted review and can't be edited. To do at home: own photos on the X-Mansion listings.
 - 18-11-2026: eBay removed the GTA VI controller listing under its Counterfeit items policy (presale, stock photos). Bradley is appealing with the Smyths order (UK303047392) as proof. Re-list with own photos once it arrives.
+- 18-11-2026: second Vinted warning: listings hidden for copyrighted (stock) photos ([[2026-11-18 Vinted - Listings hidden (copyrighted images)]]). Hidden until own photos are added. Next breach may restrict listing. Rule from now: Vinted only with own photos of items in hand.
