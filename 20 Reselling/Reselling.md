@@ -66,7 +66,7 @@ Reselling money also counts as income: when profit is taken out, log it in that 
 
 ## Notes
 - 13-11-2026: no stock yet. Previous experience reselling shoes, about 2021 to 2023.
-- 15-11-2026: reselling is paid from NatWest current for now. 16-11-2026: the Amex card hasn't arrived yet, so NatWest stays the reselling card until it does. Once buying picks up, plan to move reselling to HSBC or the Amex, depending on the size of the purchase.
+- 15-11-2026: reselling is paid from NatWest current for now. 16-11-2026: the Amex card hasn't arrived yet, so NatWest stays the reselling card until it does. Once buying picks up, plan to move reselling to HSBC or the Amex, depending on the size of the purchase. 17-11-2026: the Amex arrived; first reselling buy on it 18-11-2026 (2 Red Bull advent calendars).
 - 15-11-2026: sherpa jacket cost is £115 plus £5 delivery. Listed on eBay at £217.95, the cheapest price these jackets were going for.
 
 ## Check these lines
