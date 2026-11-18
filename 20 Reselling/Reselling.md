@@ -68,6 +68,8 @@ Reselling money also counts as income: when profit is taken out, log it in that 
 ## Returns
 Return windows for everything in [[Stock]], checked 18-11-2026. "Verified" means it comes from the shop's own terms or support; "unconfirmed" means third-party guides only, so check the receipt or order email. Update the last day once delivery dates are known. Keep every receipt and order email, and keep items unopened with tags on.
 
+18-11-2026: no online orders delivered yet (Taylor Swift items, H&M dress, Smyths controller). When each arrives, log the delivery date here and send an .ics for its last return day with a check 4 days before.
+
 | Item | Shop | Window | Last day | Conditions | Confidence |
 | --- | --- | --- | --- | --- | --- |
 | LEGO X-Mansion x2 | Smyths Romford (in store, 17-11-2026) | 28 days from purchase | 15-12-2026 | Unopened, resaleable, receipt | Verified (Smyths returns page via search) |
