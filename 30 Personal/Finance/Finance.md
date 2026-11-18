@@ -46,7 +46,7 @@ Give an account a `pct` to split your wages between accounts; the percentages mu
 - [account:: NatWest current] [pct:: 100]
 - [account:: NatWest credit card] used for petrol and fast food to build credit history, paid off from NatWest current
 - [account:: HSBC] may become the reselling account once buying picks up (15-11-2026)
-- [account:: Amex] credit card, arrived 17-11-2026, used for reselling stock from 18-11-2026. Limit not known yet.
+- [account:: Amex] credit card, arrived 17-11-2026, used for reselling stock from 18-11-2026. Limit £2,300.
 - [account:: Moneybox LISA] savings only: £50 a week goes in automatically (a transfer, so not logged as spending)
 
 ### Categories and monthly budgets
@@ -75,7 +75,7 @@ A budget of 0 means no monthly budget yet (or one-off costs).
 - Monthly: credit card spending about £250 (petrol and fast food). Log each purchase with `[from:: NatWest credit card]`; paying the card off is a transfer, don't log it.
 
 ## Debts and money owed
-- **University accommodation: £2,800 owed.** Plan: pay in instalments on the Amex card (arrived 17-11-2026), depending on the limit. Things to weigh before deciding: interest if the Amex isn't cleared in full each month, and how much of the limit it uses (high use can lower a credit score). The NatWest balance could cover it outright. Not financial advice: check the terms of the Amex and the accommodation's payment options.
+- **University accommodation: £2,800 owed.** Plan: pay in instalments on the Amex card (arrived 17-11-2026, limit £2,300, so it can't take the full £2,800 in one go). Things to weigh before deciding: interest if the Amex isn't cleared in full each month, and how much of the limit it uses (high use can lower a credit score). The NatWest balance could cover it outright. Not financial advice: check the terms of the Amex and the accommodation's payment options.
 - **Owed to me: £35** Dart Charge from Bershka (Bluewater trip). Claim it through the Inet app (Bradley heard this 17-11-2026). Chase if not in the next payslip.
 - **Tax refund: about £884.60** overpaid, expected back automatically on the December payslip. See Tax below.
 
@@ -110,7 +110,7 @@ Imported 13-11-2026 from Bradley's tax refund chat. Sensitive details (NI number
 
 ## Credit cards
 - **NatWest credit card:** limit £3,704.10. Used for regular small spending and paid in full to build a credit history.
-- **Amex:** arrived 17-11-2026. Limit not known yet.
+- **Amex:** arrived 17-11-2026. Limit £2,300 (confirmed 18-11-2026). £150 used on 18-11-2026 for reselling stock (6 Red Bull advent calendars).
 ## Goals
 Proposed by Claude on 13-11-2026 from the figures above. Change or delete any of them.
 - [ ] **Clear the £2,800 accommodation debt by 28-02-2027.** About £935 a month for three months fits within take-home after costs.
