@@ -109,3 +109,4 @@ dv.view("20 Reselling/_scripts/reselling", { view: "check" })
 - 18-11-2026: Vinted removed the dress listing for using stock photos (flagged as a duplicate) and warned that another breach could restrict listing ([[2026-11-18 Vinted Support - Listing removed (duplicate)]]). Re-list only with fresh photos of my own once it arrives. Dress back to in stock.
 - 18-11-2026: X-Mansions, sherpa, notebook and slippers are all live on Vinted with stock photos, at risk after the warning. Plan: own photos on the X-Mansions now; delete the sherpa, notebook and slippers listings until they arrive.
 - 18-11-2026: slippers are also listed on eBay. Bradley is keeping the Vinted stock-photo listings up for now (only the dress was removed).
+- 18-11-2026: GTA VI controller listed on Vinted (stock photos). Controller and slippers listings are under Vinted review and can't be edited. To do at home: own photos on the X-Mansion listings.
