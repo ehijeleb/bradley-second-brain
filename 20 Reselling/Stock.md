@@ -14,7 +14,7 @@ One line per item. Add the sold fields to the same line when it sells. Format an
 - Taylor Swift The Eras Tour Acoustic Piano Sweatpants, size L [bought:: 16-11-2026] [cost:: 70.25] [from:: Taylor Swift UK Store] [paid:: NatWest current] [state:: listed]
 - Taylor Swift Acoustic Piano Notebook [bought:: 16-11-2026] [cost:: 30.25] [from:: Taylor Swift UK Store] [paid:: NatWest current] [state:: listed]
 - Taylor Swift Lover Album Cloud Rhinestone Earbud Case, Regular (AirPods Gen 4) [bought:: 16-11-2026] [cost:: 35.25] [from:: Taylor Swift UK Store] [paid:: NatWest current] [state:: listed]
-- H&M x Elie Saab Embellished Silk-Blend Wedding Dress, Ivory, size 4 (art 1361951002) [bought:: 17-11-2026] [cost:: 553.98] [from:: H&M online] [paid:: NatWest current] [state:: in stock]
+- H&M x Elie Saab Embellished Silk-Blend Wedding Dress, Ivory, size 4 (art 1361951002) [bought:: 17-11-2026] [cost:: 553.98] [from:: H&M online] [paid:: NatWest current] [state:: listed]
 - LEGO Marvel 76294 X-Men: The X-Mansion [bought:: 17-11-2026] [cost:: 289.99] [from:: Smyths Toys, Romford (click and collect)] [paid:: NatWest current] [state:: listed]
 - LEGO Marvel 76294 X-Men: The X-Mansion [bought:: 17-11-2026] [cost:: 289.99] [from:: Smyths Toys, Romford (click and collect)] [paid:: NatWest current] [state:: listed]
 - Red Bull Advent Calendar 24 x 250ml [bought:: 18-11-2026] [cost:: 25.00] [from:: Tesco (Clubcard price)] [paid:: Amex] [state:: in stock]

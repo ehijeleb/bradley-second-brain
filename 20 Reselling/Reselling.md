@@ -101,3 +101,4 @@ dv.view("20 Reselling/_scripts/reselling", { view: "check" })
 - 18-11-2026: return windows for all stock added under Returns.
 - 18-11-2026: all Taylor Swift Store orders dispatched. Returning the sweatpants and earbud case as soon as they arrive. Remove them from [[Stock]] once refunded.
 - 18-11-2026: both X-Mansions also listed on Vinted at £320. Take the other listing down when one sells on either site.
+- 18-11-2026: H&M x Elie Saab dress listed on Vinted (about £825, offers to about £780).
