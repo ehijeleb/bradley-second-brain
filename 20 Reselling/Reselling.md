@@ -125,3 +125,4 @@ dv.view("20 Reselling/_scripts/reselling", { view: "check" })
 - 19-11-2026: Revolut card set up for a friend's checkout bot, £1,000 loaded. Log bot buys in [[Stock]] with [paid:: Revolut].
 - 19-11-2026: notebook, slippers and sweatpants listed on Vinted with own photos (£45, £80, £110). Sweatpants plan changed: sell, or return if unsold by 29-11-2026.
 - 19-11-2026: Smyths refunded the Salford X-Mansion order (UK302606348), due on NatWest by 26-11-2026.
+- 19-11-2026: 6 Taylor Swift snow globes from the UK store on NatWest current: 3 Opalite Rock and Cactus, 3 The Fate of Ophelia. Singles £55.25 each (#05IY0LN5X, #WVXAQ6LN0); 2 of each in one order for £207.95 (#WFA2EPUHA, cost split across 4). Resale not checked yet. Return window 14 days from the day after delivery.
