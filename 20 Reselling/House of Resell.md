@@ -45,6 +45,10 @@ Figures are HOR's, not checked independently.
 - **Stock checker 07:07** (#online-instore-stock-checker): Tesco Rainham Extra (Bridge Road, RM13 9YZ, 0.4 mi) had 50 units at £25 Clubcard price.
 - **Returns:** Tesco refunds card payments to the same card, at the price paid (£25). Keep the receipt. Amex is accepted in store.
 
+### 19-11-2026 18:01 (#online-flips, screenshot from Bradley)
+- **Taylor Swift snow globes, UK store:** The Fate of Ophelia and Opalite Rock and Cactus. Manny (HOR) posted "COP" with @everyone at 18:01, no prices or resale figures. A member shared a cart link for 2 of each at 18:02.
+- **Acted on:** Bradley bought 3 of each (see [[Stock]]). Resale not known yet: check eBay sold prices before listing.
+
 ### 19-11-2026 (EQL raffle, pasted by Bradley)
 - **2026 Topps Finest Formula 1 Hobby Box, EQL raffle.** £265. HOR resale £330 to £350, risk 1/5, free returns, delivery 1 to 2 weeks. Sales volume "looking alright", may need to hold for sales to come in. Second release; HOR copped the first earlier this month. Raffle goes live 19-11-2026 at 14:00 (HOR pings when it opens).
 - **Margin:** about £65 to £85 per box before postage, if it sells in that range.
@@ -91,3 +95,4 @@ Back to [[Reselling]]
 - 18-11-2026: Red Bull Advent Calendar (Tesco £25 Clubcard) ping added.
 - 18-11-2026: GTA VI DualSense (white) pings and eBay sold prices added.
 - 19-11-2026: Topps Finest F1 Hobby Box EQL raffle added.
+- 19-11-2026: Taylor Swift snow globe ping added.
