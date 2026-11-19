@@ -62,13 +62,15 @@ views:
 - [ ] Fix module grades across CVs, and change "five seasons" to three in CV-v2, v3 and v4 (see "Accuracy checks" in [[CV and Interview Prep]])
 - [x] Log every application made so far (APP-001 onwards)
 - [x] **16-11-2026:** call Olivia Ross with availability for ION's 30-minute screening call ([[APP-001 ION Asset Architecture - Trading Operations Assistant]]). Done 17-11-2026.
-- [ ] **17-11-2026 (tonight):** numerical pop quiz in [[ION interview prep]], as Olivia suggested
+- [x] **17-11-2026 (tonight):** numerical pop quiz in [[ION interview prep]], as Olivia suggested
 - [x] **18-11-2026 09:15:** Teams briefing with Olivia Ross (15 minutes).
-- [ ] **19-11-2026 11:00:** ION online interview, Google Meet, about 30 minutes. Phone on silent, test connection and camera first ([[ION interview prep]])
+- [x] **19-11-2026 11:00:** ION online interview, Google Meet, about 30 minutes. Phone on silent, test connection and camera first ([[ION interview prep]])
+- [ ] **24-11-2026:** if no ION outcome yet, chase Olivia Ross ([[APP-001 ION Asset Architecture - Trading Operations Assistant]])
+- [ ] Excel gaps from the ION interview: IF, filtering, pivot tables (practice workbooks in `10 Career/Exports/ION/`). Needed for the on-site Excel task
 - [ ] Draft a target list of 10 to 15 less saturated employers (see "Suggesting companies")
 
 ## Waiting on
-- [[APP-001 ION Asset Architecture - Trading Operations Assistant]]: online interview Thu 19-11-2026 11:00. Then Olivia's feedback.
+- [[APP-001 ION Asset Architecture - Trading Operations Assistant]]: Round 1 done 19-11-2026. ION's outcome to Olivia by early next week; chase 24-11-2026.
 - [[APP-007 G MASS - Graduate Underwriting Assistant Consultant]]: response to the application (applied 15-11-2026).
 
 ## Considered, not applied
@@ -97,6 +99,7 @@ views:
 - 16-11-2026: APP-001 ION moved to stage ION screening call (30 minutes, to be booked through Olivia Ross).
 - 16-11-2026: Bradley confirmed APP-002 Data School, APP-003 Betway, APP-004 WTW and APP-005 GHD all rejected. Status done.
 - 16-11-2026: APP-006 Sigma Labs rejected after the Equalture games (cognitive flexibility the weak area). Status done; can reapply from 16-11-2027.
+- 19-11-2026: APP-001 ION Round 1 interview done with Drish. Outcome by early next week; next stage on site.
 - 18-11-2026: APP-001 ION briefing with Olivia done. Interviewer Drish (Talent Acquisition), 30 minutes; Excel task only at the face-to-face round.
 - 17-11-2026: APP-001 ION moved to stage Interview: online interview Thu 19-11-2026 11:00 (Google Meet, about 30 minutes), briefing with Olivia Ross Wed 18-11-2026 09:15.
 - 15-11-2026: APP-006 Sigma Labs Equalture results in (problem solving High, learning ability Average). Waiting on Sigma's decision.

@@ -16,6 +16,34 @@ area: career
 - Before the call: phone on silent, test the connection, laptop camera at eye level, quiet room, plain background. Treat it as face to face (Olivia's advice).
 - Have open: [[CV-v7]] (the CV ION have), the spec, a pen and paper for working out.
 
+## Round 1 debrief (19-11-2026, with Drish)
+**What Drish said about ION**
+- Describes ION as the largest sports trading company, trading sports globally: gather data, analyse it, build models, make predictions, trade them.
+- Four main departments: software developers, quantitative analysts, data analysts, trading assistants.
+- Trading Assistants "keep the business running": trading engines, setting risk limits, connection issues, building pricing and liquidity, price requests including large stake requests.
+- Shifts: 07:00-17:00, 09:00-19:00, 14:00-00:00, weekends included. After midnight a colleague team in another time zone covers. Weekend shifts (Friday evening, Saturday, Sunday) earn extra pay or extra holiday, your choice, and you can switch.
+- Team about 13. Induction: time with developers and quants, then shadowing trading assistants, then your own shifts with support until ready (no fixed time).
+- Outcome to Olivia by early next week. Next stage on site.
+
+**Questions asked**
+- CV overview and what you're looking to do; the dissertation in detail; why retail after graduating; did you look for roles before graduating; other applications; shifts.
+- Maths: 15% of 240; +20% then -20%; 7/8 as a percentage; 5 people 12 hours, how long for 10; 3 heads in 3 flips; £80 to £100 percentage increase; both of two independent 30% events.
+- Excel: SUM v COUNT; find all rows with a value in 5,000 rows; what a pivot table does; formula for "Yes" if over 100 else "No".
+- IT and monitoring: an application freezes; what running in the background means and how to check; one live dashboard stops updating.
+- Other processes, final rounds, postcode, why this role and ION.
+
+**Went well**
+- Rapport and small talk; comfortable with shifts and rota.
+- Dissertation explained with detail: 3 seasons, 52 statistics, Statistica and Python, odds from bookmakers, AUC 0.9844, live result about £85 profit at £10 a game over two matchweeks.
+- Maths: 36, 6 hours, 25%, 9% with working; 87.5% corrected.
+- Good questions (team size, shadowing) and the LinkedIn point in "why ION".
+
+**To fix before any on-site round**
+- Excel: IF function (said not used), finding rows (Filter, Ctrl+F, COUNTIF or FILTER, not VLOOKUP), pivot tables explained clearly.
+- Quick-fire under pressure: +20% then -20% is lower (0.96 of the start, a 4% loss); 3 heads is 1/8 = 12.5%.
+- Monitoring questions: answer with a structure (check the connection or data feed, compare timestamps, check others see the same, refresh or restart, escalate, log it).
+- Say "biggest project", not "most difficult project".
+
 ## What Olivia said (18-11-2026)
 Olivia's briefing (18-11-2026): interviewer Drish, Talent Acquisition, 30 minutes. Topics: CV and modules (trends in datasets), why ION when it's not analytical, the role and the business, numerical background, problem solving, quick-fire maths, sorting thousands of dates, currencies known, Excel functions and formulas. Excel task only at the face-to-face round. SQL trained on the job with shadowing. Correction: the interviewer is **Drish** (not Mez). Added from Bradley's call transcript: Drish has some technical knowledge; the role is reviewing large volumes of data, troubleshooting and updating the live platform in time; shadowing then own workload; a couple of Excel questions on Thursday; they'll check shifts, weekends and 5 days in the office (weekends sometimes from home, but must be available on site); they favour hard degrees (maths, economics, statistics); Olivia's example questions: 30% of 200, 145^0, square root of 121, brother's age puzzle (Bradley answered all correctly). Olivia is sending an email summary and will do a separate prep call before any face-to-face round. Cheat sheet updated to match.
 

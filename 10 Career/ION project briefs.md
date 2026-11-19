@@ -48,7 +48,7 @@ Everything you've done, one brief each. Know these and you can answer almost any
 **Check before Thursday**
 
 - Your CV says you found "a previously unreported error in the source dataset". Is that the same as the corruption story, or a separate error in the original data? Know which.
-- What the two live matchweeks showed (won or lost, and what you learned).
+- Live matchweeks: Bradley said in the ION interview (19-11-2026) the model made about £85 profit at £10 a game over two live matchweeks.
 - The AUC of 0.9844 is very high for football. If asked, know whether the 52 statistics were from before the match or from the match itself. If they were from the match, say the model explains results rather than predicting them in advance. Being upfront about limits impresses people.
 
 [[#Which project for which question|Back to the table]]

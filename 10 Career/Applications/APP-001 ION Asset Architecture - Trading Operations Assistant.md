@@ -9,13 +9,13 @@ advert:
 date_applied: 
 closing_date: 
 fit_score: 8
-stage: Interview (online, 19-11-2026)
+stage: Interview done, awaiting outcome
 cv_version: CV-v7
 cover_letter: 
-next_step: ION online interview with Drish (Talent Acquisition) (Google Meet, about 30 minutes) Thu 19-11-2026 11:00. Prep in ION interview prep.
-deadline: 2026-11-19
+next_step: Round 1 done 19-11-2026. Outcome to Olivia by early next week. If no news by Tue 24-11-2026, chase Olivia. Next stage would be on site.
+deadline: 2026-11-24
 status: active
-waiting_on: 
+waiting_on: ION's decision via Olivia Ross (early next week)
 ---
 # APP-001 ION Asset Architecture - Trading Operations Assistant
 
@@ -71,5 +71,6 @@ Bradley Duke
 - 16-11-2026: Olivia Ross messaged: ION want a 30-minute screening call. Bradley to call her with his availability. Stage ION screening call; the 20-11-2026 chase is no longer needed.
 - 17-11-2026: Bradley spoke to Olivia. Olivia confirmed by email: online interview with ION, Thu 19-11-2026 11:00, Google Meet, about 30 minutes. Teams briefing with Olivia Wed 18-11-2026 09:15 to 09:30. Spec and guidelines received ([[2026-11-17 Datatech - Interview Confirmation - Ion Asset Architecture UK Ltd]]). Stage Interview.
 - 18-11-2026: Olivia's briefing (18-11-2026): interviewer Drish, Talent Acquisition, 30 minutes. Topics: CV and modules (trends in datasets), why ION when it's not analytical, the role and the business, numerical background, problem solving, quick-fire maths, sorting thousands of dates, currencies known, Excel functions and formulas. Excel task only at the face-to-face round. SQL trained on the job with shadowing.
+- 19-11-2026: Round 1 online interview with Drish (Talent Acquisition), 11:00. Drish will take it to the team; outcome to Olivia by early next week. Next stage would be on site. Debrief in [[ION interview prep]].
 
 Back to [[Job Hunt]]
