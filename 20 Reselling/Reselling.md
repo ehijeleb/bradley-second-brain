@@ -74,9 +74,9 @@ Return windows for everything in [[Stock]], checked 18-11-2026. "Verified" means
 | Item | Shop | Window | Last day | Conditions | Confidence |
 | --- | --- | --- | --- | --- | --- |
 | LEGO X-Mansion x2 | Smyths Romford (in store, 17-11-2026) | 28 days from purchase | 15-12-2026 | Unopened, resaleable, receipt | Verified (Smyths returns page via search) |
-| GTA VI DualSense | Smyths online (UK303047392) | 14-day cooling-off plus 14 extra days, from delivery | About 21-12-2026 if delivered 23-11-2026 | Unopened, dispatch email, bring the NatWest card | Verified (Smyths returns page via search) |
+| GTA VI DualSense | Smyths online (UK303047392, delivered 19-11-2026) | 14-day cooling-off plus 14 extra days, from delivery | 17-12-2026 (check 13-12-2026) | Unopened, dispatch email, bring the NatWest card | Verified (Smyths returns page via search) |
 | Red Bull Advent Calendar x6 | Tesco Extra (18-11-2026, Amex) | Not stated by Tesco for in-store food; guides say 30 days | Unconfirmed: check the receipt, aim to decide by 09-12-2026 | Receipt, back to an Extra or Superstore (not Express), before the best-before date, refund at £25 to the Amex | Unconfirmed |
-| H&M x Elie Saab dress | H&M online (17-11-2026) | 14 days from delivery, online returns only (not in store) | Delivery + 14 days (not delivered yet) | Tags on, unworn | Verified (H&M order terms, 18-11-2026) |
+| H&M x Elie Saab dress | H&M online (delivered 19-11-2026) | 14 days from delivery, online returns only (not in store) | 03-12-2026 (start the return by 29-11-2026) | Tags on, unworn | Verified (H&M order terms, 18-11-2026) |
 | Sherpa jacket | Taylor Swift UK Store (delivered 18-11-2026) | 14 days from the day after delivery | 02-12-2026 (check 28-11-2026) | Unworn, tags on | Verified (store terms) |
 | Sweatpants | Taylor Swift UK Store (delivered 19-11-2026) | 14 days from the day after delivery | 03-12-2026 (check 29-11-2026) | Sealed, same condition | Assumed same as the sherpa |
 | Slippers | Taylor Swift UK Store (delivered 19-11-2026) | 14 days from the day after delivery | 03-12-2026 (check 29-11-2026) | Unworn, tags on | Assumed same as the sherpa |
@@ -126,3 +126,4 @@ dv.view("20 Reselling/_scripts/reselling", { view: "check" })
 - 19-11-2026: notebook, slippers and sweatpants listed on Vinted with own photos (£45, £80, £110). Sweatpants plan changed: sell, or return if unsold by 29-11-2026.
 - 19-11-2026: Smyths refunded the Salford X-Mansion order (UK302606348), due on NatWest by 26-11-2026.
 - 19-11-2026: 6 Taylor Swift snow globes from the UK store on NatWest current: 3 Opalite Rock and Cactus, 3 The Fate of Ophelia. Singles £55.25 each (#05IY0LN5X, #WVXAQ6LN0); 2 of each in one order for £207.95 (#WFA2EPUHA, cost split across 4). Resale not checked yet. Return window 14 days from the day after delivery.
+- 19-11-2026: dress and GTA VI controller delivered. Controller listed on Vinted with own photos. Dress last return day 03-12-2026 (online only). All return dates sent as one .ics.
