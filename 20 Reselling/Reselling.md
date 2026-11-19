@@ -78,7 +78,7 @@ Return windows for everything in [[Stock]], checked 18-11-2026. "Verified" means
 | Red Bull Advent Calendar x6 | Tesco Extra (18-11-2026, Amex) | Not stated by Tesco for in-store food; guides say 30 days | Unconfirmed: check the receipt, aim to decide by 09-12-2026 | Receipt, back to an Extra or Superstore (not Express), before the best-before date, refund at £25 to the Amex | Unconfirmed |
 | H&M x Elie Saab dress | H&M online (17-11-2026) | 14 days from delivery, online returns only (not in store) | Delivery + 14 days (not delivered yet) | Tags on, unworn | Verified (H&M order terms, 18-11-2026) |
 | Sherpa jacket | Taylor Swift UK Store (delivered 18-11-2026) | 14 days from the day after delivery | 02-12-2026 (check 28-11-2026) | Unworn, tags on | Verified (store terms) |
-| Sweatpants | Taylor Swift UK Store (delivered 19-11-2026) | 14 days from the day after delivery | 03-12-2026. Returning now | Unopened, same condition | Assumed same as the sherpa |
+| Sweatpants | Taylor Swift UK Store (delivered 19-11-2026) | 14 days from the day after delivery | 03-12-2026 (check 29-11-2026) | Sealed, same condition | Assumed same as the sherpa |
 | Slippers | Taylor Swift UK Store (delivered 19-11-2026) | 14 days from the day after delivery | 03-12-2026 (check 29-11-2026) | Unworn, tags on | Assumed same as the sherpa |
 | Notebook | Taylor Swift UK Store (delivered 19-11-2026) | 14 days from the day after delivery | 03-12-2026 (check 29-11-2026) | Sealed in its wrap | Assumed same as the sherpa |
 | Earbud case | Taylor Swift UK Store (dispatched 18-11-2026) | 14 days from the day after delivery | Return straight away on arrival | Unopened; Royal Mail returns portal in support's reply | Verified (support) |
@@ -123,3 +123,4 @@ dv.view("20 Reselling/_scripts/reselling", { view: "check" })
 - 19-11-2026: sweatpants and slippers delivered. Sweatpants going back now. Slippers: re-list on Vinted with own photos; last return day 03-12-2026.
 - 19-11-2026: notebook delivered too (sealed). Slippers label confirms US 5 / UK 3 / EU 36. Own photos taken for slippers and notebook.
 - 19-11-2026: Revolut card set up for a friend's checkout bot, £1,000 loaded. Log bot buys in [[Stock]] with [paid:: Revolut].
+- 19-11-2026: notebook, slippers and sweatpants listed on Vinted with own photos (£45, £80, £110). Sweatpants plan changed: sell, or return if unsold by 29-11-2026.
