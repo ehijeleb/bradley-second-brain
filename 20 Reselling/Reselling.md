@@ -79,7 +79,8 @@ Return windows for everything in [[Stock]], checked 18-11-2026. "Verified" means
 | Sherpa jacket | Taylor Swift UK Store (delivered 18-11-2026) | 14 days from the day after delivery | 02-12-2026 (check 28-11-2026) | Unworn, tags on | Verified (store terms) |
 | Sweatpants | Taylor Swift UK Store (delivered 19-11-2026) | 14 days from the day after delivery | 03-12-2026. Returning now | Unopened, same condition | Assumed same as the sherpa |
 | Slippers | Taylor Swift UK Store (delivered 19-11-2026) | 14 days from the day after delivery | 03-12-2026 (check 29-11-2026) | Unworn, tags on | Assumed same as the sherpa |
-| Notebook, earbud case | Taylor Swift UK Store (dispatched 18-11-2026) | 14 days from the day after delivery | Delivery + 14 days (dates needed). Earbud case: return straight away on arrival | Unopened, same condition; earbud case via the Royal Mail returns portal in support's reply | Verified for the earbud case (support); assumed for the notebook |
+| Notebook | Taylor Swift UK Store (delivered 19-11-2026) | 14 days from the day after delivery | 03-12-2026 (check 29-11-2026) | Sealed in its wrap | Assumed same as the sherpa |
+| Earbud case | Taylor Swift UK Store (dispatched 18-11-2026) | 14 days from the day after delivery | Return straight away on arrival | Unopened; Royal Mail returns portal in support's reply | Verified (support) |
 | Topps NOW Ronaldo pack | Topps UK | Printed to order; Topps' store policy says sales are final | No return | n/a | Unconfirmed for the UK site |
 
 ## Notes
@@ -119,3 +120,4 @@ dv.view("20 Reselling/_scripts/reselling", { view: "check" })
 - 18-11-2026: sherpa jacket delivered. Last return day 02-12-2026. Take own photos and re-list on Vinted.
 - 18-11-2026: sherpa jacket re-listed on Vinted with own photos (sealed bag, tag, SKU sticker), about £195. Also on eBay at £217.95. End the other listing when one sells.
 - 19-11-2026: sweatpants and slippers delivered. Sweatpants going back now. Slippers: re-list on Vinted with own photos; last return day 03-12-2026.
+- 19-11-2026: notebook delivered too (sealed). Slippers label confirms US 5 / UK 3 / EU 36. Own photos taken for slippers and notebook.
