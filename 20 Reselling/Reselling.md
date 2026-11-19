@@ -121,3 +121,4 @@ dv.view("20 Reselling/_scripts/reselling", { view: "check" })
 - 18-11-2026: sherpa jacket re-listed on Vinted with own photos (sealed bag, tag, SKU sticker), about £195. Also on eBay at £217.95. End the other listing when one sells.
 - 19-11-2026: sweatpants and slippers delivered. Sweatpants going back now. Slippers: re-list on Vinted with own photos; last return day 03-12-2026.
 - 19-11-2026: notebook delivered too (sealed). Slippers label confirms US 5 / UK 3 / EU 36. Own photos taken for slippers and notebook.
+- 19-11-2026: Revolut card set up for a friend's checkout bot, £1,000 loaded. Log bot buys in [[Stock]] with [paid:: Revolut].

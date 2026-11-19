@@ -47,6 +47,7 @@ Give an account a `pct` to split your wages between accounts; the percentages mu
 - [account:: NatWest credit card] used for petrol and fast food to build credit history, paid off from NatWest current
 - [account:: HSBC] may become the reselling account once buying picks up (15-11-2026)
 - [account:: Amex] credit card, arrived 17-11-2026, used for reselling stock from 18-11-2026. Limit £2,300.
+- [account:: Revolut] card used by a friend's checkout bot for reselling drops. Topped up with £1,000 on 19-11-2026 (a transfer, so not logged as spending). Keep a spending limit on it.
 - [account:: Moneybox LISA] savings only: £50 a week goes in automatically (a transfer, so not logged as spending)
 
 ### Categories and monthly budgets
