@@ -45,6 +45,11 @@ Figures are HOR's, not checked independently.
 - **Stock checker 07:07** (#online-instore-stock-checker): Tesco Rainham Extra (Bridge Road, RM13 9YZ, 0.4 mi) had 50 units at £25 Clubcard price.
 - **Returns:** Tesco refunds card payments to the same card, at the price paid (£25). Keep the receipt. Amex is accepted in store.
 
+### 19-11-2026 (EQL raffle, pasted by Bradley)
+- **2026 Topps Finest Formula 1 Hobby Box, EQL raffle.** £265. HOR resale £330 to £350, risk 1/5, free returns, delivery 1 to 2 weeks. Sales volume "looking alright", may need to hold for sales to come in. Second release; HOR copped the first earlier this month. Raffle goes live 19-11-2026 at 14:00 (HOR pings when it opens).
+- **Margin:** about £65 to £85 per box before postage, if it sells in that range.
+- **Acted on:** Bradley entering via a friend's bot, paying with the Revolut card (£1,000 loaded).
+
 ### 18-11-2026 midday (GTA VI DualSense, screenshots from Bradley)
 - **DualSense Wireless Controller, Grand Theft Auto VI Limited Edition (White).** #success 12:16: a member checked out 3 at £74.99 each, free delivery.
 - **eBay sold 18-11-2026** (Bradley's screenshot): £99.99 + £3.89 delivery, £94.30 + £3.89 (presale), £99.99 + £3.38 (presale). Real sales, not asking prices.
@@ -85,3 +90,4 @@ Back to [[Reselling]]
 - 15-11-2026: Zelda console ping history added.
 - 18-11-2026: Red Bull Advent Calendar (Tesco £25 Clubcard) ping added.
 - 18-11-2026: GTA VI DualSense (white) pings and eBay sold prices added.
+- 19-11-2026: Topps Finest F1 Hobby Box EQL raffle added.
