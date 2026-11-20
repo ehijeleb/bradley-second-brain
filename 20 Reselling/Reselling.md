@@ -65,6 +65,7 @@ Reselling money also counts as income: when profit is taken out, log it in that 
 - [ ] **18-11-2026 onwards:** Red Bull Advent Calendar at Tesco stores, £25 with Clubcard (was £45), until 09-12-2026. Check eBay sold prices first (the ping only showed a £53.99 + £6.65 asking price), then pick some up if the margin holds after postage. See [[House of Resell]]. 18-11-2026: bought 2 on the Amex (the store limited it to 2), aiming for about £50 each. Then 4 more on the Amex, 6 in total. Keep the receipts for returns.
 - [ ] **By 23-11-2026:** Smyths delivery, order UK303047392 (GTA VI DualSense, white, ordered 18-11-2026 on Apple Pay). 1 controller, £74.99 on NatWest, added to [[Stock]]. Change its state to listed if you list it as a presale. eBay sold £94 to £100 + postage on 18-11-2026. See [[House of Resell]].
 - [ ] **19-11-2026 14:00:** Topps Finest F1 Hobby Box EQL raffle (£265, resale £330 to £350, free returns). Entered via a friend's bot on the Revolut card. Watch for the win email and any card holds; if won, log in [[Stock]] with [paid:: Revolut]. See [[House of Resell]].
+- [ ] **On arrival:** return all 6 Taylor Swift snow globes (3 Opalite Rock and Cactus, 3 The Fate of Ophelia; orders #05IY0LN5X, #WVXAQ6LN0, #WFA2EPUHA, £318.45 on NatWest). Decided 20-11-2026. End the eBay Opalite listing now. Keep them sealed, return via the Taylor Swift UK Store returns process, then remove from [[Stock]] once refunded.
 
 ## Returns
 Return windows for everything in [[Stock]], checked 18-11-2026. "Verified" means it comes from the shop's own terms or support; "unconfirmed" means third-party guides only, so check the receipt or order email. Update the last day once delivery dates are known. Keep every receipt and order email, and keep items unopened with tags on.
@@ -81,6 +82,7 @@ Return windows for everything in [[Stock]], checked 18-11-2026. "Verified" means
 | Sweatpants | Taylor Swift UK Store (delivered 19-11-2026) | 14 days from the day after delivery | 03-12-2026 (check 29-11-2026) | Sealed, same condition | Assumed same as the sherpa |
 | Slippers | Taylor Swift UK Store (delivered 19-11-2026) | 14 days from the day after delivery | 03-12-2026 (check 29-11-2026) | Unworn, tags on | Assumed same as the sherpa |
 | Notebook | Taylor Swift UK Store (delivered 19-11-2026) | 14 days from the day after delivery | 03-12-2026 (check 29-11-2026) | Sealed in its wrap | Assumed same as the sherpa |
+| Snow globes x6 | Taylor Swift UK Store (ordered 19-11-2026, not arrived) | 14 days from the day after delivery | Return straight away on arrival | Unopened, same condition | Assumed same as the sherpa |
 | Earbud case | Taylor Swift UK Store (dispatched 18-11-2026) | 14 days from the day after delivery | Return straight away on arrival | Unopened; Royal Mail returns portal in support's reply | Verified (support) |
 | Topps NOW Ronaldo pack | Topps UK | Printed to order; Topps' store policy says sales are final | No return | n/a | Unconfirmed for the UK site |
 
@@ -128,3 +130,4 @@ dv.view("20 Reselling/_scripts/reselling", { view: "check" })
 - 19-11-2026: 6 Taylor Swift snow globes from the UK store on NatWest current: 3 Opalite Rock and Cactus, 3 The Fate of Ophelia. Singles £55.25 each (#05IY0LN5X, #WVXAQ6LN0); 2 of each in one order for £207.95 (#WFA2EPUHA, cost split across 4). Resale not checked yet. Return window 14 days from the day after delivery.
 - 20-11-2026: HOR (#online-flips, 19-11): the snow globes stayed in stock unusually long; Manny is holding (free returns) and says cancelling via live chat or email is quick. Check eBay sold prices before they arrive. HOR flip update 19-11: Riftbound T1 Player Bundle (£70) and Worlds 2026 Edition (£80) both resell about £130 to £140; Bradley's raffle result not logged yet.
 - 19-11-2026: dress and GTA VI controller delivered. Controller listed on Vinted with own photos. Dress last return day 03-12-2026 (online only). All return dates sent as one .ics.
+- 20-11-2026: decided to return all 6 snow globes as soon as they arrive.
