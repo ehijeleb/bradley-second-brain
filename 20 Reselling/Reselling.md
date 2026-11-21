@@ -131,3 +131,4 @@ dv.view("20 Reselling/_scripts/reselling", { view: "check" })
 - 20-11-2026: HOR (#online-flips, 19-11): the snow globes stayed in stock unusually long; Manny is holding (free returns) and says cancelling via live chat or email is quick. Check eBay sold prices before they arrive. HOR flip update 19-11: Riftbound T1 Player Bundle (£70) and Worlds 2026 Edition (£80) both resell about £130 to £140; Bradley's raffle result not logged yet.
 - 19-11-2026: dress and GTA VI controller delivered. Controller listed on Vinted with own photos. Dress last return day 03-12-2026 (online only). All return dates sent as one .ics.
 - 20-11-2026: decided to return all 6 snow globes as soon as they arrive.
+- 21-11-2026: GTA VI controller held at £90 for a Vinted buyer until Wed 25-11-2026 (not marked reserved; sell to anyone who pays first). If unpaid, back on sale; last return day 17-12-2026.
