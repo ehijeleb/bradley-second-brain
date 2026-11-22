@@ -14,14 +14,14 @@ status: active
 | Olivia Ross | Datatech Analytics (recruitment agency) | Consultant. Works 09:00 to 16:00 (phone in the old project) | Screening call for [[APP-001 ION Asset Architecture - Trading Operations Assistant]], 11-11-2026 | 18-11-2026 (Teams briefing for the ION interview) | She'll call for feedback after the ION interview on 19-11-2026 |
 | Jamie Bird | Sigma Labs | Recruitment contact. Email jamie.bird@sigmalabs.co.uk | Invited Bradley to the Equalture games for [[APP-006 Sigma Labs - Data Tech Graduate Training Programme]], 10-11-2026 | 16-11-2026 (rejection after the Equalture games) | None. Could reapply from 16-11-2027 |
 | Holly Dowd | GRB | Posted the Sigma Labs advert on GRB (job title not confirmed). LinkedIn: https://www.linkedin.com/in/holly-dowd-079576206/ | Found by Bradley via the GRB advert for [[APP-006 Sigma Labs - Data Tech Graduate Training Programme]], 15-11-2026 | 15-11-2026 (LinkedIn message asking about Sigma's later stages and interview prep) | Wait for her reply. Sigma has since rejected the application, so if she replies, ask about similar graduate schemes instead |
-| Oliver O'Brien | Hamilton Barnes (specialist tech recruitment consultancy, Liverpool Street) | Talent Acquisition Lead, hiring for Hamilton Barnes itself. Email oliver.obrien@hamilton-barnes.com (phone in his email) | Phone call 16-11-2026, then follow-up email ([[2026-11-16 Hamilton Barnes - Call Follow Up]]) | 16-11-2026 (Bradley replied; intro call booked) | Intro call Mon 23-11-2026 |
+| Oliver O'Brien | Hamilton Barnes (specialist tech recruitment consultancy, Liverpool Street) | Talent Acquisition Lead, hiring for Hamilton Barnes itself. Email oliver.obrien@hamilton-barnes.com (phone in his email) | Phone call 16-11-2026, then follow-up email ([[2026-11-16 Hamilton Barnes - Call Follow Up]]) | 18-11-2026 (Bradley replied; Oliver booked an interview, [[2026-11-18 Hamilton Barnes - Re Call Follow Up]]) | Teams interview with Oliver, Mon 23-11-2026 11:00 |
 | Lauren Whitfield | GRB | Recruiter | Feedback on [[Money Buys Points]] for the Data School application | 24-09-2026 or later, exact date not known | Application submitted ([[APP-002 The Data School - Data School]]); next start date unsure |
 
 ## Notes
 - 
 
 ## Status log
-- 22-11-2026: Bradley has an intro call with Oliver O'Brien (Hamilton Barnes) on 23-11-2026. Prep given in the Career chat.
+- 22-11-2026: Oliver O'Brien (Hamilton Barnes) interview booked: Teams, Mon 23-11-2026 11:00 (Bradley replied 18-11-2026). Prep given in the Career chat.
 - 18-11-2026: Olivia Ross briefed Bradley for the ION interview (interviewer Drish, Talent Acquisition).
 - 17-11-2026: Olivia Ross confirmed the ION interview (19-11-2026 11:00) and booked a briefing call (18-11-2026 09:15).
 - 16-11-2026: Olivia Ross: ION want a screening call.
