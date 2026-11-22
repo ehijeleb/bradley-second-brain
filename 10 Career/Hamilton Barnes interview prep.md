@@ -18,6 +18,7 @@ Their careers site lists four stages:
 So the questions tomorrow will be about **motivation, ambition and what drives you**, not technical knowledge.
 
 ## 0b. What they say they look for *(site)* and your evidence
+
 | Their quality | What they mean | Your example |
 |---|---|---|
 | **Tenacity** | It's hard at first; be patient and persistent | Job hunt: kept applying and improving after rejections (Sigma, ION rounds) |
@@ -142,7 +143,20 @@ Network engineers keep company networks running; cybersecurity protects them; cl
 In line with the trainee package. Start after your Bershka notice period (check it).
 
 **Where do you see yourself in 2 to 3 years?**
-Promoted to consultant or senior consultant, billing consistently, maybe helping train new starters.
+Use their ladder: Consultant within about 6 months, Senior Consultant by about 18 months, then Principal, maybe helping train new starters.
+
+**Also expect**
+- **What motivates you?** Money, honestly, plus competition, progression and building your own market.
+- **Tell me about a goal you set yourself and hit.**
+- **How do you handle a bad day?** Reset, learn from it, go again (their "resilience" word).
+- **How would you feel about cold calling all day?** Comfortable. Their 40-hour phone time club is about 2 hours of conversation a day (40 hours over 20 to 22 working days), which could mean 60 to 100+ dials.
+- **What does a recruiter actually do?** Find candidates, win clients, match them, get paid on placement; 360 means doing both sides.
+- **A short role-play call**, for example ringing a network engineer about a job: introduce yourself, ask about their current role and what would make them move, listen, then suggest a next step.
+- **Can you get to Liverpool Street every day?**
+
+**Practise out loud tonight:** "Why recruitment?" and "Tell me about a time you faced rejection."
+
+**Money check:** the promotion targets are what you **bill** (fees to the company), not your pay. You earn basic plus commission on billings. Ask Oliver how commission works for trainees.
 
 ---
 
