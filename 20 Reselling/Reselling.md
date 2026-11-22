@@ -76,7 +76,7 @@ Return windows for everything in [[Stock]], checked 18-11-2026. "Verified" means
 | --- | --- | --- | --- | --- | --- |
 | LEGO X-Mansion x2 | Smyths Romford (in store, 17-11-2026) | 28 days from purchase | 15-12-2026 | Unopened, resaleable, receipt | Verified (Smyths returns page via search) |
 | Red Bull Advent Calendar x6 | Tesco Extra (18-11-2026, Amex) | Not stated by Tesco for in-store food; guides say 30 days | Unconfirmed: check the receipt, aim to decide by 09-12-2026 | Receipt, back to an Extra or Superstore (not Express), before the best-before date, refund at £25 to the Amex | Unconfirmed |
-| H&M x Elie Saab dress | H&M online (delivered 19-11-2026) | 14 days from delivery, online returns only (not in store) | 03-12-2026 (start the return by 29-11-2026) | Tags on, unworn | Verified (H&M order terms, 18-11-2026) |
+| H&M x Elie Saab dress | H&M online | Returned 22-11-2026 | Refund pending (£553.98 on NatWest, less any return fee) | n/a | Done |
 | Sherpa jacket | Taylor Swift UK Store (delivered 18-11-2026) | 14 days from the day after delivery | 02-12-2026 (check 28-11-2026) | Unworn, tags on | Verified (store terms) |
 | Sweatpants | Taylor Swift UK Store (delivered 19-11-2026) | 14 days from the day after delivery | 03-12-2026 (check 29-11-2026) | Sealed, same condition | Assumed same as the sherpa |
 | Slippers | Taylor Swift UK Store (delivered 19-11-2026) | 14 days from the day after delivery | 03-12-2026 (check 29-11-2026) | Unworn, tags on | Assumed same as the sherpa |
@@ -132,3 +132,4 @@ dv.view("20 Reselling/_scripts/reselling", { view: "check" })
 - 20-11-2026: decided to return all 6 snow globes as soon as they arrive.
 - 21-11-2026: GTA VI controller held at £90 for a Vinted buyer until Wed 25-11-2026 (not marked reserved; sell to anyone who pays first). If unpaid, back on sale; last return day 17-12-2026.
 - 22-11-2026: GTA VI controller sold on Vinted for £90 (£15.01 profit). Post with the Vinted label; film the packing.
+- 22-11-2026: H&M x Elie Saab dress returned to H&M online. Watch for the refund on NatWest, then remove it from [[Stock]]. LEGO X-Mansion offers at £305 and £300; notebook offer £35.
