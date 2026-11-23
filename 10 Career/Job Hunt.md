@@ -100,6 +100,7 @@ views:
 - 16-11-2026: APP-001 ION moved to stage ION screening call (30 minutes, to be booked through Olivia Ross).
 - 16-11-2026: Bradley confirmed APP-002 Data School, APP-003 Betway, APP-004 WTW and APP-005 GHD all rejected. Status done.
 - 16-11-2026: APP-006 Sigma Labs rejected after the Equalture games (cognitive flexibility the weak area). Status done; can reapply from 16-11-2027.
+- 23-11-2026: APP-008 Hamilton Barnes pay confirmed by Oliver: £26,000 basic, year 1 OTE £32,000 to £35,000, 5% commission per side.
 - 23-11-2026: APP-008 Hamilton Barnes Teams interview done. Oliver to reply by 24-11-2026; likely start early January 2027.
 - 22-11-2026: logged APP-008 Hamilton Barnes, trainee recruitment consultant (title to confirm), stage Interview (Teams, 23-11-2026 11:00), fit 5/10.
 - 19-11-2026: APP-001 ION Round 1 interview done with Drish. Outcome by early next week; next stage on site.

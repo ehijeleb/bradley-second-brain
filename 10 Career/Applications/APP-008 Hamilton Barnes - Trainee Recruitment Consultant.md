@@ -21,7 +21,7 @@ waiting_on: Oliver O'Brien's feedback (due 24-11-2026)
 
 > [!info] Application
 > **Company:** Hamilton Barnes, specialist tech recruitment consultancy (network engineering, cybersecurity, cloud, data centre, telecoms). Founded 2014. HQ Liverpool Street, offices in the US and Kuala Lumpur.
-> **Role:** trainee recruitment consultant (title not confirmed). Job ads: about £26,000 basic, uncapped commission, first-year OTE £35,000 to £45,000 (unverified, from listings).
+> **Role:** trainee recruitment consultant (title not confirmed). £26,000 basic, year 1 OTE £32,000 to £35,000 "for realistic performers", commission uncapped from day 1: 5% of the fee for sourcing the candidate, 5% for owning the client ([[2026-11-23 Hamilton Barnes - Salary and commission]]).
 > **Why it fits:** 5/10. Strong on the sales and people side (Bershka, reselling, sport) and numerate, but it's a sales career, away from his primary target of data analyst roles.
 > **Gaps to address:** a convincing case for recruitment and sales; no recruitment or B2B sales experience yet.
 > **How it started:** Oliver O'Brien (Talent Acquisition Lead) called Bradley on 16-11-2026. Bradley replied with interest on 18-11-2026 ([[2026-11-18 Hamilton Barnes - Re Call Follow Up]]). No formal advert or CV submission recorded. Logged at Bradley's request, 22-11-2026.
@@ -40,5 +40,6 @@ waiting_on: Oliver O'Brien's feedback (due 24-11-2026)
   - Told: likely start early January 2027 (Bradley said that suits him, no holidays booked). Day 1 is meeting people and some training; on the phones from day 2 with a script. About three afternoons of training with CEO George, plus call coaching and pre-recorded videos. Roughly 6 months on candidates only, then promotion and clients too. KPIs are tracked; Oliver said missing one has no penalty. Monthly team billing target, with a dinner club for hitting it (example given: about £150k between 10 people). Sixth record month in a row; more data centre work.
   - Next: Oliver shares his profile with internal teams and replies by the morning of 24-11-2026.
   - Not covered: exact title, basic salary, commission, desk, hours, later stages.
+- 23-11-2026: Bradley emailed about pay and Oliver replied with basic, OTE and commission ([[2026-11-23 Hamilton Barnes - Salary and commission]]). Not stated: any threshold, when commission is paid, or what happens if a candidate leaves early.
 
 Back to [[Job Hunt]]

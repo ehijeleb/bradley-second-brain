@@ -86,7 +86,7 @@ Use their words back to them: "tenacity", "resilience", "throw myself into it".
 - **Office:** gym, showers, PS5, beer fridge, podcast studio, live sales screens, dog-friendly. Football, running and padel clubs. Extended Christmas break.
 - **Founders' welcome note:** they admit "the first year can be challenging". They also offer help with accommodation, credit, loans and mortgages.
 
-**Pay *(listings, not on their site)*:** about **£26,000 basic + uncapped commission**, first-year OTE about **£35,000 to £45,000**. Their London job spec is a download on the careers site; I didn't download it. Confirm the basic with Oliver.
+**Pay (confirmed by Oliver, 23-11-2026, [[2026-11-23 Hamilton Barnes - Salary and commission]]):** **£26,000 basic**, year 1 OTE **£32,000 to £35,000**, commission uncapped from day 1 at 5% of the fee per side (10% if you do both). Replaces the older listing figures of £35,000 to £45,000 OTE.
 
 **What the job is, in plain terms:** you find candidates (engineers) for clients (companies hiring), mostly by phone and LinkedIn. You earn a fee when someone is placed, and you get commission on that. A **360** consultant also wins the clients; a **180** focuses on one side. Expect cold calling, targets and lots of rejection, but your pay grows with what you bill.
 
