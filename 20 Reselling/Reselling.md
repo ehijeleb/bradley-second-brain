@@ -82,6 +82,7 @@ Return windows for everything in [[Stock]], checked 18-11-2026. "Verified" means
 | Slippers | Taylor Swift UK Store (delivered 19-11-2026) | 14 days from the day after delivery | 03-12-2026 (check 29-11-2026) | Unworn, tags on | Assumed same as the sherpa |
 | Notebook | Taylor Swift UK Store (delivered 19-11-2026) | 14 days from the day after delivery | 03-12-2026 (check 29-11-2026) | Sealed in its wrap | Assumed same as the sherpa |
 | Snow globes x6 | Taylor Swift UK Store (ordered 19-11-2026, not arrived) | 14 days from the day after delivery | Return straight away on arrival | Unopened, same condition | Assumed same as the sherpa |
+| Switch 2 Zelda 40th console | Argos online (1562154254, ordered 23-11-2026, not arrived) | Argos usually 30 days if unopened | Set on delivery | Sealed, receipt or order email | Unconfirmed: check the order email |
 | Earbud case | Taylor Swift UK Store (dispatched 18-11-2026) | 14 days from the day after delivery | Return straight away on arrival | Unopened; Royal Mail returns portal in support's reply | Verified (support) |
 | Topps NOW Ronaldo pack | Topps UK | Printed to order; Topps' store policy says sales are final | No return | n/a | Unconfirmed for the UK site |
 
@@ -133,3 +134,4 @@ dv.view("20 Reselling/_scripts/reselling", { view: "check" })
 - 21-11-2026: GTA VI controller held at £90 for a Vinted buyer until Wed 25-11-2026 (not marked reserved; sell to anyone who pays first). If unpaid, back on sale; last return day 17-12-2026.
 - 22-11-2026: GTA VI controller sold on Vinted for £90 (£15.01 profit). Post with the Vinted label; film the packing.
 - 22-11-2026: H&M x Elie Saab dress returned to H&M online. Watch for the refund on NatWest, then remove it from [[Stock]]. LEGO X-Mansion offers at £305 and £300; notebook offer £35.
+- 23-11-2026: Switch 2 Zelda 40th Anniversary console from Argos, £429.99 on NatWest current (order 1562154254). Home delivery, someone must be in. HOR resale £530 to £550 (mid-November): check eBay sold prices before listing.
