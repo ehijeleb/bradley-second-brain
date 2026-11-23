@@ -66,6 +66,7 @@ Reselling money also counts as income: when profit is taken out, log it in that 
 - [x] **By 23-11-2026:** Smyths delivery, order UK303047392 (GTA VI DualSense, white, ordered 18-11-2026 on Apple Pay). 1 controller, £74.99 on NatWest, added to [[Stock]]. Change its state to listed if you list it as a presale. eBay sold £94 to £100 + postage on 18-11-2026. See [[House of Resell]].
 - [ ] **19-11-2026 14:00:** Topps Finest F1 Hobby Box EQL raffle (£265, resale £330 to £350, free returns). Entered via a friend's bot on the Revolut card. Watch for the win email and any card holds; if won, log in [[Stock]] with [paid:: Revolut]. See [[House of Resell]].
 - [ ] **On arrival:** return all 6 Taylor Swift snow globes (3 Opalite Rock and Cactus, 3 The Fate of Ophelia; orders #05IY0LN5X, #WVXAQ6LN0, #WFA2EPUHA, £318.45 on NatWest). Decided 20-11-2026. End the eBay Opalite listing now. Keep them sealed, return via the Taylor Swift UK Store returns process, then remove from [[Stock]] once refunded.
+- [ ] **By 26-11-2026:** eBay seller verification. Can't list despite verifying (ID and selfie sent 16-11-2026, NI number added 23-11-2026). eBay chat 23-11-2026 escalated it to a specialist team, reply by email within 72 hours. If nothing by 26-11-2026, contact eBay again and quote the 23-11 chat. Meanwhile sell on Vinted and Facebook Marketplace.
 
 ## Returns
 Return windows for everything in [[Stock]], checked 18-11-2026. "Verified" means it comes from the shop's own terms or support; "unconfirmed" means third-party guides only, so check the receipt or order email. Update the last day once delivery dates are known. Keep every receipt and order email, and keep items unopened with tags on.
@@ -135,3 +136,4 @@ dv.view("20 Reselling/_scripts/reselling", { view: "check" })
 - 22-11-2026: GTA VI controller sold on Vinted for £90 (£15.01 profit). Post with the Vinted label; film the packing.
 - 22-11-2026: H&M x Elie Saab dress returned to H&M online. Watch for the refund on NatWest, then remove it from [[Stock]]. LEGO X-Mansion offers at £305 and £300; notebook offer £35.
 - 23-11-2026: Switch 2 Zelda 40th Anniversary console from Argos, £429.99 on NatWest current (order 1562154254). Home delivery, someone must be in. HOR resale £530 to £550 (mid-November): check eBay sold prices before listing.
+- 23-11-2026: eBay listing blocked pending seller verification; escalated by eBay chat, email reply due by 26-11-2026.
