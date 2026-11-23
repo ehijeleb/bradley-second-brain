@@ -9,13 +9,13 @@ advert:
 date_applied: 2026-11-18
 closing_date: 
 fit_score: 5
-stage: Interview (Teams, 23-11-2026)
+stage: Interview (Teams done 23-11-2026)
 cv_version: 
 cover_letter: no
-next_step: Teams interview with Oliver O'Brien, Mon 23-11-2026 11:00. Prep in Hamilton Barnes interview prep.
-deadline: 2026-11-23
+next_step: Oliver to reply by the morning of 24-11-2026. Chase on 25-11-2026 if nothing.
+deadline: 2026-11-25
 status: active
-waiting_on: 
+waiting_on: Oliver O'Brien's feedback (due 24-11-2026)
 ---
 # APP-008 Hamilton Barnes - Trainee Recruitment Consultant
 
@@ -35,5 +35,10 @@ waiting_on:
 - 16-11-2026: phone call with Oliver O'Brien, then his follow-up email ([[2026-11-16 Hamilton Barnes - Call Follow Up]]).
 - 18-11-2026: Bradley replied, interested and free 23 to 27 November. Oliver booked a Teams interview for Mon 23-11-2026 11:00.
 - 22-11-2026: logged as APP-008 at Bradley's request.
+- 23-11-2026: Teams interview with Oliver done (from Bradley's rough call transcript).
+  - Asked: start date; what stood out about them; what drew him to recruitment; university and sport; what motivates him; best traits of a recruiter other than persistence; what he'd ask when qualifying a candidate.
+  - Told: likely start early January 2027 (Bradley said that suits him, no holidays booked). Day 1 is meeting people and some training; on the phones from day 2 with a script. About three afternoons of training with CEO George, plus call coaching and pre-recorded videos. Roughly 6 months on candidates only, then promotion and clients too. KPIs are tracked; Oliver said missing one has no penalty. Monthly team billing target, with a dinner club for hitting it (example given: about £150k between 10 people). Sixth record month in a row; more data centre work.
+  - Next: Oliver shares his profile with internal teams and replies by the morning of 24-11-2026.
+  - Not covered: exact title, basic salary, commission, desk, hours, later stages.
 
 Back to [[Job Hunt]]
