@@ -65,13 +65,13 @@ views:
 - [x] **17-11-2026 (tonight):** numerical pop quiz in [[ION interview prep]], as Olivia suggested
 - [x] **18-11-2026 09:15:** Teams briefing with Olivia Ross (15 minutes).
 - [x] **19-11-2026 11:00:** ION online interview, Google Meet, about 30 minutes. Phone on silent, test connection and camera first ([[ION interview prep]])
-- [ ] **24-11-2026:** if no ION outcome yet, chase Olivia Ross ([[APP-001 ION Asset Architecture - Trading Operations Assistant]])
+- [ ] **25-11-2026 (09:00 to 16:00):** call Olivia Ross back; she rang 24-11-2026, probably with ION's outcome ([[APP-001 ION Asset Architecture - Trading Operations Assistant]])
 - [ ] Excel gaps from the ION interview: IF, filtering, pivot tables (practice workbooks in `10 Career/Exports/ION/`). Needed for the on-site Excel task
 - [ ] Draft a target list of 10 to 15 less saturated employers (see "Suggesting companies")
 
 ## Waiting on
 - [[APP-008 Hamilton Barnes - Trainee Recruitment Consultant]]: Teams interview done 23-11-2026. Oliver to reply by the morning of 24-11-2026; chase 25-11-2026.
-- [[APP-001 ION Asset Architecture - Trading Operations Assistant]]: Round 1 done 19-11-2026. ION's outcome to Olivia by early next week; chase 24-11-2026.
+- [[APP-001 ION Asset Architecture - Trading Operations Assistant]]: Round 1 done 19-11-2026. Olivia rang 24-11-2026 (missed); calling back 25-11-2026.
 - [[APP-007 G MASS - Graduate Underwriting Assistant Consultant]]: response to the application (applied 15-11-2026).
 
 ## Considered, not applied
@@ -102,6 +102,7 @@ views:
 - 16-11-2026: APP-006 Sigma Labs rejected after the Equalture games (cognitive flexibility the weak area). Status done; can reapply from 16-11-2027.
 - 23-11-2026: APP-008 Hamilton Barnes pay confirmed by Oliver: £26,000 basic, year 1 OTE £32,000 to £35,000, 5% commission per side.
 - 23-11-2026: APP-008 Hamilton Barnes Teams interview done. Oliver to reply by 24-11-2026; likely start early January 2027.
+- 24-11-2026: Olivia Ross rang about APP-001 ION (missed). Bradley calling back 25-11-2026.
 - 22-11-2026: logged APP-008 Hamilton Barnes, trainee recruitment consultant (title to confirm), stage Interview (Teams, 23-11-2026 11:00), fit 5/10.
 - 19-11-2026: APP-001 ION Round 1 interview done with Drish. Outcome by early next week; next stage on site.
 - 18-11-2026: APP-001 ION briefing with Olivia done. Interviewer Drish (Talent Acquisition), 30 minutes; Excel task only at the face-to-face round.
