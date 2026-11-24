@@ -88,6 +88,7 @@ Return windows for everything in [[Stock]], checked 18-11-2026. "Verified" means
 | Switch 2 Zelda 40th console | Argos online (1562154254, ordered 23-11-2026, not arrived) | Argos usually 30 days if unopened | Set on delivery | Sealed, receipt or order email | Unconfirmed: check the order email |
 | Switch 2 Zelda 40th console (2nd) | GAME online (GAME40000135877536, ordered 24-11-2026) | Check GAME's returns policy (usually 14 days from delivery online) | Set on delivery | Sealed | Unconfirmed |
 | PS5 Pro 2TB | PlayStation Direct (787097672937865, ordered 24-11-2026, express 1 to 2 working days) | Likely 14 days from delivery (UK cooling-off) | Set on delivery | Sealed | Unconfirmed: check PS Direct returns policy |
+| PS5 Pro 2TB (2nd) | PlayStation Direct (787097677104973, ordered 24-11-2026, express) | Likely 14 days from delivery (UK cooling-off) | Set on delivery | Sealed | Unconfirmed |
 | Earbud case | Taylor Swift UK Store (dispatched 18-11-2026) | 14 days from the day after delivery | Return straight away on arrival | Unopened; Royal Mail returns portal in support's reply | Verified (support) |
 | Topps NOW Ronaldo pack | Topps UK | Printed to order; Topps' store policy says sales are final | No return | n/a | Unconfirmed for the UK site |
 
@@ -146,3 +147,4 @@ dv.view("20 Reselling/_scripts/reselling", { view: "check" })
 - 24-11-2026: went to Smyths Beckton about the cancelled controllers; store said nothing they can do. Check the Amex for any charge or hold.
 - 24-11-2026: PS5 Pro 2TB from PlayStation Direct, £750.49 with the PS Plus 5% discount, on the NatWest credit card. Express delivery. HOR resale about £950 (16-11-2026): check eBay sold prices before listing. Pay the credit card off in full.
 - 24-11-2026: second Switch 2 Zelda 40th console from GAME, £449.99 + £11.99 delivery = £461.98 on the Amex.
+- 24-11-2026: second PS5 Pro 2TB from PlayStation Direct, £789.99 (no discount) on NatWest current, on a second PlayStation account. PS Direct limits 1 per account and has cancelled some orders before, so watch for a cancellation email.
