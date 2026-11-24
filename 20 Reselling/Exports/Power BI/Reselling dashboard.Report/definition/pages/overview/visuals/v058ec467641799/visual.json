@@ -3,10 +3,10 @@
   "name": "v058ec467641799",
   "position": {
     "x": 1024,
-    "y": 12,
+    "y": 8,
     "z": 5000,
     "width": 240,
-    "height": 110,
+    "height": 122,
     "tabOrder": 5000
   },
   "visual": {
@@ -55,6 +55,34 @@
         }
       ]
     },
-    "drillFilterOtherVisuals": true
+    "drillFilterOtherVisuals": true,
+    "objects": {
+      "labels": [
+        {
+          "properties": {
+            "labelDisplayUnits": {
+              "expr": {
+                "Literal": {
+                  "Value": "1D"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "categoryLabels": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
   }
 }
