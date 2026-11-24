@@ -141,3 +141,4 @@ dv.view("20 Reselling/_scripts/reselling", { view: "check" })
 - 23-11-2026: eBay listing blocked pending seller verification; escalated by eBay chat, email reply due by 26-11-2026.
 - 24-11-2026: decided to return all 6 Red Bull calendars to Tesco (refund £150 to the Amex).
 - 24-11-2026: Smyths cancelled the Beckton GTA controller order UK304590537 after saying it was ready. Removed from [[Stock]].
+- 24-11-2026: went to Smyths Beckton about the cancelled controllers; store said nothing they can do. Check the Amex for any charge or hold.
