@@ -68,6 +68,7 @@ Reselling money also counts as income: when profit is taken out, log it in that 
 - [ ] **On arrival:** return all 6 Taylor Swift snow globes (3 Opalite Rock and Cactus, 3 The Fate of Ophelia; orders #05IY0LN5X, #WVXAQ6LN0, #WFA2EPUHA, £318.45 on NatWest). Decided 20-11-2026. End the eBay Opalite listing now. Keep them sealed, return via the Taylor Swift UK Store returns process, then remove from [[Stock]] once refunded.
 - [ ] **By 26-11-2026:** eBay seller verification. Can't list despite verifying (ID and selfie sent 16-11-2026, NI number added 23-11-2026). eBay chat 23-11-2026 escalated it to a specialist team, reply by email within 72 hours. If nothing by 26-11-2026, contact eBay again and quote the 23-11 chat. Meanwhile sell on Vinted and Facebook Marketplace.
 - [ ] **Collect 2 GTA VI DualSense controllers from Smyths Beckton** (click and collect, ordered 24-11-2026 on the Amex). Wait for the ready-for-collection email; Smyths hold it about 2 days. Bring the email, the Amex and photo ID. £74.99 each, added to [[Stock]].
+- [ ] **Return all 6 Red Bull Advent Calendars to Tesco** (decided 24-11-2026). Take them with the receipt to a Tesco Extra or Superstore (not an Express), ideally the store they came from. Refund £150 to the Amex. Remove from [[Stock]] once refunded.
 
 ## Returns
 Return windows for everything in [[Stock]], checked 18-11-2026. "Verified" means it comes from the shop's own terms or support; "unconfirmed" means third-party guides only, so check the receipt or order email. Update the last day once delivery dates are known. Keep every receipt and order email, and keep items unopened with tags on.
@@ -77,7 +78,7 @@ Return windows for everything in [[Stock]], checked 18-11-2026. "Verified" means
 | Item | Shop | Window | Last day | Conditions | Confidence |
 | --- | --- | --- | --- | --- | --- |
 | LEGO X-Mansion x2 | Smyths Romford (in store, 17-11-2026) | 28 days from purchase | 15-12-2026 | Unopened, resaleable, receipt | Verified (Smyths returns page via search) |
-| Red Bull Advent Calendar x6 | Tesco Extra (18-11-2026, Amex) | Not stated by Tesco for in-store food; guides say 30 days | Unconfirmed: check the receipt, aim to decide by 09-12-2026 | Receipt, back to an Extra or Superstore (not Express), before the best-before date, refund at £25 to the Amex | Unconfirmed |
+| Red Bull Advent Calendar x6 | Tesco Extra (18-11-2026, Amex) | Not stated by Tesco for in-store food; guides say 30 days | Returning now (decided 24-11-2026); check the receipt for the deadline | Receipt, back to an Extra or Superstore (not Express), before the best-before date, refund at £25 to the Amex | Unconfirmed |
 | H&M x Elie Saab dress | H&M online | Returned 22-11-2026 | Refund pending (£553.98 on NatWest, less any return fee) | n/a | Done |
 | Sherpa jacket | Taylor Swift UK Store (delivered 18-11-2026) | 14 days from the day after delivery | 02-12-2026 (check 28-11-2026) | Unworn, tags on | Verified (store terms) |
 | Sweatpants | Taylor Swift UK Store (delivered 19-11-2026) | 14 days from the day after delivery | 03-12-2026 (check 29-11-2026) | Sealed, same condition | Assumed same as the sherpa |
@@ -138,3 +139,4 @@ dv.view("20 Reselling/_scripts/reselling", { view: "check" })
 - 22-11-2026: H&M x Elie Saab dress returned to H&M online. Watch for the refund on NatWest, then remove it from [[Stock]]. LEGO X-Mansion offers at £305 and £300; notebook offer £35.
 - 23-11-2026: Switch 2 Zelda 40th Anniversary console from Argos, £429.99 on NatWest current (order 1562154254). Home delivery, someone must be in. HOR resale £530 to £550 (mid-November): check eBay sold prices before listing.
 - 23-11-2026: eBay listing blocked pending seller verification; escalated by eBay chat, email reply due by 26-11-2026.
+- 24-11-2026: decided to return all 6 Red Bull calendars to Tesco (refund £150 to the Amex).
