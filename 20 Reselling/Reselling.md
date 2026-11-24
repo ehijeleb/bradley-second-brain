@@ -148,4 +148,4 @@ dv.view("20 Reselling/_scripts/reselling", { view: "check" })
 - 24-11-2026: PS5 Pro 2TB from PlayStation Direct, £750.49 with the PS Plus 5% discount, on the NatWest credit card. Express delivery. HOR resale about £950 (16-11-2026): check eBay sold prices before listing. Pay the credit card off in full.
 - 24-11-2026: second Switch 2 Zelda 40th console from GAME, £449.99 + £11.99 delivery = £461.98 on the Amex.
 - 24-11-2026: second PS5 Pro 2TB from PlayStation Direct, £789.99 (no discount) on NatWest current, on a second PlayStation account. PS Direct limits 1 per account and has cancelled some orders before, so watch for a cancellation email.
-- 24-11-2026: Smyths Salford refund (order UK302606348) received on NatWest.
+- 24-11-2026: Smyths refund received on NatWest for the Salford LEGO X-Mansion order (UK302606348). Still to check: no charge or hold left on the Amex from the cancelled Beckton controller order (UK304590537).
