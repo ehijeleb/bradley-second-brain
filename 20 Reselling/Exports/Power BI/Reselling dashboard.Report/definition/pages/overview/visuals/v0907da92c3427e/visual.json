@@ -1,12 +1,12 @@
 {
-  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.4.0/schema.json",
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.15.0/schema.json",
   "name": "v0907da92c3427e",
   "position": {
     "x": 1032,
     "y": 436,
     "z": 9000,
-    "width": 232,
     "height": 130,
+    "width": 232,
     "tabOrder": 9000
   },
   "visual": {
@@ -27,7 +27,8 @@
                 }
               },
               "queryRef": "Items.Paid with",
-              "nativeQueryRef": "Paid with"
+              "nativeQueryRef": "Paid with",
+              "active": true
             }
           ]
         }

@@ -1,12 +1,12 @@
 {
-  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.4.0/schema.json",
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.15.0/schema.json",
   "name": "v10ee91543dfe73",
   "position": {
     "x": 1032,
     "y": 578,
     "z": 10000,
-    "width": 232,
     "height": 130,
+    "width": 232,
     "tabOrder": 10000
   },
   "visual": {
@@ -27,7 +27,8 @@
                 }
               },
               "queryRef": "Items.Category",
-              "nativeQueryRef": "Category"
+              "nativeQueryRef": "Category",
+              "active": true
             }
           ]
         }

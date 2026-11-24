@@ -1,12 +1,12 @@
 {
-  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.4.0/schema.json",
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.15.0/schema.json",
   "name": "v067e8f718f6958",
   "position": {
     "x": 16,
     "y": 134,
     "z": 6000,
-    "width": 616,
     "height": 290,
+    "width": 616,
     "tabOrder": 6000
   },
   "visual": {
@@ -27,25 +27,8 @@
                 }
               },
               "queryRef": "Items.Category",
-              "nativeQueryRef": "Category"
-            }
-          ]
-        },
-        "Y": {
-          "projections": [
-            {
-              "field": {
-                "Measure": {
-                  "Expression": {
-                    "SourceRef": {
-                      "Entity": "Items"
-                    }
-                  },
-                  "Property": "Spent"
-                }
-              },
-              "queryRef": "Items.Spent",
-              "nativeQueryRef": "Spent"
+              "nativeQueryRef": "Category",
+              "active": true
             }
           ]
         },
@@ -64,6 +47,24 @@
               },
               "queryRef": "Items.State",
               "nativeQueryRef": "State"
+            }
+          ]
+        },
+        "Y": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Items"
+                    }
+                  },
+                  "Property": "Spent"
+                }
+              },
+              "queryRef": "Items.Spent",
+              "nativeQueryRef": "Spent"
             }
           ]
         }

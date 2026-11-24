@@ -1,12 +1,12 @@
 {
-  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.4.0/schema.json",
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.15.0/schema.json",
   "name": "v07545a06dca428",
   "position": {
     "x": 648,
     "y": 134,
     "z": 7000,
-    "width": 616,
     "height": 290,
+    "width": 616,
     "tabOrder": 7000
   },
   "visual": {
@@ -27,7 +27,8 @@
                 }
               },
               "queryRef": "Calendar.Month",
-              "nativeQueryRef": "Month"
+              "nativeQueryRef": "Month",
+              "active": true
             }
           ]
         },

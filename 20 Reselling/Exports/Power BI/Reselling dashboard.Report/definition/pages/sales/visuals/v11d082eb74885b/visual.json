@@ -1,12 +1,12 @@
 {
-  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.4.0/schema.json",
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.15.0/schema.json",
   "name": "v11d082eb74885b",
   "position": {
     "x": 16,
     "y": 12,
     "z": 11000,
-    "width": 616,
     "height": 330,
+    "width": 616,
     "tabOrder": 11000
   },
   "visual": {
@@ -27,25 +27,8 @@
                 }
               },
               "queryRef": "Items.Platform",
-              "nativeQueryRef": "Platform"
-            }
-          ]
-        },
-        "Y": {
-          "projections": [
-            {
-              "field": {
-                "Measure": {
-                  "Expression": {
-                    "SourceRef": {
-                      "Entity": "Items"
-                    }
-                  },
-                  "Property": "Gross profit"
-                }
-              },
-              "queryRef": "Items.Gross profit",
-              "nativeQueryRef": "Gross profit"
+              "nativeQueryRef": "Platform",
+              "active": true
             }
           ]
         },
@@ -78,6 +61,24 @@
               },
               "queryRef": "Items.Items sold",
               "nativeQueryRef": "Items sold"
+            }
+          ]
+        },
+        "Y": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Items"
+                    }
+                  },
+                  "Property": "Gross profit"
+                }
+              },
+              "queryRef": "Items.Gross profit",
+              "nativeQueryRef": "Gross profit"
             }
           ]
         }

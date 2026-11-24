@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "Reselling dashboard"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "a26094b7-60b1-48b2-ae68-6e870dd64d9c"
+  }
+}

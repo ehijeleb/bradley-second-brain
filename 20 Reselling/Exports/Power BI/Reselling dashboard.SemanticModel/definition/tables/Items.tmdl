@@ -118,6 +118,8 @@ table Items
 
 		annotation SummarizationSetBy = Automatic
 
+		annotation UnderlyingDateTimeDataType = Date
+
 	column Cost
 		dataType: decimal
 		formatString: \£#,0.00;-\£#,0.00;\£#,0.00
@@ -135,6 +137,8 @@ table Items
 		sourceColumn: Sold
 
 		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
 
 	column Price
 		dataType: decimal
@@ -180,6 +184,8 @@ table Items
 
 		annotation SummarizationSetBy = Automatic
 
+		annotation UnderlyingDateTimeDataType = Date
+
 	column Profit
 		dataType: decimal
 		formatString: \£#,0.00;-\£#,0.00;\£#,0.00
@@ -219,3 +225,4 @@ table Items
 				    Typed
 
 	annotation PBI_ResultType = Table
+

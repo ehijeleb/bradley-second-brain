@@ -10,6 +10,8 @@ table Expenses
 
 		annotation SummarizationSetBy = Automatic
 
+		annotation UnderlyingDateTimeDataType = Date
+
 	column Expense
 		dataType: string
 		lineageTag: 9b9c65be-9b15-4fb0-9083-24e693fa0019
@@ -47,3 +49,4 @@ table Expenses
 				    Typed
 
 	annotation PBI_ResultType = Table
+
