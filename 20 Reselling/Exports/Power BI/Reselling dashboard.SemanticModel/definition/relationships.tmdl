@@ -1,0 +1,12 @@
+relationship 3f46e714-ada1-4c2d-91d5-9936fb6053e5
+	fromColumn: Items.Bought
+	toColumn: Calendar.Date
+
+relationship d5b9d4bd-7ff6-4e99-81a0-888f9e854e23
+	isActive: false
+	fromColumn: Items.Sold
+	toColumn: Calendar.Date
+
+relationship 2a0dc398-a3bc-4d1d-9c4d-b92b8d3eb73b
+	fromColumn: Expenses.Date
+	toColumn: Calendar.Date

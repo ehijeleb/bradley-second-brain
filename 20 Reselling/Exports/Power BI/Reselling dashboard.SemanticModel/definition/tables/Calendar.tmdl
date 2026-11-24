@@ -1,0 +1,53 @@
+table Calendar
+	lineageTag: 3d94c3fd-2833-4387-9355-4c0eca3f6ace
+	dataCategory: Time
+
+	column Date
+		dataType: dateTime
+		isKey
+		formatString: dd-mm-yyyy
+		lineageTag: 852c9f7d-86eb-43ba-9ea3-fa85af5f2dcc
+		summarizeBy: none
+		sourceColumn: [Date]
+
+		annotation SummarizationSetBy = Automatic
+
+	column Month
+		dataType: string
+		lineageTag: 76e541ec-6cea-4568-a53d-886681cb027e
+		summarizeBy: none
+		sourceColumn: [Month]
+		sortByColumn: 'Month number'
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Month number'
+		dataType: int64
+		formatString: 0
+		lineageTag: 3500e82f-cc2b-48f2-b825-080e315dd1ed
+		summarizeBy: none
+		sourceColumn: [Month number]
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Week starting'
+		dataType: dateTime
+		formatString: dd-mm-yyyy
+		lineageTag: 1dbb8408-52b6-475f-9e0e-190511477a13
+		summarizeBy: none
+		sourceColumn: [Week starting]
+
+		annotation SummarizationSetBy = Automatic
+
+	partition Calendar = calculated
+		mode: import
+		source = ```
+				ADDCOLUMNS (
+				    CALENDAR ( DATE ( 2026, 11, 1 ), DATE ( 2027, 12, 31 ) ),
+				    "Month", FORMAT ( [Date], "mmm yyyy" ),
+				    "Month number", YEAR ( [Date] ) * 100 + MONTH ( [Date] ),
+				    "Week starting", [Date] - WEEKDAY ( [Date], 2 ) + 1
+				)
+				```
+
+	annotation PBI_Id = a350111b0cc34cd1a0363453cde65bb4

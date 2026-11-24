@@ -10,3 +10,7 @@
 *.pem
 *.key
 secrets/
+
+# Power BI project: per-device settings and data cache
+**/.pbi/localSettings.json
+**/.pbi/cache.abf

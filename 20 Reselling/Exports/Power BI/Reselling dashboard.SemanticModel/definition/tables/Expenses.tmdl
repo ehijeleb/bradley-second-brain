@@ -1,0 +1,49 @@
+table Expenses
+	lineageTag: 53e9ee45-5f01-429e-ae5e-ffbc5789fa4c
+
+	column Date
+		dataType: dateTime
+		formatString: dd-mm-yyyy
+		lineageTag: 0c8c0ea3-e4c9-4fae-a7a1-e1ad5ec37c7f
+		summarizeBy: none
+		sourceColumn: Date
+
+		annotation SummarizationSetBy = Automatic
+
+	column Expense
+		dataType: string
+		lineageTag: 9b9c65be-9b15-4fb0-9083-24e693fa0019
+		summarizeBy: none
+		sourceColumn: Expense
+
+		annotation SummarizationSetBy = Automatic
+
+	column Type
+		dataType: string
+		lineageTag: f35581f5-4534-4899-8849-e4dc62b2d822
+		summarizeBy: none
+		sourceColumn: Type
+
+		annotation SummarizationSetBy = Automatic
+
+	column Amount
+		dataType: decimal
+		formatString: \£#,0.00;-\£#,0.00;\£#,0.00
+		lineageTag: 59fdbb60-b4a1-4156-a936-5ea63d42309d
+		summarizeBy: sum
+		sourceColumn: Amount
+
+		annotation SummarizationSetBy = Automatic
+
+	partition Expenses = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents(#"Exports folder" & "Expenses.csv"), [Delimiter = ",", Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+				    Promoted = Table.PromoteHeaders(Source, [PromoteAllScalars = true]),
+				    Blanks = Table.TransformColumns(Promoted, {}, each if _ = "" then null else _),
+				    Typed = Table.TransformColumnTypes(Blanks, {{"Date", type date}, {"Expense", type text}, {"Type", type text}, {"Amount", Currency.Type}}, "en-GB")
+				in
+				    Typed
+
+	annotation PBI_ResultType = Table

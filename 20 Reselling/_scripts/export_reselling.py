@@ -90,6 +90,7 @@ def export_items(today):
         name = FIELD.sub("", line).strip()
         bought = parse_date(f.get("bought"))
         sold = parse_date(f.get("sold"))
+        refunded = parse_date(f.get("refunded"))
         cost = parse_money(f.get("cost"))
         price = parse_money(f.get("price"))
         fees = parse_money(f.get("fees")) or 0.0
@@ -98,12 +99,14 @@ def export_items(today):
         if sold and state != "sold":
             state = "sold"
         profit = round(price - (cost or 0) - fees - postage, 2) if sold and price is not None else None
-        end = sold or today
+        end = sold or refunded or today
         days = (end - bought).days if bought else None
         if cost is None:
             warnings.append(f"{name}: no cost")
         if not bought:
             warnings.append(f"{name}: bought date missing or not DD-MM-YYYY")
+        if f.get("refunded") and not refunded:
+            warnings.append(f"{name}: refunded date not DD-MM-YYYY")
         if f.get("sold") and not sold:
             warnings.append(f"{name}: sold date not DD-MM-YYYY")
         cat = category_of(name)
@@ -123,6 +126,7 @@ def export_items(today):
             "Fees": fees if sold else None,
             "Postage": postage if sold else None,
             "Platform": f.get("platform", ""),
+            "Refunded": refunded,
             "Profit": profit,
             "Margin": f"{profit / cost:.4f}" if profit is not None and cost else None,
             "Days held": days,

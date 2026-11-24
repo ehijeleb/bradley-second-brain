@@ -1,0 +1,221 @@
+table Items
+	lineageTag: d5b81a24-41c0-417b-bac9-452b4688de26
+
+	measure Spent = SUM ( Items[Cost] )
+		formatString: \£#,0.00;-\£#,0.00;\£#,0.00
+		lineageTag: 26ea839e-3d02-46bc-97f4-38d88dd895c4
+
+	measure 'Items bought' = COUNTROWS ( Items )
+		formatString: 0
+		lineageTag: 8ddac177-23cb-4472-870f-3decfa5c3d3e
+
+	measure 'Items held' = CALCULATE ( COUNTROWS ( Items ), Items[State] IN { "in stock", "listed" } )
+		formatString: 0
+		lineageTag: d0b6f58e-21f3-48be-9c19-4044ef59d089
+
+	measure 'Capital tied up' = CALCULATE ( SUM ( Items[Cost] ), Items[State] IN { "in stock", "listed" } )
+		formatString: \£#,0.00;-\£#,0.00;\£#,0.00
+		lineageTag: c9f36a80-466a-46e0-acfb-7f67be060919
+
+	measure 'Refunds due' = CALCULATE ( SUM ( Items[Cost] ), Items[State] = "returning" )
+		formatString: \£#,0.00;-\£#,0.00;\£#,0.00
+		lineageTag: d55cf22b-b42b-486a-877e-35f4c7b5b4ba
+
+	measure 'Held over 30 days' = CALCULATE ( [Items held], Items[Days held] > 30 )
+		formatString: 0
+		lineageTag: 215ddaee-31a5-4958-a850-563ef1d3989b
+
+	measure 'Items sold' = CALCULATE ( COUNTROWS ( Items ), Items[State] = "sold", USERELATIONSHIP ( Calendar[Date], Items[Sold] ) )
+		formatString: 0
+		lineageTag: 17db994c-f9cc-4033-bca6-ff4ee9ca371d
+
+	measure Revenue = CALCULATE ( SUM ( Items[Price] ), USERELATIONSHIP ( Calendar[Date], Items[Sold] ) )
+		formatString: \£#,0.00;-\£#,0.00;\£#,0.00
+		lineageTag: 0e6c7abc-205d-4c5f-863a-bb415e49b6a0
+
+	measure 'Gross profit' = CALCULATE ( SUM ( Items[Profit] ), USERELATIONSHIP ( Calendar[Date], Items[Sold] ) )
+		formatString: \£#,0.00;-\£#,0.00;\£#,0.00
+		lineageTag: 2e7b0a63-7950-4f6a-aa93-0db5efbdb676
+
+	measure 'Cost of sold' = CALCULATE ( SUM ( Items[Cost] ), Items[State] = "sold", USERELATIONSHIP ( Calendar[Date], Items[Sold] ) )
+		formatString: \£#,0.00;-\£#,0.00;\£#,0.00
+		lineageTag: a9ae9fcf-e2e0-4d96-8138-a73765179afb
+
+	measure 'Margin %' = DIVIDE ( [Gross profit], [Cost of sold] )
+		formatString: 0.0%;-0.0%;0.0%
+		lineageTag: c22a722d-18ab-45c0-ab92-060d95f06c70
+
+	measure 'Avg days to sell' = CALCULATE ( AVERAGE ( Items[Days held] ), Items[State] = "sold" )
+		formatString: 0.0
+		lineageTag: 0d47e742-af19-4d72-9aee-2224b517f99c
+
+	measure 'Other costs' = SUM ( Expenses[Amount] )
+		formatString: \£#,0.00;-\£#,0.00;\£#,0.00
+		lineageTag: 4e7cbbb4-c70f-40a2-84c9-f59aa91d7440
+
+	measure 'Net profit' = [Gross profit] - [Other costs]
+		formatString: \£#,0.00;-\£#,0.00;\£#,0.00
+		lineageTag: c630702c-48c1-44b2-b1e6-20c3a6585a15
+
+	measure 'Sell-through %' = DIVIDE ( CALCULATE ( COUNTROWS ( Items ), Items[State] = "sold" ), CALCULATE ( COUNTROWS ( Items ), Items[State] IN { "in stock", "listed", "sold" } ) )
+		formatString: 0.0%;-0.0%;0.0%
+		lineageTag: b3318330-7401-4704-b68d-e174f0a71cd2
+
+	column 'Item ID'
+		dataType: string
+		lineageTag: 70b1237f-bba8-456f-b198-b8aa0bb4c4a5
+		summarizeBy: none
+		sourceColumn: Item ID
+
+		annotation SummarizationSetBy = Automatic
+
+	column Item
+		dataType: string
+		lineageTag: 3f61620d-399a-40ac-90cd-39ef9d6ecac0
+		summarizeBy: none
+		sourceColumn: Item
+
+		annotation SummarizationSetBy = Automatic
+
+	column Category
+		dataType: string
+		lineageTag: 2ed50797-d91e-47ca-89d5-5e5b513c28ef
+		summarizeBy: none
+		sourceColumn: Category
+
+		annotation SummarizationSetBy = Automatic
+
+	column Shop
+		dataType: string
+		lineageTag: 8320581b-3b5d-47b9-9729-bb3eb5f3a3ed
+		summarizeBy: none
+		sourceColumn: Shop
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Paid with'
+		dataType: string
+		lineageTag: 4f5cecb4-a1b2-4364-8aad-f14d4dba82e7
+		summarizeBy: none
+		sourceColumn: Paid with
+
+		annotation SummarizationSetBy = Automatic
+
+	column State
+		dataType: string
+		lineageTag: 80d1ce6d-58f3-40da-ab51-1729574b5fc8
+		summarizeBy: none
+		sourceColumn: State
+
+		annotation SummarizationSetBy = Automatic
+
+	column Bought
+		dataType: dateTime
+		formatString: dd-mm-yyyy
+		lineageTag: 21ff60f9-ddec-4c19-b7a0-224a946c8489
+		summarizeBy: none
+		sourceColumn: Bought
+
+		annotation SummarizationSetBy = Automatic
+
+	column Cost
+		dataType: decimal
+		formatString: \£#,0.00;-\£#,0.00;\£#,0.00
+		lineageTag: 47ff0373-b4b2-490c-8563-f0bfaebe2075
+		summarizeBy: sum
+		sourceColumn: Cost
+
+		annotation SummarizationSetBy = Automatic
+
+	column Sold
+		dataType: dateTime
+		formatString: dd-mm-yyyy
+		lineageTag: 823c1217-eff1-493d-a0b3-ec2350f15daf
+		summarizeBy: none
+		sourceColumn: Sold
+
+		annotation SummarizationSetBy = Automatic
+
+	column Price
+		dataType: decimal
+		formatString: \£#,0.00;-\£#,0.00;\£#,0.00
+		lineageTag: 0b34e14c-14dc-49a6-9a3c-e596ac76a26b
+		summarizeBy: sum
+		sourceColumn: Price
+
+		annotation SummarizationSetBy = Automatic
+
+	column Fees
+		dataType: decimal
+		formatString: \£#,0.00;-\£#,0.00;\£#,0.00
+		lineageTag: 2d4f8afd-7763-4165-9155-03ed43e88a25
+		summarizeBy: sum
+		sourceColumn: Fees
+
+		annotation SummarizationSetBy = Automatic
+
+	column Postage
+		dataType: decimal
+		formatString: \£#,0.00;-\£#,0.00;\£#,0.00
+		lineageTag: df99cfdd-c19d-442e-82b0-f56d2587d07d
+		summarizeBy: sum
+		sourceColumn: Postage
+
+		annotation SummarizationSetBy = Automatic
+
+	column Platform
+		dataType: string
+		lineageTag: de9b6b13-fdf9-4952-a185-3c9a56d8944a
+		summarizeBy: none
+		sourceColumn: Platform
+
+		annotation SummarizationSetBy = Automatic
+
+	column Refunded
+		dataType: dateTime
+		formatString: dd-mm-yyyy
+		lineageTag: 21d5ffca-7c37-48e1-a7eb-f2aa68143f84
+		summarizeBy: none
+		sourceColumn: Refunded
+
+		annotation SummarizationSetBy = Automatic
+
+	column Profit
+		dataType: decimal
+		formatString: \£#,0.00;-\£#,0.00;\£#,0.00
+		lineageTag: 1eb3fb11-a30a-422c-ac70-0b1e0d5b6b0b
+		summarizeBy: sum
+		sourceColumn: Profit
+
+		annotation SummarizationSetBy = Automatic
+
+	column Margin
+		dataType: double
+		formatString: 0.0%;-0.0%;0.0%
+		lineageTag: e574f7fb-2239-43c8-8d17-b30d2296c1c9
+		summarizeBy: none
+		sourceColumn: Margin
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Days held'
+		dataType: int64
+		formatString: 0
+		lineageTag: aba659c8-342e-4ed4-8615-b4a392f6e832
+		summarizeBy: none
+		sourceColumn: Days held
+
+		annotation SummarizationSetBy = Automatic
+
+	partition Items = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents(#"Exports folder" & "Items.csv"), [Delimiter = ",", Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+				    Promoted = Table.PromoteHeaders(Source, [PromoteAllScalars = true]),
+				    Blanks = Table.TransformColumns(Promoted, {}, each if _ = "" then null else _),
+				    Typed = Table.TransformColumnTypes(Blanks, {{"Item ID", type text}, {"Item", type text}, {"Category", type text}, {"Shop", type text}, {"Paid with", type text}, {"State", type text}, {"Bought", type date}, {"Cost", Currency.Type}, {"Sold", type date}, {"Price", Currency.Type}, {"Fees", Currency.Type}, {"Postage", Currency.Type}, {"Platform", type text}, {"Refunded", type date}, {"Profit", Currency.Type}, {"Margin", type number}, {"Days held", Int64.Type}}, "en-GB")
+				in
+				    Typed
+
+	annotation PBI_ResultType = Table

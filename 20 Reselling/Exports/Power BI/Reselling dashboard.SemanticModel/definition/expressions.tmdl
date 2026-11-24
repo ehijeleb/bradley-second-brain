@@ -1,0 +1,4 @@
+expression 'Exports folder' = "C:\Users\hp\bradleys-brain\20 Reselling\Exports\" meta [IsParameterQuery = true, Type = "Text", IsParameterQueryRequired = true]
+	lineageTag: d561ae91-7545-4657-a8a7-d504de186d76
+
+	annotation PBI_ResultType = Text
