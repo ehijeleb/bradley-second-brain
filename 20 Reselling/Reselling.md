@@ -89,7 +89,7 @@ Return windows for everything in [[Stock]], checked 18-11-2026. "Verified" means
 | Switch 2 Zelda 40th console (2nd) | GAME online (GAME40000135877536, ordered 24-11-2026) | Check GAME's returns policy (usually 14 days from delivery online) | Set on delivery | Sealed | Unconfirmed |
 | PS5 Pro 2TB | PlayStation Direct (787097672937865, ordered 24-11-2026, express 1 to 2 working days) | Likely 14 days from delivery (UK cooling-off) | Set on delivery | Sealed | Unconfirmed: check PS Direct returns policy |
 | PS5 Pro 2TB (2nd) | PlayStation Direct (787097677104973, ordered 24-11-2026, express) | Likely 14 days from delivery (UK cooling-off) | Set on delivery | Sealed | Unconfirmed |
-| PS5 Pro 2TB (3rd) | PlayStation Direct (ordered 24-11-2026 19:31) | Likely 14 days from delivery (UK cooling-off) | Set on delivery | Sealed | Unconfirmed |
+| PS5 Pro 2TB (3rd) | PlayStation Direct (787097680391813, ordered 24-11-2026 19:31) | Likely 14 days from delivery (UK cooling-off) | Set on delivery | Sealed | Unconfirmed |
 | Earbud case | Taylor Swift UK Store (dispatched 18-11-2026) | 14 days from the day after delivery | Return straight away on arrival | Unopened; Royal Mail returns portal in support's reply | Verified (support) |
 | Topps NOW Ronaldo pack | Topps UK | Printed to order; Topps' store policy says sales are final | No return | n/a | Unconfirmed for the UK site |
 
@@ -152,3 +152,4 @@ dv.view("20 Reselling/_scripts/reselling", { view: "check" })
 - 24-11-2026: Smyths refund received on NatWest for the Salford LEGO X-Mansion order (UK302606348). Still to check: no charge or hold left on the Amex from the cancelled Beckton controller order (UK304590537).
 - 24-11-2026 19:31: third PS5 Pro 2TB from PlayStation Direct, £789.99 on the NatWest credit card, on a third PlayStation account. All three go to the same address and #1 and #3 share a card, so cancellations are possible: watch the emails. Three PS5 Pros and two Zelda Switches bought today (about £3,222).
 - 24-11-2026: eBay confirmed by email that seller verification is complete; listing and withdrawals unblocked. LEGO X-Mansion: Vinted buyer jennashort asked to hold one until after 01-12-2026; offered to hold to 03-12-2026, listing stays live.
+- 24-11-2026: all eBay drafts published now verification is done. Red Bull calendars not returned yet, still to do.
