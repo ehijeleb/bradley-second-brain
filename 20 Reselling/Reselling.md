@@ -67,7 +67,7 @@ Reselling money also counts as income: when profit is taken out, log it in that 
 - [ ] **19-11-2026 14:00:** Topps Finest F1 Hobby Box EQL raffle (£265, resale £330 to £350, free returns). Entered via a friend's bot on the Revolut card. Watch for the win email and any card holds; if won, log in [[Stock]] with [paid:: Revolut]. See [[House of Resell]].
 - [ ] **On arrival:** return all 6 Taylor Swift snow globes (3 Opalite Rock and Cactus, 3 The Fate of Ophelia; orders #05IY0LN5X, #WVXAQ6LN0, #WFA2EPUHA, £318.45 on NatWest). Decided 20-11-2026. End the eBay Opalite listing now. Keep them sealed, return via the Taylor Swift UK Store returns process, then remove from [[Stock]] once refunded.
 - [ ] **By 26-11-2026:** eBay seller verification. Can't list despite verifying (ID and selfie sent 16-11-2026, NI number added 23-11-2026). eBay chat 23-11-2026 escalated it to a specialist team, reply by email within 72 hours. If nothing by 26-11-2026, contact eBay again and quote the 23-11 chat. Meanwhile sell on Vinted and Facebook Marketplace.
-- [ ] **Collect 2 GTA VI DualSense controllers from Smyths Beckton** (click and collect, ordered 24-11-2026 on the Amex). Wait for the ready-for-collection email; Smyths hold it about 2 days. Bring the email, the Amex and photo ID. £74.99 each, added to [[Stock]].
+- [x] **Collect 2 GTA VI DualSense controllers from Smyths Beckton** (click and collect, ordered 24-11-2026 on the Amex). Wait for the ready-for-collection email; Smyths hold it about 2 days. Bring the email, the Amex and photo ID. £74.99 each. Cancelled by Smyths (order UK304590537) about half an hour after the ready-to-collect email; removed from [[Stock]]. Check no Amex charge or hold remains.
 - [ ] **Return all 6 Red Bull Advent Calendars to Tesco** (decided 24-11-2026). Take them with the receipt to a Tesco Extra or Superstore (not an Express), ideally the store they came from. Refund £150 to the Amex. Remove from [[Stock]] once refunded.
 
 ## Returns
@@ -140,3 +140,4 @@ dv.view("20 Reselling/_scripts/reselling", { view: "check" })
 - 23-11-2026: Switch 2 Zelda 40th Anniversary console from Argos, £429.99 on NatWest current (order 1562154254). Home delivery, someone must be in. HOR resale £530 to £550 (mid-November): check eBay sold prices before listing.
 - 23-11-2026: eBay listing blocked pending seller verification; escalated by eBay chat, email reply due by 26-11-2026.
 - 24-11-2026: decided to return all 6 Red Bull calendars to Tesco (refund £150 to the Amex).
+- 24-11-2026: Smyths cancelled the Beckton GTA controller order UK304590537 after saying it was ready. Removed from [[Stock]].

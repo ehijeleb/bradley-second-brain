@@ -31,5 +31,3 @@ One line per item. Add the sold fields to the same line when it sells. Format an
 - Taylor Swift The Fate of Ophelia Snow Globe [bought:: 19-11-2026] [cost:: 51.99] [from:: Taylor Swift UK Store (#WFA2EPUHA)] [paid:: NatWest current] [state:: in stock]
 - Taylor Swift The Fate of Ophelia Snow Globe [bought:: 19-11-2026] [cost:: 51.98] [from:: Taylor Swift UK Store (#WFA2EPUHA)] [paid:: NatWest current] [state:: in stock]
 - Nintendo Switch 2 Pro Console, The Legend of Zelda 40th Anniversary Edition [bought:: 23-11-2026] [cost:: 429.99] [from:: Argos online (order 1562154254)] [paid:: NatWest current] [state:: in stock]
-- PS5 DualSense Wireless Controller, Grand Theft Auto VI Limited Edition, White [bought:: 24-11-2026] [cost:: 74.99] [from:: Smyths Toys, Beckton (click and collect)] [paid:: Amex] [state:: in stock]
-- PS5 DualSense Wireless Controller, Grand Theft Auto VI Limited Edition, White [bought:: 24-11-2026] [cost:: 74.99] [from:: Smyths Toys, Beckton (click and collect)] [paid:: Amex] [state:: in stock]
