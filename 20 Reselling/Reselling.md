@@ -150,4 +150,4 @@ dv.view("20 Reselling/_scripts/reselling", { view: "check" })
 - 24-11-2026: second Switch 2 Zelda 40th console from GAME, £449.99 + £11.99 delivery = £461.98 on the Amex.
 - 24-11-2026: second PS5 Pro 2TB from PlayStation Direct, £789.99 (no discount) on NatWest current, on a second PlayStation account. PS Direct limits 1 per account and has cancelled some orders before, so watch for a cancellation email.
 - 24-11-2026: Smyths refund received on NatWest for the Salford LEGO X-Mansion order (UK302606348). Still to check: no charge or hold left on the Amex from the cancelled Beckton controller order (UK304590537).
-- 24-11-2026 19:31: third PS5 Pro 2TB from PlayStation Direct, £789.99 on the NatWest credit card. Three PS5 Pros and two Zelda Switches bought today (about £3,222).
+- 24-11-2026 19:31: third PS5 Pro 2TB from PlayStation Direct, £789.99 on the NatWest credit card, on a third PlayStation account. All three go to the same address and #1 and #3 share a card, so cancellations are possible: watch the emails. Three PS5 Pros and two Zelda Switches bought today (about £3,222).
