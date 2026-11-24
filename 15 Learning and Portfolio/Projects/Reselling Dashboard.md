@@ -117,6 +117,12 @@ This page fills up once the PS5 Pros, Switches and X-Mansions sell.
 3. Note in [[Skills Roadmap]] what you learnt and set the Power BI level.
 
 ## Ideas
+- **Money made page (Bradley wants this once sales start, asked 24-11-2026).** Tracks gross sales and profit as the months tick over:
+  - Cards: gross sales this month, net profit this month, gross sales all time, net profit all time.
+  - Column chart by month: gross sales (Revenue), Gross profit, Net profit.
+  - Line chart: running totals of gross sales and net profit.
+  - Table, month by month: items sold, gross sales, gross profit, margin, other costs, net profit.
+  - New measures: `Sales this month = CALCULATE ( [Revenue], Calendar[Month number] = YEAR ( TODAY () ) * 100 + MONTH ( TODAY () ) )`, the same for Net profit, and running totals `IF ( MIN ( Calendar[Date] ) > TODAY (), BLANK (), CALCULATE ( [Revenue], FILTER ( ALL ( Calendar ), Calendar[Date] <= MAX ( Calendar[Date] ) ) ) )` (and for Net profit).
 - Credit card view: Capital tied up by Paid with, to check what needs paying off before the statement.
 - Return deadlines on the stock table, once returns are recorded.
 - Expected profit on held stock, using a target price per item.
