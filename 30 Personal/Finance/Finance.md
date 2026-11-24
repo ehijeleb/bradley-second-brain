@@ -116,7 +116,7 @@ Rule: pay each statement balance **in full** by the due date, so no interest. Be
 
 ### NatWest credit card (limit £3,704.10)
 - Statement date: ?  Payment due: ?  Direct debit for full balance: ?
-- Reselling charges: 24-11-2026 PS5 Pro 2TB £750.49 (PS Direct).
+- Reselling charges: 24-11-2026 PS5 Pro 2TB £750.49 (PS Direct); 24-11-2026 PS5 Pro 2TB £789.99 (PS Direct, 19:31). Total £1,540.48.
 - Plus everyday petrol and fast food.
 
 ### Amex (limit £2,300)

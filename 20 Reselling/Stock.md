@@ -34,3 +34,4 @@ One line per item. Add the sold fields to the same line when it sells. Format an
 - PlayStation 5 Pro Console 2TB [bought:: 24-11-2026] [cost:: 750.49] [from:: PlayStation Direct (order 787097672937865)] [paid:: NatWest credit card] [state:: in stock]
 - Nintendo Switch 2 Console, The Legend of Zelda 40th Anniversary Edition [bought:: 24-11-2026] [cost:: 461.98] [from:: GAME online (order GAME40000135877536)] [paid:: Amex] [state:: in stock]
 - PlayStation 5 Pro Console 2TB [bought:: 24-11-2026] [cost:: 789.99] [from:: PlayStation Direct (order 787097677104973)] [paid:: NatWest current] [state:: in stock]
+- PlayStation 5 Pro Console 2TB [bought:: 24-11-2026] [cost:: 789.99] [from:: PlayStation Direct (order number to add)] [paid:: NatWest credit card] [state:: in stock]
