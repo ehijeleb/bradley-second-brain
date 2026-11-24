@@ -70,7 +70,6 @@ views:
 - [ ] Draft a target list of 10 to 15 less saturated employers (see "Suggesting companies")
 
 ## Waiting on
-- [[APP-008 Hamilton Barnes - Trainee Recruitment Consultant]]: Teams interview done 23-11-2026. Oliver to reply by the morning of 24-11-2026; chase 25-11-2026.
 - [[APP-001 ION Asset Architecture - Trading Operations Assistant]]: Round 1 done 19-11-2026. Olivia rang 24-11-2026 (missed); calling back 25-11-2026.
 - [[APP-007 G MASS - Graduate Underwriting Assistant Consultant]]: response to the application (applied 15-11-2026).
 
@@ -102,6 +101,7 @@ views:
 - 16-11-2026: APP-006 Sigma Labs rejected after the Equalture games (cognitive flexibility the weak area). Status done; can reapply from 16-11-2027.
 - 23-11-2026: APP-008 Hamilton Barnes pay confirmed by Oliver: £26,000 basic, year 1 OTE £32,000 to £35,000, 5% commission per side.
 - 23-11-2026: APP-008 Hamilton Barnes Teams interview done. Oliver to reply by 24-11-2026; likely start early January 2027.
+- 24-11-2026: APP-008 Hamilton Barnes rejected by email; details kept on file. Status done.
 - 24-11-2026: Olivia Ross rang about APP-001 ION (missed). Bradley calling back 25-11-2026.
 - 22-11-2026: logged APP-008 Hamilton Barnes, trainee recruitment consultant (title to confirm), stage Interview (Teams, 23-11-2026 11:00), fit 5/10.
 - 19-11-2026: APP-001 ION Round 1 interview done with Drish. Outcome by early next week; next stage on site.

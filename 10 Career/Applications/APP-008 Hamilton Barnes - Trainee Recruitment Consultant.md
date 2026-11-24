@@ -9,13 +9,13 @@ advert:
 date_applied: 2026-11-18
 closing_date: 
 fit_score: 5
-stage: Interview (Teams done 23-11-2026)
+stage: Rejected
 cv_version: 
 cover_letter: no
-next_step: Oliver to reply by the morning of 24-11-2026. Chase on 25-11-2026 if nothing.
-deadline: 2026-11-25
-status: active
-waiting_on: Oliver O'Brien's feedback (due 24-11-2026)
+next_step: None. Oliver will keep his details on file; hiring quieter until the new year.
+deadline: 
+status: done
+waiting_on: 
 ---
 # APP-008 Hamilton Barnes - Trainee Recruitment Consultant
 
@@ -41,5 +41,6 @@ waiting_on: Oliver O'Brien's feedback (due 24-11-2026)
   - Next: Oliver shares his profile with internal teams and replies by the morning of 24-11-2026.
   - Not covered: exact title, basic salary, commission, desk, hours, later stages.
 - 23-11-2026: Bradley emailed about pay and Oliver replied with basic, OTE and commission ([[2026-11-23 Hamilton Barnes - Salary and commission]]). Not stated: any threshold, when commission is paid, or what happens if a candidate leaves early.
+- 24-11-2026: rejected by email ([[2026-11-24 Hamilton Barnes - Application outcome]]): moving forward with candidates more closely aligned; details kept on file, quieter hiring until the new year. Status done.
 
 Back to [[Job Hunt]]
