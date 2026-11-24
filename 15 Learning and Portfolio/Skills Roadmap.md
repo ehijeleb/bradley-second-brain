@@ -26,7 +26,7 @@ status: active
 | --- | --- | --- | --- | --- |
 | SQL Tutorial | W3Schools | not recorded | in progress | |
 | Tableau (self-taught) | Tableau Public | 2026 | 2 dashboards published, more coming | |
-| Power BI (self-taught, via [[Reselling Dashboard]]) | Power BI Desktop | 24-11-2026 | dashboard built by Claude, to open and learn from | |
+| Power BI (self-taught, via [[Reselling Dashboard]]) | Power BI Desktop | 24-11-2026 | dashboard working (24-11-2026); next: formatting and exercises | |
 
 ## Learning log
 - Tableau hard parts so far: Tableau Public only renders Tableau and web-safe fonts; annotations and floating objects shift between Desktop and Public; keeping long-form dashboards to benchmark length; text baked into images isn't editable or accessible; colour stored in two places in the .twb file.

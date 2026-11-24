@@ -14,13 +14,14 @@ repo:
 > **Where things live:** data in [[Stock]] and [[Reselling expenses]]. Export script `20 Reselling/_scripts/export_reselling.py` writes `20 Reselling/Exports/Items.csv` and `Expenses.csv`. The dashboard is a Power BI project in `20 Reselling/Exports/Power BI/`: open `Reselling dashboard.pbip`.
 
 ## Next actions
-- [ ] Open the dashboard on the laptop and check it against "Checking it opened right" below
+- [x] Open the dashboard on the laptop and check it against "Checking it opened right" below (done 24-11-2026, all five cards matched)
+- [ ] Tidy the cards: Display units None, Category label off
 - [ ] Read "How it's built" with the file open: find each step in Power Query, Model view and the measures
 - [ ] Learning exercises: add conditional formatting to Days held (14+ amber, 30+ red), a drill-through from Category to a detail page, and a credit card page (Capital tied up by Paid with)
 - [ ] Refresh routine after each Stock update (Step 6), then set the Power BI level in [[Skills Roadmap]]
 
 ## Open questions
-- Built by Claude in a cloud session as text files (PBIP format) without Power BI, so it's never been opened. The report files pass Microsoft's published schemas; the model files couldn't be checked. If Power BI shows an error on opening, paste or screenshot it here and it can be fixed.
+- None. Opened in Power BI Desktop on 24-11-2026 and refreshed without errors.
 
 ## Opening it
 1. Install **Power BI Desktop** (free, Microsoft Store) if it isn't already.
@@ -129,6 +130,7 @@ This page fills up once the PS5 Pros, Switches and X-Mansions sell.
 ## Status log
 - 24-11-2026: hub created. Export script written and first export run (28 items, 1 expense).
 - 24-11-2026: returning and returned states added to [[Stock]] (Reselling chat); export now includes a Refunded date. Dashboard built as a Power BI project in `20 Reselling/Exports/Power BI/` (Overview and Sales pages). Not yet opened in Power BI.
+- 24-11-2026: opened in Power BI Desktop on the laptop, refreshed, all five Overview cards matched the expected figures.
 
 ## Links
 - [[Stock]] · [[Reselling]] · [[Reselling expenses]] · [[Skills Roadmap]] · [[Portfolio Projects]]
