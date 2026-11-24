@@ -8,6 +8,8 @@
 //   [[Stock]]               one line per item:
 //     - Nike Air Max 90, size 9 [bought:: 02-11-2026] [cost:: 25.00] [from:: Vinted] [state:: listed]
 //     when it sells, add:  [sold:: 10-11-2026] [price:: 45.00] [fees:: 2.50] [postage:: 3.20] [platform:: eBay]
+//     going back to the shop: [state:: returning]; once the refund lands: [state:: returned] [refunded:: 28-11-2026]
+//     returning and returned items drop out of stock and profit (any return fee goes in Reselling expenses)
 //   [[Reselling expenses]]  one line per cost that isn't an item:
 //     - 05-11-2026 Postage bags [exp:: Supplies] [amt:: 6.99]
 //
@@ -59,6 +61,8 @@ function lists(name) {
 }
 
 const problems = [];
+const STATES = ["in stock", "listed", "sold", "kept", "returning", "returned"];
+const OFF_SHELF = ["kept", "returning", "returned"];
 
 const items = lists("Stock")
   .filter(l => l.cost !== undefined || l.bought !== undefined || l.sold !== undefined)
@@ -80,6 +84,8 @@ const items = lists("Stock")
     if (l.sold !== undefined && str(l.sold) !== "" && !it.sold) problems.push(["Stock", it.name, "sold date not DD-MM-YYYY"]);
     if (it.sold && it.price === null) problems.push(["Stock", it.name, "sold but no price"]);
     if (!it.sold && it.price !== null) problems.push(["Stock", it.name, "has a price but no sold date"]);
+    if (it.state && !STATES.includes(it.state)) problems.push(["Stock", it.name, `state "${it.state}" isn't one of: ${STATES.join(", ")}`]);
+    if (it.sold && (it.state === "returning" || it.state === "returned")) problems.push(["Stock", it.name, "marked sold and returned"]);
     return it;
   });
 
@@ -120,21 +126,30 @@ if (VIEW === "summary") {
       "**" + money(tot.sales - tot.cogs - tot.fees - tot.exp) + "**"]);
     dv.table(["Month", "Sold", "Sales", "Cost of items sold", "Fees & postage", "Other expenses", "Profit"], rows);
   }
-  const unsold = items.filter(it => !it.sold && it.state !== "kept");
+  const unsold = items.filter(it => !it.sold && !OFF_SHELF.includes(it.state));
   const tied = unsold.reduce((t, it) => t + (it.cost || 0), 0);
   dv.paragraph(`**Stock on hand:** ${unsold.length} item${unsold.length === 1 ? "" : "s"}, ${money(tied)} spent on them.`);
+  const back = items.filter(it => !it.sold && it.state === "returning");
+  if (back.length) dv.paragraph(`**Refunds to come:** ${back.length} item${back.length === 1 ? "" : "s"} going back, ${money(back.reduce((t, it) => t + (it.cost || 0), 0))}.`);
   if (problems.length) dv.paragraph(`⚠ ${problems.length} line(s) need fixing: see "Check these lines" below.`);
 }
 
 if (VIEW === "stock") {
   const today = new Date();
-  const unsold = items.filter(it => !it.sold && it.state !== "kept")
+  const unsold = items.filter(it => !it.sold && !OFF_SHELF.includes(it.state))
     .sort((a, b) => (a.bought ? a.bought.getTime() : 0) - (b.bought ? b.bought.getTime() : 0));
   if (!unsold.length) dv.paragraph("Nothing in stock.");
   else dv.table(["Item", "Bought", "Cost", "From", "State", "Days held"], unsold.map(it => [
     it.name, ddmmyyyy(it.bought), it.cost === null ? "" : money(it.cost), it.from, it.state || "in stock",
     it.bought ? Math.floor((today - it.bought) / 86400000) : "",
   ]));
+  const back = items.filter(it => !it.sold && it.state === "returning");
+  if (back.length) {
+    dv.header(4, "Going back (refund not in yet)");
+    dv.table(["Item", "Bought", "Cost", "From"], back.map(it => [
+      it.name, ddmmyyyy(it.bought), it.cost === null ? "" : money(it.cost), it.from,
+    ]));
+  }
 }
 
 if (VIEW === "check") {

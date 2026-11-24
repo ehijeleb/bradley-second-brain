@@ -27,7 +27,13 @@ dv.view("20 Reselling/_scripts/reselling", { view: "stock" })
 ```
 - Nike Air Max 90, size 9 [bought:: 02-11-2026] [cost:: 25.00] [from:: Vinted] [state:: listed]
 ```
-`state` is `in stock`, `listed`, `sold` or `kept` (kept items drop out of stock and profit).
+`state` is `in stock`, `listed`, `sold`, `kept`, `returning` or `returned`. Kept, returning and returned items drop out of stock and profit.
+
+**Sending it back**, change the state to `returning`. It moves to "Going back" under In stock, and its cost shows as a refund to come. When the refund lands:
+```
+[state:: returned] [refunded:: 28-11-2026]
+```
+If the shop keeps a return fee or the delivery charge, log that in [[Reselling expenses]] as `[exp:: Returns]`.
 Optional `[paid:: NatWest current]` records which account or card paid for it.
 
 **Sold it**, add to the same line:
@@ -156,3 +162,4 @@ dv.view("20 Reselling/_scripts/reselling", { view: "check" })
 - 24-11-2026: all eBay drafts published now verification is done. Red Bull calendars not returned yet, still to do.
 - 24-11-2026: decided to return every Taylor Swift item (sherpa, sweatpants, slippers, notebook, earbud case, 6 snow globes). Refunds due: Taylor Swift items about £629.70 and the dress £553.98 to NatWest current, Red Bull £150 to the Amex. Left to sell: 3 PS5 Pros, 2 Switch 2 Zelda consoles, 2 LEGO X-Mansions, Topps pack.
 - 24-11-2026: export script for the Power BI [[Reselling Dashboard]] added: `python "20 Reselling/_scripts/export_reselling.py"` writes `20 Reselling/Exports/`. Returned and returning items aren't marked in [[Stock]] yet, so they count as stock on the dashboard.
+- 24-11-2026: added `returning` and `returned` states to [[Stock]] and the dashboard. Dress, snow globes, earbud case and Red Bull marked returning.
