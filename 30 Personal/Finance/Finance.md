@@ -137,6 +137,7 @@ Proposed by Claude on 13-11-2026 from the figures above. Change or delete any of
 - [ ] **Christmas gifts: £150** in December. Placeholder, set your own figure.
 - [ ] **February holiday: £600 set aside by 31-01-2027.** Placeholder until the trip is priced.
 - [ ] **Reselling float: £300** kept separate for stock, so buying doesn't eat into living money. Profit goes back in until the float grows.
+- [ ] **House deposit in about 5 years (around 2031).** Bradley's aim, 24-11-2026. Current pace is about £717 a month (£50 a week plus £500 a payday), about 31% of £2,300 take-home.
 - [ ] **LISA: fill the £4,000 allowance each tax year** (6 April to 5 April) for the full £1,000 bonus. Paying in £50 a week plus £500 a payday (about £8,600 a year) is more than the limit, so from April 2027 the extra needs to go to an ordinary ISA or savings instead. Balance £790 on 24-11-2026. Moneybox projects about £31,000 after 5 years. LISA money is for a first home (up to £450,000, at least 12 months after opening) or age 60; withdrawing for anything else costs a 25% charge.
 - [ ] **New gym membership at or under £30 a month.**
 ## Status log
@@ -145,3 +146,4 @@ Proposed by Claude on 13-11-2026 from the figures above. Change or delete any of
 - 13-11-2026: tax refund details imported (about £884.60 due back on the December payslip). Hourly rate corrected to £14.96 from payslips.
 - 17-11-2026: Student Loans Company email: repayments start April 2027. HMRC estimated income of £21,000 confirmed. Dart Charge to be claimed in the Inet app. Bradley will log expenses as they happen from now on.
 - 24-11-2026: LISA now £50 a week plus £500 each payday; balance £790. Over the £4,000 yearly limit from April 2027.
+- 24-11-2026: goal added, house deposit in about 5 years.
