@@ -17,6 +17,7 @@ hourly_wage: 14.96
 > **Pay:** [[Bershka]] (employer ITX UK Limited), £14.96 an hour from September 2026 (payslips; Bradley rounds it to £15), plus £1.50 at weekends. 40 hours a week. Pay period is the calendar month, paid on the 10th of the next month into NatWest.
 > **Take-home:** gross has been £2,450 to £3,230 a month (August to October). Net was £2,060 to £2,620 on the old Month 1 tax code; it should be slightly higher from December on the correct code 1257L. Year-to-date 2026-27 gross £9,415.64, tax £1,090.40, NI £435.96.
 > **No deductions yet** for student loan or workplace pension (see Tax). Student loan repayments start April 2027: 9% of pay above £2,168 a month (SLC, 17-11-2026).
+> **LISA (24-11-2026):** £790, now £50 a week plus £500 each payday.
 > **Balances (13-11-2026):** NatWest current £4,270.00. Moneybox LISA £689.46. NatWest credit card £95.90 in credit (limit £3,704.10).
 > **Owe:** £2,800 to university accommodation. **Owed to me:** £35 Dart Charge from Bershka; possible £800 tax refund.
 
@@ -48,7 +49,7 @@ Give an account a `pct` to split your wages between accounts; the percentages mu
 - [account:: HSBC] may become the reselling account once buying picks up (15-11-2026)
 - [account:: Amex] credit card, arrived 17-11-2026, used for reselling stock from 18-11-2026. Limit £2,300.
 - [account:: Revolut] card used by a friend's checkout bot for reselling drops. Topped up with £1,000 on 19-11-2026 (a transfer, so not logged as spending). Keep a spending limit on it.
-- [account:: Moneybox LISA] savings only: £50 a week goes in automatically (a transfer, so not logged as spending)
+- [account:: Moneybox LISA] savings only: £50 a week plus £500 every payday go in automatically (transfers, so not logged as spending)
 
 ### Categories and monthly budgets
 A budget of 0 means no monthly budget yet (or one-off costs).
@@ -68,6 +69,7 @@ A budget of 0 means no monthly budget yet (or one-off costs).
 ## Recurring
 - 10th of each month: wages in from [[Bershka]] for the previous calendar month.
 - Weekly: £50 NatWest to Moneybox LISA (transfer, don't log).
+- 10th of each month, from 24-11-2026: £500 NatWest to Moneybox LISA (transfer, don't log). The LISA limit is £4,000 a tax year, so at this pace it fills by about early September each year; anything over needs another home.
 - Monthly: rent to parents £150 (day not recorded).
 - Monthly: phone £39 (day not recorded).
 - Monthly: gym, rising to £50 (cancelling; find a new membership).
@@ -135,10 +137,11 @@ Proposed by Claude on 13-11-2026 from the figures above. Change or delete any of
 - [ ] **Christmas gifts: £150** in December. Placeholder, set your own figure.
 - [ ] **February holiday: £600 set aside by 31-01-2027.** Placeholder until the trip is priced.
 - [ ] **Reselling float: £300** kept separate for stock, so buying doesn't eat into living money. Profit goes back in until the float grows.
-- [ ] **LISA: keep the £50 a week going** (about £2,600 a year, under the £4,000 yearly limit, earning the 25% government bonus). LISA money is for a first home or age 60; withdrawing for anything else costs a 25% charge.
+- [ ] **LISA: fill the £4,000 allowance each tax year** (6 April to 5 April) for the full £1,000 bonus. Paying in £50 a week plus £500 a payday (about £8,600 a year) is more than the limit, so from April 2027 the extra needs to go to an ordinary ISA or savings instead. Balance £790 on 24-11-2026. Moneybox projects about £31,000 after 5 years. LISA money is for a first home (up to £450,000, at least 12 months after opening) or age 60; withdrawing for anything else costs a 25% charge.
 - [ ] **New gym membership at or under £30 a month.**
 ## Status log
 - 13-11-2026: Finance set up, blank
 - 13-11-2026: filled in with Bradley: pay, accounts, balances, budgets, recurring payments, debts and proposed goals.
 - 13-11-2026: tax refund details imported (about £884.60 due back on the December payslip). Hourly rate corrected to £14.96 from payslips.
 - 17-11-2026: Student Loans Company email: repayments start April 2027. HMRC estimated income of £21,000 confirmed. Dart Charge to be claimed in the Inet app. Bradley will log expenses as they happen from now on.
+- 24-11-2026: LISA now £50 a week plus £500 each payday; balance £790. Over the £4,000 yearly limit from April 2027.
