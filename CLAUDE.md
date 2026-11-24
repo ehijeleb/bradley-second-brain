@@ -9,7 +9,7 @@ If `Start here.md` has unticked items, start the session by telling Bradley what
 For anything to do with the job hunt (assessing adverts, suggesting companies, rewriting CVs or cover letters, logging applications), follow "Rules for Claude" in `10 Career/Job Hunt.md`. Key points: honest fit scores, never invent experience, verify openings on the web and cite sources, only log roles he confirms he's applied to, IDs `APP-001` upwards never reused, never guess a status. Excel export: `python "10 Career/_scripts/export_applications.py"` (needs `python -m pip install openpyxl` once).
 
 ## Reselling and money
-- Reselling: items in `20 Reselling/Stock.md`, other costs in `20 Reselling/Reselling expenses.md`, line formats in `20 Reselling/Reselling.md`. Dates in those fields are DD-MM-YYYY.
+- Reselling: items in `20 Reselling/Stock.md`, other costs in `20 Reselling/Reselling expenses.md`, line formats in `20 Reselling/Reselling.md`. Dates in those fields are DD-MM-YYYY. Power BI export: `python "20 Reselling/_scripts/export_reselling.py"` (see [[Reselling Dashboard]]).
 - Personal spending and income: month notes in `30 Personal/Finance/`, formats in `Finance.md`.
 
 ## Whose brain this is
