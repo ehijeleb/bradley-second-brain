@@ -110,8 +110,24 @@ Imported 13-11-2026 from Bradley's tax refund chat. Sensitive details (NI number
 - [ ] Optional: delete the 13-11-2026 "Check HMRC app" calendar event
 
 ## Credit cards
-- **NatWest credit card:** limit £3,704.10. Used for regular small spending and paid in full to build a credit history.
-- **Amex:** arrived 17-11-2026. Limit £2,300 (confirmed 18-11-2026). £150 used on 18-11-2026 for reselling stock (6 Red Bull advent calendars).
+Rule: pay each statement balance **in full** by the due date, so no interest. Best set up a direct debit for the full statement balance on both cards.
+
+### NatWest credit card (limit £3,704.10)
+- Statement date: ?  Payment due: ?  Direct debit for full balance: ?
+- Reselling charges: 24-11-2026 PS5 Pro 2TB £750.49 (PS Direct).
+- Plus everyday petrol and fast food.
+
+### Amex (limit £2,300)
+- Statement date: ?  Payment due: ?  Direct debit for full balance: ?
+- Reselling charges: 18-11-2026 Red Bull calendars £150.00 (returning, refund pending); 24-11-2026 Switch 2 Zelda £461.98 (GAME).
+- Smyths Beckton order UK304590537 (£149.98) was cancelled 24-11-2026: check no charge or hold remains.
+- Expected balance once the Red Bull refund lands: about £461.98.
+
+### Credit card to-do
+- [ ] Find the statement and payment due dates for both cards (NatWest app, Amex app) and fill them in above
+- [ ] Set up a direct debit for the full statement balance on both cards
+- [ ] Pay both in full each month; sell or return the stock on them before the due date
+
 ## Goals
 Proposed by Claude on 13-11-2026 from the figures above. Change or delete any of them.
 - [ ] **Clear the £2,800 accommodation debt by 28-02-2027.** About £935 a month for three months fits within take-home after costs.
