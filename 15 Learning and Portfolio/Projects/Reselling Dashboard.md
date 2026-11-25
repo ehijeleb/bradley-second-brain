@@ -15,7 +15,7 @@ repo:
 
 ## Next actions
 - [x] Open the dashboard on the laptop and check it against "Checking it opened right" below (done 24-11-2026, all five cards matched)
-- [ ] Tidy the cards: Display units None, Category label off
+- [x] Tidy the cards: Display units None, Category label off
 - [ ] Read "How it's built" with the file open: find each step in Power Query, Model view and the measures
 - [ ] Learning exercises: add conditional formatting to Days held (14+ amber, 30+ red), a drill-through from Category to a detail page, and a credit card page (Capital tied up by Paid with)
 - [ ] Refresh routine after each Stock update (Step 6), then set the Power BI level in [[Skills Roadmap]]
