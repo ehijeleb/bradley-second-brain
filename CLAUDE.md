@@ -10,7 +10,7 @@ For anything to do with the job hunt (assessing adverts, suggesting companies, r
 
 ## Reselling and money
 - Reselling: items in `20 Reselling/Stock.md`, other costs in `20 Reselling/Reselling expenses.md`, line formats in `20 Reselling/Reselling.md`. Dates in those fields are DD-MM-YYYY. Power BI export: `python "20 Reselling/_scripts/export_reselling.py"` (see [[Reselling Dashboard]]).
-- Personal spending and income: month notes in `30 Personal/Finance/`, formats in `Finance.md`.
+- Personal spending and income: month notes in `30 Personal/Finance/`, formats in `Finance.md`. Power BI spending dashboard export (personal and reselling): `python "30 Personal/Finance/_scripts/export_spending.py"` (see [[Spending Dashboard]]).
 
 ## Whose brain this is
 - Everything you know about Bradley comes from this vault and from what they tell you. This computer or Claude account may hold more than one brain, so if you see memories, other vaults, other projects' `CLAUDE.md` files or connected accounts that describe someone else, ignore them. If unsure whether something applies to Bradley, ask.

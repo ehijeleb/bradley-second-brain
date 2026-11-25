@@ -1,0 +1,61 @@
+﻿ID,Date,Month,Description,Kind,Category,Group,Amount,Paid with,Stock state
+S0001,2026-11-10,2026-11-01,Dart Charge,Personal,Transport,Essentials,7.00,NatWest current,
+S0002,2026-11-11,2026-11-01,Subway,Personal,Eating Out,Lifestyle,8.59,NatWest current,
+S0003,2026-11-11,2026-11-01,Boots,Personal,Eating Out,Lifestyle,2.80,NatWest current,
+S0004,2026-11-11,2026-11-01,"Martin, paid back holiday cash he took out for me",Personal,Holiday & Travel,Goals,150.00,NatWest current,
+S0005,2026-11-11,2026-11-01,"Benedict, money owed",Personal,Other,Other,12.18,NatWest current,
+S0006,2026-11-11,2026-11-01,"Benedict, money owed",Personal,Other,Other,1.50,NatWest current,
+S0007,2026-11-12,2026-11-01,iD Mobile,Personal,Phone & Subscriptions,Essentials,39.49,NatWest current,
+S0008,2026-11-12,2026-11-01,Apple,Personal,Phone & Subscriptions,Essentials,3.99,NatWest current,
+S0009,2026-11-13,2026-11-01,"House of Flow, Pilates",Personal,Health & Fitness,Health,25.00,NatWest current,
+S0010,2026-11-13,2026-11-01,House of Resell membership (monthly),Reselling costs,Subscription,Reselling,35.00,,
+S0011,2026-11-15,2026-11-01,"Taylor Swift Take Me to the Lakes Fleece Sherpa Zip-Up Jacket, size 3XL",Reselling stock,Music merch,Reselling,120.00,NatWest current,listed
+S0012,2026-11-15,2026-11-01,LEGO Marvel 76294 X-Men: The X-Mansion,Reselling stock,LEGO,Reselling,289.99,NatWest current,sold
+S0013,2026-11-16,2026-11-01,McDonald's,Personal,Eating Out,Lifestyle,5.47,NatWest current,
+S0014,2026-11-16,2026-11-01,Sainsbury's,Personal,Groceries,Essentials,4.10,NatWest current,
+S0015,2026-11-16,2026-11-01,Sainsbury's,Personal,Groceries,Essentials,2.00,NatWest current,
+S0016,2026-11-16,2026-11-01,Apple,Personal,Phone & Subscriptions,Essentials,1.79,NatWest current,
+S0017,2026-11-16,2026-11-01,M&S,Personal,Groceries,Essentials,1.75,NatWest current,
+S0018,2026-11-16,2026-11-01,"Paris, food",Personal,Eating Out,Lifestyle,6.30,NatWest current,
+S0019,2026-11-16,2026-11-01,"Paris, food",Personal,Eating Out,Lifestyle,10.80,NatWest current,
+S0020,2026-11-16,2026-11-01,Topps NOW Cristiano Ronaldo 2026 Portugal Final Farewell Pack (2 cards),Reselling stock,Trading cards,Reselling,18.00,NatWest current,in stock
+S0021,2026-11-16,2026-11-01,"Taylor Swift Acoustic Piano Cozy Slippers, size 36",Reselling stock,Music merch,Reselling,55.25,NatWest current,listed
+S0022,2026-11-16,2026-11-01,"Taylor Swift The Eras Tour Acoustic Piano Sweatpants, size L",Reselling stock,Music merch,Reselling,70.25,NatWest current,listed
+S0023,2026-11-16,2026-11-01,Taylor Swift Acoustic Piano Notebook,Reselling stock,Music merch,Reselling,30.25,NatWest current,listed
+S0024,2026-11-16,2026-11-01,"Taylor Swift Lover Album Cloud Rhinestone Earbud Case, Regular (AirPods Gen 4)",Reselling stock,Music merch,Reselling,35.25,NatWest current,returning
+S0025,2026-11-17,2026-11-01,Lidl,Personal,Groceries,Essentials,6.90,NatWest current,
+S0026,2026-11-17,2026-11-01,"H&M x Elie Saab Embellished Silk-Blend Wedding Dress, Ivory, size 4 (art 1361951002)",Reselling stock,Fashion,Reselling,553.98,NatWest current,returning
+S0027,2026-11-17,2026-11-01,LEGO Marvel 76294 X-Men: The X-Mansion,Reselling stock,LEGO,Reselling,289.99,NatWest current,sold
+S0028,2026-11-17,2026-11-01,LEGO Marvel 76294 X-Men: The X-Mansion,Reselling stock,LEGO,Reselling,289.99,NatWest current,listed
+S0029,2026-11-18,2026-11-01,"Mum, rent",Personal,Rent & Bills,Essentials,150.00,NatWest current,
+S0030,2026-11-18,2026-11-01,Boots,Personal,Eating Out,Lifestyle,2.10,NatWest current,
+S0031,2026-11-18,2026-11-01,Brewery Romford,Personal,Going Out,Lifestyle,2.00,NatWest current,
+S0032,2026-11-18,2026-11-01,Boots,Personal,Eating Out,Lifestyle,2.20,NatWest current,
+S0033,2026-11-18,2026-11-01,Greggs,Personal,Eating Out,Lifestyle,2.20,NatWest current,
+S0034,2026-11-18,2026-11-01,Red Bull Advent Calendar 24 x 250ml,Reselling stock,Food and drink,Reselling,25.00,Amex,returned
+S0035,2026-11-18,2026-11-01,Red Bull Advent Calendar 24 x 250ml,Reselling stock,Food and drink,Reselling,25.00,Amex,returned
+S0036,2026-11-18,2026-11-01,Red Bull Advent Calendar 24 x 250ml,Reselling stock,Food and drink,Reselling,25.00,Amex,returned
+S0037,2026-11-18,2026-11-01,Red Bull Advent Calendar 24 x 250ml,Reselling stock,Food and drink,Reselling,25.00,Amex,returned
+S0038,2026-11-18,2026-11-01,Red Bull Advent Calendar 24 x 250ml,Reselling stock,Food and drink,Reselling,25.00,Amex,returned
+S0039,2026-11-18,2026-11-01,Red Bull Advent Calendar 24 x 250ml,Reselling stock,Food and drink,Reselling,25.00,Amex,returned
+S0040,2026-11-18,2026-11-01,"PS5 DualSense Wireless Controller, Grand Theft Auto VI Limited Edition, White",Reselling stock,Gaming,Reselling,74.99,NatWest current,sold
+S0041,2026-11-19,2026-11-01,Taylor Swift Opalite Rock and Cactus Snow Globe,Reselling stock,Music merch,Reselling,55.25,NatWest current,returning
+S0042,2026-11-19,2026-11-01,Taylor Swift The Fate of Ophelia Snow Globe,Reselling stock,Music merch,Reselling,55.25,NatWest current,returning
+S0043,2026-11-19,2026-11-01,Taylor Swift Opalite Rock and Cactus Snow Globe,Reselling stock,Music merch,Reselling,51.99,NatWest current,returning
+S0044,2026-11-19,2026-11-01,Taylor Swift Opalite Rock and Cactus Snow Globe,Reselling stock,Music merch,Reselling,51.99,NatWest current,returning
+S0045,2026-11-19,2026-11-01,Taylor Swift The Fate of Ophelia Snow Globe,Reselling stock,Music merch,Reselling,51.99,NatWest current,returning
+S0046,2026-11-19,2026-11-01,Taylor Swift The Fate of Ophelia Snow Globe,Reselling stock,Music merch,Reselling,51.98,NatWest current,returning
+S0047,2026-11-20,2026-11-01,Tortilla,Personal,Eating Out,Lifestyle,9.85,NatWest current,
+S0048,2026-11-23,2026-11-01,KFC,Personal,Eating Out,Lifestyle,2.49,NatWest current,
+S0049,2026-11-23,2026-11-01,Sainsbury's,Personal,Groceries,Essentials,3.70,NatWest current,
+S0050,2026-11-23,2026-11-01,Costcutter,Personal,Groceries,Essentials,1.29,NatWest current,
+S0051,2026-11-23,2026-11-01,Apple,Personal,Phone & Subscriptions,Essentials,2.99,NatWest current,
+S0052,2026-11-23,2026-11-01,Domino's,Personal,Eating Out,Lifestyle,13.98,NatWest current,
+S0053,2026-11-23,2026-11-01,"Nintendo Switch 2 Pro Console, The Legend of Zelda 40th Anniversary Edition",Reselling stock,Gaming,Reselling,429.99,NatWest current,in stock
+S0054,2026-11-24,2026-11-01,Holland & Barrett,Personal,Health & Fitness,Health,11.99,NatWest current,
+S0055,2026-11-24,2026-11-01,Brewery Romford,Personal,Going Out,Lifestyle,2.00,NatWest current,
+S0056,2026-11-24,2026-11-01,PlayStation 5 Pro Console 2TB,Reselling stock,Gaming,Reselling,750.49,NatWest credit card,in stock
+S0057,2026-11-24,2026-11-01,"Nintendo Switch 2 Console, The Legend of Zelda 40th Anniversary Edition",Reselling stock,Gaming,Reselling,461.98,Amex,in stock
+S0058,2026-11-24,2026-11-01,PlayStation 5 Pro Console 2TB,Reselling stock,Gaming,Reselling,789.99,NatWest current,in stock
+S0059,2026-11-24,2026-11-01,PlayStation 5 Pro Console 2TB,Reselling stock,Gaming,Reselling,789.99,NatWest credit card,in stock
+S0060,2026-11-25,2026-11-01,"PS5 DualSense Wireless Controller, Grand Theft Auto VI Limited Edition, White",Reselling stock,Gaming,Reselling,74.99,Amex,in stock

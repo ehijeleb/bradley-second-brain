@@ -1,0 +1,58 @@
+table Income
+	lineageTag: 016a9a83-fac9-471b-9874-91d171d33ec6
+
+	column Date
+		dataType: dateTime
+		formatString: dd-mm-yyyy
+		lineageTag: bbde5a29-2aad-4813-8c61-9da28f8ae8ec
+		summarizeBy: none
+		sourceColumn: Date
+
+		annotation SummarizationSetBy = Automatic
+
+	column Month
+		dataType: dateTime
+		formatString: dd-mm-yyyy
+		lineageTag: cd70e73b-0fd8-42bd-ae1b-5e65af4b0412
+		summarizeBy: none
+		sourceColumn: Month
+
+		annotation SummarizationSetBy = Automatic
+
+	column Description
+		dataType: string
+		lineageTag: 47914f4a-e7d2-4f7e-96c6-dbfe21d703fe
+		summarizeBy: none
+		sourceColumn: Description
+
+		annotation SummarizationSetBy = Automatic
+
+	column Type
+		dataType: string
+		lineageTag: 849394ed-ce3f-41ca-9441-03836fe7531d
+		summarizeBy: none
+		sourceColumn: Type
+
+		annotation SummarizationSetBy = Automatic
+
+	column Amount
+		dataType: decimal
+		formatString: \£#,0.00;-\£#,0.00;\£#,0.00
+		lineageTag: 5c2aa11d-a727-47ea-907c-b58db0e584e7
+		summarizeBy: sum
+		sourceColumn: Amount
+
+		annotation SummarizationSetBy = Automatic
+
+	partition Income = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents(#"Exports folder" & "Income.csv"), [Delimiter = ",", Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+				    Promoted = Table.PromoteHeaders(Source, [PromoteAllScalars = true]),
+				    Blanks = Table.TransformColumns(Promoted, {}, each if _ = "" then null else _),
+				    Typed = Table.TransformColumnTypes(Blanks, {{"Date", type date}, {"Month", type date}, {"Description", type text}, {"Type", type text}, {"Amount", Currency.Type}}, "en-GB")
+				in
+				    Typed
+
+	annotation PBI_ResultType = Table

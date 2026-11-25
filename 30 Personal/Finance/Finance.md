@@ -140,6 +140,11 @@ Proposed by Claude on 13-11-2026 from the figures above. Change or delete any of
 - [ ] **House deposit in about 5 years (around 2031).** Bradley's aim, 24-11-2026. Current pace is about £717 a month (£50 a week plus £500 a payday), about 31% of £2,300 take-home.
 - [ ] **LISA: fill the £4,000 allowance each tax year** (6 April to 5 April) for the full £1,000 bonus. Paying in £50 a week plus £500 a payday (about £8,600 a year) is more than the limit, so from April 2027 the extra needs to go to an ordinary ISA or savings instead. Balance £790 on 24-11-2026. Moneybox projects about £31,000 after 5 years. LISA money is for a first home (up to £450,000, at least 12 months after opening) or age 60; withdrawing for anything else costs a 25% charge.
 - [ ] **New gym membership at or under £30 a month.**
+## Savings balances
+One line per balance check, for the spending dashboard's savings page. Take the figure from the Moneybox app now and then (after a payday is ideal). Balances only, never account numbers.
+- 13-11-2026 [saving:: Moneybox LISA] [balance:: 689.46]
+- 24-11-2026 [saving:: Moneybox LISA] [balance:: 790.00]
+
 ## Status log
 - 13-11-2026: Finance set up, blank
 - 13-11-2026: filled in with Bradley: pay, accounts, balances, budgets, recurring payments, debts and proposed goals.
@@ -147,3 +152,4 @@ Proposed by Claude on 13-11-2026 from the figures above. Change or delete any of
 - 17-11-2026: Student Loans Company email: repayments start April 2027. HMRC estimated income of £21,000 confirmed. Dart Charge to be claimed in the Inet app. Bradley will log expenses as they happen from now on.
 - 24-11-2026: LISA now £50 a week plus £500 each payday; balance £790. Over the £4,000 yearly limit from April 2027.
 - 24-11-2026: goal added, house deposit in about 5 years.
+- 25-11-2026: Savings balances log added for the Power BI [[Spending Dashboard]]. Export: `python "30 Personal/Finance/_scripts/export_spending.py"`.

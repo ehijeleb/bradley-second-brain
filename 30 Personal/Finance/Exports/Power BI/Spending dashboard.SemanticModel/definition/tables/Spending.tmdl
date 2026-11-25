@@ -1,0 +1,154 @@
+table Spending
+	lineageTag: 3ff8d748-b8ac-45fb-8078-fe62c5142d7b
+
+	measure 'Total spent' = SUM ( Spending[Amount] )
+		formatString: \£#,0.00;-\£#,0.00;\£#,0.00
+		lineageTag: 2e4ffd96-0d96-4415-b336-c4b3c4705e94
+
+	measure 'Personal spend' = CALCULATE ( [Total spent], Spending[Kind] = "Personal" )
+		formatString: \£#,0.00;-\£#,0.00;\£#,0.00
+		lineageTag: c11c8ff3-72f0-40bc-afde-3f16b9bfd029
+
+	measure 'Stock bought' = CALCULATE ( [Total spent], Spending[Kind] = "Reselling stock" )
+		formatString: \£#,0.00;-\£#,0.00;\£#,0.00
+		lineageTag: 9aa8cbbf-7bbc-4c46-8a04-8a1a1c2df904
+
+	measure 'Stock refunded' = CALCULATE ( [Total spent], Spending[Kind] = "Reselling stock", Spending[Stock state] = "returned" )
+		formatString: \£#,0.00;-\£#,0.00;\£#,0.00
+		lineageTag: 17c548f4-8efa-4cb6-a746-06d87f31931d
+
+	measure 'Stock going back' = CALCULATE ( [Total spent], Spending[Kind] = "Reselling stock", Spending[Stock state] = "returning" )
+		formatString: \£#,0.00;-\£#,0.00;\£#,0.00
+		lineageTag: 176d3e57-0f15-4c53-bce2-13a029926352
+
+	measure 'Reselling costs' = CALCULATE ( [Total spent], Spending[Kind] = "Reselling costs" )
+		formatString: \£#,0.00;-\£#,0.00;\£#,0.00
+		lineageTag: cb9df00f-7b36-404b-bacf-54e7325a5128
+
+	measure 'Months logged' = COUNTROWS ( FILTER ( VALUES ( Calendar[Month number] ), CALCULATE ( [Personal spend] ) > 0 ) )
+		formatString: 0
+		lineageTag: 72c3a073-ce20-4fb7-b613-6527bd6d872d
+
+	measure Budget = SUM ( Budgets[Monthly budget] ) * MAX ( 1, [Months logged] )
+		formatString: \£#,0.00;-\£#,0.00;\£#,0.00
+		lineageTag: 7cef79a1-a8e7-4f53-9db0-f1eeee13ac30
+
+	measure 'Budget left' = [Budget] - [Personal spend]
+		formatString: \£#,0.00;-\£#,0.00;\£#,0.00
+		lineageTag: a2ecbc6f-c8bc-43ec-baf8-ad6a9725c53d
+
+	measure '% of budget used' = DIVIDE ( [Personal spend], [Budget] )
+		formatString: 0%;-0%;0%
+		lineageTag: 554ea7a2-6e3f-4189-9535-b1d332f2190d
+
+	measure Income = SUM ( Income[Amount] )
+		formatString: \£#,0.00;-\£#,0.00;\£#,0.00
+		lineageTag: 11a94b64-0cfd-4c7d-b6e9-91e58851dabb
+
+	measure 'Left after personal spending' = [Income] - [Personal spend]
+		formatString: \£#,0.00;-\£#,0.00;\£#,0.00
+		lineageTag: 40ed91e2-5c16-4c71-be82-f048a1134f5c
+
+	measure 'LISA balance' = CALCULATE ( LASTNONBLANKVALUE ( Savings[Date], SUM ( Savings[Balance] ) ), Savings[Account] = "Moneybox LISA" )
+		formatString: \£#,0.00;-\£#,0.00;\£#,0.00
+		lineageTag: 34607173-a641-42bc-856b-3cf96e0f2190
+
+	measure 'LISA growth since first check' = VAR firstBal = CALCULATE ( FIRSTNONBLANKVALUE ( Savings[Date], SUM ( Savings[Balance] ) ), Savings[Account] = "Moneybox LISA" ) RETURN [LISA balance] - firstBal
+		formatString: \£#,0.00;-\£#,0.00;\£#,0.00
+		lineageTag: bba514da-a40c-4234-bd97-8cd9bb516b61
+
+	column ID
+		dataType: string
+		lineageTag: 8ec1c6c5-6687-4162-adf7-a47f07885c84
+		summarizeBy: none
+		sourceColumn: ID
+
+		annotation SummarizationSetBy = Automatic
+
+	column Date
+		dataType: dateTime
+		formatString: dd-mm-yyyy
+		lineageTag: 5acae4bd-5a1f-4983-9f32-bfb3f40e4671
+		summarizeBy: none
+		sourceColumn: Date
+
+		annotation SummarizationSetBy = Automatic
+
+	column Month
+		dataType: dateTime
+		formatString: dd-mm-yyyy
+		lineageTag: 41e591db-b2ff-4236-8201-698cdf206d0a
+		summarizeBy: none
+		sourceColumn: Month
+
+		annotation SummarizationSetBy = Automatic
+
+	column Description
+		dataType: string
+		lineageTag: b5ab5c35-c691-42dc-946f-87bb9828531a
+		summarizeBy: none
+		sourceColumn: Description
+
+		annotation SummarizationSetBy = Automatic
+
+	column Kind
+		dataType: string
+		lineageTag: 55fd807c-fe4f-4032-adbd-579d6f8e85da
+		summarizeBy: none
+		sourceColumn: Kind
+
+		annotation SummarizationSetBy = Automatic
+
+	column Category
+		dataType: string
+		lineageTag: 61ffb2b5-93ee-4f0a-b202-8bd6c823e4bb
+		summarizeBy: none
+		sourceColumn: Category
+
+		annotation SummarizationSetBy = Automatic
+
+	column Group
+		dataType: string
+		lineageTag: 86e1baf6-e14b-4f95-8133-2429247ffb48
+		summarizeBy: none
+		sourceColumn: Group
+
+		annotation SummarizationSetBy = Automatic
+
+	column Amount
+		dataType: decimal
+		formatString: \£#,0.00;-\£#,0.00;\£#,0.00
+		lineageTag: 4a39dc34-bda5-493f-9676-582b23f5c719
+		summarizeBy: sum
+		sourceColumn: Amount
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Paid with'
+		dataType: string
+		lineageTag: 59e16fd9-e9f1-4048-b2b3-fb801ae68345
+		summarizeBy: none
+		sourceColumn: Paid with
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Stock state'
+		dataType: string
+		lineageTag: f333e94b-85e7-4aa7-a933-7272b5b7e252
+		summarizeBy: none
+		sourceColumn: Stock state
+
+		annotation SummarizationSetBy = Automatic
+
+	partition Spending = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents(#"Exports folder" & "Spending.csv"), [Delimiter = ",", Encoding = 65001, QuoteStyle = QuoteStyle.Csv]),
+				    Promoted = Table.PromoteHeaders(Source, [PromoteAllScalars = true]),
+				    Blanks = Table.TransformColumns(Promoted, {}, each if _ = "" then null else _),
+				    Typed = Table.TransformColumnTypes(Blanks, {{"ID", type text}, {"Date", type date}, {"Month", type date}, {"Description", type text}, {"Kind", type text}, {"Category", type text}, {"Group", type text}, {"Amount", Currency.Type}, {"Paid with", type text}, {"Stock state", type text}}, "en-GB")
+				in
+				    Typed
+
+	annotation PBI_ResultType = Table

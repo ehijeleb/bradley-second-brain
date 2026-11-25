@@ -1,0 +1,15 @@
+relationship e7904bf4-b423-4c41-90c2-6ce7d0b0a889
+	fromColumn: Spending.Date
+	toColumn: Calendar.Date
+
+relationship 3e7cabd8-3732-4028-a6b4-1661533d04b8
+	fromColumn: Income.Date
+	toColumn: Calendar.Date
+
+relationship 656750af-ec80-4527-81d1-6f31c2897d8d
+	fromColumn: Savings.Date
+	toColumn: Calendar.Date
+
+relationship e50177f1-ab07-44d2-82c6-caad2f086432
+	fromColumn: Spending.Category
+	toColumn: Budgets.Category
