@@ -97,6 +97,7 @@ Return windows for everything in [[Stock]], checked 18-11-2026. "Verified" means
 | PS5 Pro 2TB | PlayStation Direct (787097672937865, ordered 24-11-2026, express 1 to 2 working days) | Likely 14 days from delivery (UK cooling-off) | Set on delivery | Sealed | Unconfirmed: check PS Direct returns policy |
 | PS5 Pro 2TB (2nd) | PlayStation Direct (787097677104973, ordered 24-11-2026, express) | Likely 14 days from delivery (UK cooling-off) | Set on delivery | Sealed | Unconfirmed |
 | PS5 Pro 2TB (3rd) | PlayStation Direct (787097680391813, ordered 24-11-2026 19:31) | Likely 14 days from delivery (UK cooling-off) | Set on delivery | Sealed | Unconfirmed |
+| GTA VI DualSense (Smyths, collected 25-11-2026) | Smyths click and collect | 28 days from purchase, unopened | 23-12-2026 (check 19-12-2026) | Unopened, receipt or order email | Verified (Smyths returns page via search) |
 | Earbud case | Taylor Swift UK Store (dispatched 18-11-2026) | 14 days from the day after delivery | Return straight away on arrival | Unopened; Royal Mail returns portal in support's reply | Verified (support) |
 | Topps NOW Ronaldo pack | Topps UK | Printed to order; Topps' store policy says sales are final | No return | n/a | Unconfirmed for the UK site |
 
@@ -164,3 +165,4 @@ dv.view("20 Reselling/_scripts/reselling", { view: "check" })
 - 24-11-2026: export script for the Power BI [[Reselling Dashboard]] added: `python "20 Reselling/_scripts/export_reselling.py"` writes `20 Reselling/Exports/`. Returned and returning items aren't marked in [[Stock]] yet, so they count as stock on the dashboard.
 - 24-11-2026: added `returning` and `returned` states to [[Stock]] and the dashboard. Dress, snow globes, earbud case and Red Bull marked returning.
 - 25-11-2026: Smyths replied: Beckton order UK304590537 cancelled because the GTA VI controller was limited to 1 per customer and the order had 2. They won't reinstate it and warn further bulk orders may be cancelled ([[2026-11-25 Smyths Toys - Order UK304590537 cancelled (bulk buying)]]). Lesson: on limited Smyths items, order 1 per customer.
+- 25-11-2026: another GTA VI controller from Smyths, £74.99, collected same day. Card and store to confirm.

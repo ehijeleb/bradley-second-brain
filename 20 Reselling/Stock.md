@@ -35,3 +35,4 @@ One line per item. Add the sold fields to the same line when it sells. Format an
 - Nintendo Switch 2 Console, The Legend of Zelda 40th Anniversary Edition [bought:: 24-11-2026] [cost:: 461.98] [from:: GAME online (order GAME40000135877536)] [paid:: Amex] [state:: in stock]
 - PlayStation 5 Pro Console 2TB [bought:: 24-11-2026] [cost:: 789.99] [from:: PlayStation Direct (order 787097677104973)] [paid:: NatWest current] [state:: in stock]
 - PlayStation 5 Pro Console 2TB [bought:: 24-11-2026] [cost:: 789.99] [from:: PlayStation Direct (order 787097680391813)] [paid:: NatWest credit card] [state:: in stock]
+- PS5 DualSense Wireless Controller, Grand Theft Auto VI Limited Edition, White [bought:: 25-11-2026] [cost:: 74.99] [from:: Smyths Toys (click and collect)] [state:: in stock]
