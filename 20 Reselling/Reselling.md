@@ -75,7 +75,7 @@ Reselling money also counts as income: when profit is taken out, log it in that 
 - [x] **By 26-11-2026:** eBay seller verification. Can't list despite verifying (ID and selfie sent 16-11-2026, NI number added 23-11-2026). eBay chat 23-11-2026 escalated it to a specialist team, reply by email within 72 hours. If nothing by 26-11-2026, contact eBay again and quote the 23-11 chat. Meanwhile sell on Vinted and Facebook Marketplace.
 - [x] **Collect 2 GTA VI DualSense controllers from Smyths Beckton** (click and collect, ordered 24-11-2026 on the Amex). Wait for the ready-for-collection email; Smyths hold it about 2 days. Bring the email, the Amex and photo ID. £74.99 each. Cancelled by Smyths (order UK304590537) about half an hour after the ready-to-collect email; removed from [[Stock]]. Check no Amex charge or hold remains.
 - [ ] **Return all Taylor Swift items** (decided 24-11-2026, not selling): sherpa jacket (last day 02-12-2026), sweatpants, slippers and notebook (last day 03-12-2026), earbud case and 6 snow globes (on arrival). End their eBay and Vinted listings first. About £629.70 back to NatWest current, less any delivery charges not refunded. Remove each from [[Stock]] once refunded.
-- [ ] **Return all 6 Red Bull Advent Calendars to Tesco** (decided 24-11-2026). Take them with the receipt to a Tesco Extra or Superstore (not an Express), ideally the store they came from. Refund £150 to the Amex. Remove from [[Stock]] once refunded.
+- [x] **Return all 6 Red Bull Advent Calendars to Tesco** (decided 24-11-2026). Take them with the receipt to a Tesco Extra or Superstore (not an Express), ideally the store they came from. Refund £150 to the Amex. Remove from [[Stock]] once refunded.
 
 ## Returns
 Return windows for everything in [[Stock]], checked 18-11-2026. "Verified" means it comes from the shop's own terms or support; "unconfirmed" means third-party guides only, so check the receipt or order email. Update the last day once delivery dates are known. Keep every receipt and order email, and keep items unopened with tags on.
@@ -85,7 +85,7 @@ Return windows for everything in [[Stock]], checked 18-11-2026. "Verified" means
 | Item | Shop | Window | Last day | Conditions | Confidence |
 | --- | --- | --- | --- | --- | --- |
 | LEGO X-Mansion x2 | Smyths Romford (in store, 17-11-2026) | 28 days from purchase | 15-12-2026 | Unopened, resaleable, receipt | Verified (Smyths returns page via search) |
-| Red Bull Advent Calendar x6 | Tesco Extra (18-11-2026, Amex) | Not stated by Tesco for in-store food; guides say 30 days | Returning now (decided 24-11-2026); check the receipt for the deadline | Receipt, back to an Extra or Superstore (not Express), before the best-before date, refund at £25 to the Amex | Unconfirmed |
+| Red Bull Advent Calendar x6 | Tesco (Rainham Extra 2, Hornchurch Superstore 4; 18-11-2026, Amex) | Returned 25-11-2026 | Refunded £150 to the Amex | n/a | Done |
 | H&M x Elie Saab dress | H&M online | Returned 22-11-2026 | Refund pending (£553.98 on NatWest, less any return fee) | n/a | Done |
 | Sherpa jacket | Taylor Swift UK Store (delivered 18-11-2026) | 14 days from the day after delivery | 02-12-2026 (check 28-11-2026) | Unworn, tags on | Verified (store terms) |
 | Sweatpants | Taylor Swift UK Store (delivered 19-11-2026) | 14 days from the day after delivery | 03-12-2026 (check 29-11-2026) | Sealed, same condition | Assumed same as the sherpa |
@@ -167,3 +167,4 @@ dv.view("20 Reselling/_scripts/reselling", { view: "check" })
 - 25-11-2026: Smyths replied: Beckton order UK304590537 cancelled because the GTA VI controller was limited to 1 per customer and the order had 2. They won't reinstate it and warn further bulk orders may be cancelled ([[2026-11-25 Smyths Toys - Order UK304590537 cancelled (bulk buying)]]). Lesson: on limited Smyths items, order 1 per customer.
 - 25-11-2026: another GTA VI controller from Smyths, £74.99 on the Amex, collected same day.
 - 25-11-2026: Zelda Switch 2 from GAME and PS5 Pro #1 (£750.49) delivered, both sealed. Own photos taken. Last return day 09-12-2026 for both.
+- 25-11-2026: all 6 Red Bull calendars returned at Tesco Rainham Extra (change of mind), £150 refunded to the Amex (£50 + £100). Receipts kept.
