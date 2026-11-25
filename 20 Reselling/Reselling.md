@@ -165,4 +165,4 @@ dv.view("20 Reselling/_scripts/reselling", { view: "check" })
 - 24-11-2026: export script for the Power BI [[Reselling Dashboard]] added: `python "20 Reselling/_scripts/export_reselling.py"` writes `20 Reselling/Exports/`. Returned and returning items aren't marked in [[Stock]] yet, so they count as stock on the dashboard.
 - 24-11-2026: added `returning` and `returned` states to [[Stock]] and the dashboard. Dress, snow globes, earbud case and Red Bull marked returning.
 - 25-11-2026: Smyths replied: Beckton order UK304590537 cancelled because the GTA VI controller was limited to 1 per customer and the order had 2. They won't reinstate it and warn further bulk orders may be cancelled ([[2026-11-25 Smyths Toys - Order UK304590537 cancelled (bulk buying)]]). Lesson: on limited Smyths items, order 1 per customer.
-- 25-11-2026: another GTA VI controller from Smyths, £74.99, collected same day. Card and store to confirm.
+- 25-11-2026: another GTA VI controller from Smyths, £74.99 on the Amex, collected same day.
