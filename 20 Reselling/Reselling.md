@@ -168,3 +168,4 @@ dv.view("20 Reselling/_scripts/reselling", { view: "check" })
 - 25-11-2026: another GTA VI controller from Smyths, £74.99 on the Amex, collected same day.
 - 25-11-2026: Zelda Switch 2 from GAME and PS5 Pro #1 (£750.49) delivered, both sealed. Own photos taken. Last return day 09-12-2026 for both.
 - 25-11-2026: all 6 Red Bull calendars returned at Tesco Rainham Extra (change of mind), £150 refunded to the Amex (£50 + £100). Receipts kept.
+- 25-11-2026: X-Mansion (UK302836624) sold on Vinted for £305 (£15.01 profit) to a Southend buyer after receipt, label, barcode and seal photos. Other X-Mansion still held for jennashort until 03-12-2026, last return day 15-12-2026.
