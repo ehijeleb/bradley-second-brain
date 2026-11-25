@@ -93,8 +93,8 @@ Return windows for everything in [[Stock]], checked 18-11-2026. "Verified" means
 | Notebook | Taylor Swift UK Store (delivered 19-11-2026) | 14 days from the day after delivery | 03-12-2026 (check 29-11-2026) | Sealed in its wrap | Assumed same as the sherpa |
 | Snow globes x6 | Taylor Swift UK Store (ordered 19-11-2026, not arrived) | 14 days from the day after delivery | Return straight away on arrival | Unopened, same condition | Assumed same as the sherpa |
 | Switch 2 Zelda 40th console | Argos online (1562154254, ordered 23-11-2026, not arrived) | Argos usually 30 days if unopened | Set on delivery | Sealed, receipt or order email | Unconfirmed: check the order email |
-| Switch 2 Zelda 40th console (2nd) | GAME online (GAME40000135877536, ordered 24-11-2026) | Check GAME's returns policy (usually 14 days from delivery online) | Set on delivery | Sealed | Unconfirmed |
-| PS5 Pro 2TB | PlayStation Direct (787097672937865, ordered 24-11-2026, express 1 to 2 working days) | Likely 14 days from delivery (UK cooling-off) | Set on delivery | Sealed | Unconfirmed: check PS Direct returns policy |
+| Switch 2 Zelda 40th console (2nd) | GAME online (GAME40000135877536, delivered 25-11-2026) | 14 days from the day after delivery (UK cooling-off; check GAME's terms) | 09-12-2026 (check 05-12-2026) | Sealed | Statutory minimum |
+| PS5 Pro 2TB | PlayStation Direct (787097672937865, delivered 25-11-2026) | 14 days from the day after delivery (UK cooling-off) | 09-12-2026 (check 05-12-2026) | Sealed | Statutory minimum |
 | PS5 Pro 2TB (2nd) | PlayStation Direct (787097677104973, ordered 24-11-2026, express) | Likely 14 days from delivery (UK cooling-off) | Set on delivery | Sealed | Unconfirmed |
 | PS5 Pro 2TB (3rd) | PlayStation Direct (787097680391813, ordered 24-11-2026 19:31) | Likely 14 days from delivery (UK cooling-off) | Set on delivery | Sealed | Unconfirmed |
 | GTA VI DualSense (Smyths, collected 25-11-2026) | Smyths click and collect | 28 days from purchase, unopened | 23-12-2026 (check 19-12-2026) | Unopened, receipt or order email | Verified (Smyths returns page via search) |
@@ -166,3 +166,4 @@ dv.view("20 Reselling/_scripts/reselling", { view: "check" })
 - 24-11-2026: added `returning` and `returned` states to [[Stock]] and the dashboard. Dress, snow globes, earbud case and Red Bull marked returning.
 - 25-11-2026: Smyths replied: Beckton order UK304590537 cancelled because the GTA VI controller was limited to 1 per customer and the order had 2. They won't reinstate it and warn further bulk orders may be cancelled ([[2026-11-25 Smyths Toys - Order UK304590537 cancelled (bulk buying)]]). Lesson: on limited Smyths items, order 1 per customer.
 - 25-11-2026: another GTA VI controller from Smyths, £74.99 on the Amex, collected same day.
+- 25-11-2026: Zelda Switch 2 from GAME and PS5 Pro #1 (£750.49) delivered, both sealed. Own photos taken. Last return day 09-12-2026 for both.
