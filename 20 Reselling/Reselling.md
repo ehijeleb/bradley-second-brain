@@ -177,4 +177,4 @@ dv.view("20 Reselling/_scripts/reselling", { view: "check" })
 - 26-11-2026: fahim2912 rebought the X-Mansion on Vinted (£305), shipping Royal Mail. Parcel is 52 x 48 cm before wrapping, over Royal Mail's usual 61 x 46 x 46 cm limit: check at the counter, contact Vinted support if refused.
 - 26-11-2026 19:31: fourth PS5 Pro from PlayStation Direct, £789.99 on NatWest, on a fourth PlayStation account to the same address. Cancellation risk: PS Direct limits 1 per account. Now 3 unsold PS5 Pros.
 - 26-11-2026: fourth PS5 was on the NatWest credit card. Bradley: no more buying for now.
-- 26-11-2026: GTA VI controller (Smyths, 25-11-2026, Amex) sold for £94.50 (£19.51 profit). Platform to confirm.
+- 26-11-2026: GTA VI controller (Smyths, 25-11-2026, Amex) sold on Vinted for £94.50 (£19.51 profit).
