@@ -97,7 +97,6 @@ Return windows for everything in [[Stock]], checked 18-11-2026. "Verified" means
 | PS5 Pro 2TB (2nd) | PlayStation Direct (787097677104973, delivered 25-11-2026) | 14 days from the day after delivery (UK cooling-off) | 09-12-2026 (check 05-12-2026) | Sealed | Statutory minimum |
 | PS5 Pro 2TB (3rd) | PlayStation Direct (787097680391813, delivered 26-11-2026) | 14 days from the day after delivery (UK cooling-off) | 10-12-2026 (check 06-12-2026) | Sealed | Statutory minimum |
 | PS5 Pro 2TB (4th) | PlayStation Direct (787097730580327, ordered 26-11-2026) | 14 days from the day after delivery (UK cooling-off) | Set on delivery | Sealed | Statutory minimum |
-| GTA VI DualSense (Smyths, collected 25-11-2026) | Smyths click and collect | 28 days from purchase, unopened | 23-12-2026 (check 19-12-2026) | Unopened, receipt or order email | Verified (Smyths returns page via search) |
 | Earbud case | Taylor Swift UK Store (dispatched 18-11-2026) | 14 days from the day after delivery | Return straight away on arrival | Unopened; Royal Mail returns portal in support's reply | Verified (support) |
 | Topps NOW Ronaldo pack | Topps UK | Printed to order; Topps' store policy says sales are final | No return | n/a | Unconfirmed for the UK site |
 
@@ -178,3 +177,4 @@ dv.view("20 Reselling/_scripts/reselling", { view: "check" })
 - 26-11-2026: fahim2912 rebought the X-Mansion on Vinted (£305), shipping Royal Mail. Parcel is 52 x 48 cm before wrapping, over Royal Mail's usual 61 x 46 x 46 cm limit: check at the counter, contact Vinted support if refused.
 - 26-11-2026 19:31: fourth PS5 Pro from PlayStation Direct, £789.99 on NatWest, on a fourth PlayStation account to the same address. Cancellation risk: PS Direct limits 1 per account. Now 3 unsold PS5 Pros.
 - 26-11-2026: fourth PS5 was on the NatWest credit card. Bradley: no more buying for now.
+- 26-11-2026: GTA VI controller (Smyths, 25-11-2026, Amex) sold for £94.50 (£19.51 profit). Platform to confirm.
