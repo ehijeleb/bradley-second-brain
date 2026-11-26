@@ -169,3 +169,4 @@ dv.view("20 Reselling/_scripts/reselling", { view: "check" })
 - 25-11-2026: all 6 Red Bull calendars returned at Tesco Rainham Extra (change of mind), £150 refunded to the Amex (£50 + £100). Receipts kept.
 - 25-11-2026: X-Mansion (UK302836624) sold on Vinted for £305 (£15.01 profit) to a Southend buyer after receipt, label, barcode and seal photos. Other X-Mansion still held for jennashort until 03-12-2026, last return day 15-12-2026.
 - 26-11-2026: PS5 Pro sold on Vinted for £999 (logged against #1, £750.49: £248.51 profit). Goes via Vinted Electronics Verification: post with Vinted's label to the verification hub within 5 business days, sealed, not opened. Payment pending in Vinted balance until verified and delivered. kmas4060 backed out on eBay.
+- 26-11-2026: confirmed the £150 Red Bull refund (£50 + £100, 25-11-2026) has landed on the Amex statement. All 6 calendars returned and refunded in [[Stock]].
