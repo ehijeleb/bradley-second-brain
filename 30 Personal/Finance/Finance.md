@@ -118,6 +118,7 @@ Rule: pay each statement balance **in full** by the due date, so no interest. Be
 - Statement date: ?  Payment due: ?  Direct debit for full balance: ?
 - Reselling charges: 24-11-2026 PS5 Pro 2TB £750.49 (PS Direct); 24-11-2026 PS5 Pro 2TB £789.99 (PS Direct, 19:31). Total £1,540.48.
 - Plus everyday petrol and fast food.
+- 26-11-2026: card no longer shows in the NatWest app. NatWest had asked whether recent payments were fraudulent (Bradley said no, they were his reselling buys), then sent a notification about the card. To do: contact NatWest through the app chat or the number on the back of the card, and ask whether the card is blocked, replaced or closed, whether both PS5 payments went through, the balance, and the payment due date.
 
 ### Amex (limit £2,300)
 - Statement date: 07-12-2026  Payment due: ? (shown on the statement)  Direct debit for full balance: ?
@@ -153,3 +154,4 @@ One line per balance check, for the spending dashboard's savings page. Take the 
 - 24-11-2026: LISA now £50 a week plus £500 each payday; balance £790. Over the £4,000 yearly limit from April 2027.
 - 24-11-2026: goal added, house deposit in about 5 years.
 - 25-11-2026: Savings balances log added for the Power BI [[Spending Dashboard]]. Export: `python "30 Personal/Finance/_scripts/export_spending.py"`.
+- 26-11-2026: NatWest credit card missing from the app after a fraud check; contacting NatWest.
