@@ -94,8 +94,8 @@ Return windows for everything in [[Stock]], checked 18-11-2026. "Verified" means
 | Snow globes x6 | Taylor Swift UK Store (ordered 19-11-2026, not arrived) | 14 days from the day after delivery | Return straight away on arrival | Unopened, same condition | Assumed same as the sherpa |
 | Switch 2 Zelda 40th console | Argos online (1562154254, ordered 23-11-2026, not arrived) | Argos usually 30 days if unopened | Set on delivery | Sealed, receipt or order email | Unconfirmed: check the order email |
 | Switch 2 Zelda 40th console (2nd) | GAME online (GAME40000135877536, delivered 25-11-2026) | 14 days from the day after delivery (UK cooling-off; check GAME's terms) | 09-12-2026 (check 05-12-2026) | Sealed | Statutory minimum |
-| PS5 Pro 2TB (2nd) | PlayStation Direct (787097677104973, ordered 24-11-2026, express) | Likely 14 days from delivery (UK cooling-off) | Set on delivery | Sealed | Unconfirmed |
-| PS5 Pro 2TB (3rd) | PlayStation Direct (787097680391813, ordered 24-11-2026 19:31) | Likely 14 days from delivery (UK cooling-off) | Set on delivery | Sealed | Unconfirmed |
+| PS5 Pro 2TB (2nd) | PlayStation Direct (787097677104973, delivered 25-11-2026) | 14 days from the day after delivery (UK cooling-off) | 09-12-2026 (check 05-12-2026) | Sealed | Statutory minimum |
+| PS5 Pro 2TB (3rd) | PlayStation Direct (787097680391813, delivered 26-11-2026) | 14 days from the day after delivery (UK cooling-off) | 10-12-2026 (check 06-12-2026) | Sealed | Statutory minimum |
 | GTA VI DualSense (Smyths, collected 25-11-2026) | Smyths click and collect | 28 days from purchase, unopened | 23-12-2026 (check 19-12-2026) | Unopened, receipt or order email | Verified (Smyths returns page via search) |
 | Earbud case | Taylor Swift UK Store (dispatched 18-11-2026) | 14 days from the day after delivery | Return straight away on arrival | Unopened; Royal Mail returns portal in support's reply | Verified (support) |
 | Topps NOW Ronaldo pack | Topps UK | Printed to order; Topps' store policy says sales are final | No return | n/a | Unconfirmed for the UK site |
@@ -170,3 +170,4 @@ dv.view("20 Reselling/_scripts/reselling", { view: "check" })
 - 25-11-2026: X-Mansion (UK302836624) sold on Vinted for £305 (£15.01 profit) to a Southend buyer after receipt, label, barcode and seal photos. Other X-Mansion still held for jennashort until 03-12-2026, last return day 15-12-2026.
 - 26-11-2026: PS5 Pro sold on Vinted for £999 (logged against #1, £750.49: £248.51 profit). Goes via Vinted Electronics Verification: post with Vinted's label to the verification hub within 5 business days, sealed, not opened. Payment pending in Vinted balance until verified and delivered. kmas4060 backed out on eBay.
 - 26-11-2026: confirmed the £150 Red Bull refund (£50 + £100, 25-11-2026) has landed on the Amex statement. All 6 calendars returned and refunded in [[Stock]].
+- 26-11-2026: third PS5 Pro delivered (all three now in). Two unsold: #2 (last return 09-12-2026) and #3 (10-12-2026).
