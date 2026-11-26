@@ -173,3 +173,4 @@ dv.view("20 Reselling/_scripts/reselling", { view: "check" })
 - 26-11-2026: third PS5 Pro delivered (all three now in). Two unsold: #2 (last return 09-12-2026) and #3 (10-12-2026).
 - 26-11-2026: X-Mansion Vinted sale (£305, Southend buyer) cancelled: wrapped parcel wouldn't fit the InPost locker. Buyer plans to repurchase once his refund lands; pick a courier that takes large parcels (not a locker) this time. Set back to listed in [[Stock]].
 - 26-11-2026: Lover earbud case (order #TS1334668, £35.25) returned to sender before delivery. Ask Taylor Swift UK Store support for a full refund once it reaches their warehouse (not a reshipment). Mention the cancellation request from 16-11-2026.
+- 26-11-2026: decided to return all remaining Taylor Swift items: sherpa (last day 02-12-2026), slippers, sweatpants and notebook (last day 03-12-2026), plus the 6 snow globes and earbud case already going back. All marked returning in [[Stock]]. End the eBay and Vinted listings.

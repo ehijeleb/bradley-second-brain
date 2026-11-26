@@ -1,13 +1,13 @@
 ﻿Item ID,Item,Category,Shop,Paid with,State,Bought,Cost,Sold,Price,Fees,Postage,Platform,Refunded,Profit,Margin,Days held
-I001,"Taylor Swift Take Me to the Lakes Fleece Sherpa Zip-Up Jacket, size 3XL",Music merch,Taylor Swift UK Store,NatWest current,listed,2026-11-15,120.00,,,,,,,,,11
+I001,"Taylor Swift Take Me to the Lakes Fleece Sherpa Zip-Up Jacket, size 3XL",Music merch,Taylor Swift UK Store,NatWest current,returning,2026-11-15,120.00,,,,,,,,,11
 I002,LEGO Marvel 76294 X-Men: The X-Mansion,LEGO,Smyths Toys,NatWest current,sold,2026-11-15,289.99,2026-11-16,300.00,0.00,0.00,eBay,,10.01,0.0345,1
 I003,Topps NOW Cristiano Ronaldo 2026 Portugal Final Farewell Pack (2 cards),Trading cards,Topps UK,NatWest current,in stock,2026-11-16,18.00,,,,,,,,,10
-I004,"Taylor Swift Acoustic Piano Cozy Slippers, size 36",Music merch,Taylor Swift UK Store,NatWest current,listed,2026-11-16,55.25,,,,,,,,,10
-I005,"Taylor Swift The Eras Tour Acoustic Piano Sweatpants, size L",Music merch,Taylor Swift UK Store,NatWest current,listed,2026-11-16,70.25,,,,,,,,,10
-I006,Taylor Swift Acoustic Piano Notebook,Music merch,Taylor Swift UK Store,NatWest current,listed,2026-11-16,30.25,,,,,,,,,10
+I004,"Taylor Swift Acoustic Piano Cozy Slippers, size 36",Music merch,Taylor Swift UK Store,NatWest current,returning,2026-11-16,55.25,,,,,,,,,10
+I005,"Taylor Swift The Eras Tour Acoustic Piano Sweatpants, size L",Music merch,Taylor Swift UK Store,NatWest current,returning,2026-11-16,70.25,,,,,,,,,10
+I006,Taylor Swift Acoustic Piano Notebook,Music merch,Taylor Swift UK Store,NatWest current,returning,2026-11-16,30.25,,,,,,,,,10
 I007,"Taylor Swift Lover Album Cloud Rhinestone Earbud Case, Regular (AirPods Gen 4)",Music merch,Taylor Swift UK Store,NatWest current,returning,2026-11-16,35.25,,,,,,,,,10
 I008,"H&M x Elie Saab Embellished Silk-Blend Wedding Dress, Ivory, size 4 (art 1361951002)",Fashion,H&M online,NatWest current,returning,2026-11-17,553.98,,,,,,,,,9
-I009,LEGO Marvel 76294 X-Men: The X-Mansion,LEGO,Smyths Toys,NatWest current,sold,2026-11-17,289.99,2026-11-25,305.00,0.00,0.00,Vinted,,15.01,0.0518,8
+I009,LEGO Marvel 76294 X-Men: The X-Mansion,LEGO,Smyths Toys,NatWest current,listed,2026-11-17,289.99,,,,,,,,,9
 I010,LEGO Marvel 76294 X-Men: The X-Mansion,LEGO,Smyths Toys,NatWest current,listed,2026-11-17,289.99,,,,,,,,,9
 I011,Red Bull Advent Calendar 24 x 250ml,Food and drink,Tesco,Amex,returned,2026-11-18,25.00,,,,,,2026-11-25,,,7
 I012,Red Bull Advent Calendar 24 x 250ml,Food and drink,Tesco,Amex,returned,2026-11-18,25.00,,,,,,2026-11-25,,,7
@@ -23,7 +23,7 @@ I021,Taylor Swift Opalite Rock and Cactus Snow Globe,Music merch,Taylor Swift UK
 I022,Taylor Swift The Fate of Ophelia Snow Globe,Music merch,Taylor Swift UK Store,NatWest current,returning,2026-11-19,51.99,,,,,,,,,7
 I023,Taylor Swift The Fate of Ophelia Snow Globe,Music merch,Taylor Swift UK Store,NatWest current,returning,2026-11-19,51.98,,,,,,,,,7
 I024,"Nintendo Switch 2 Pro Console, The Legend of Zelda 40th Anniversary Edition",Gaming,Argos online,NatWest current,in stock,2026-11-23,429.99,,,,,,,,,3
-I025,PlayStation 5 Pro Console 2TB,Gaming,PlayStation Direct,NatWest credit card,sold,2026-11-24,750.49,2026-11-26,999.00,0.00,0.00,Vinted,,248.51,0.3311,2
+I025,"PlayStation 5 Pro Console 2TB         (serial S01-F26701KAY10729230, posted unopened in the PlayStation delivery box)",Gaming,PlayStation Direct,NatWest credit card,sold,2026-11-24,750.49,2026-11-26,999.00,0.00,0.00,Vinted,,248.51,0.3311,2
 I026,"Nintendo Switch 2 Console, The Legend of Zelda 40th Anniversary Edition",Gaming,GAME online,Amex,in stock,2026-11-24,461.98,,,,,,,,,2
 I027,PlayStation 5 Pro Console 2TB,Gaming,PlayStation Direct,NatWest current,in stock,2026-11-24,789.99,,,,,,,,,2
 I028,PlayStation 5 Pro Console 2TB,Gaming,PlayStation Direct,NatWest credit card,in stock,2026-11-24,789.99,,,,,,,,,2
