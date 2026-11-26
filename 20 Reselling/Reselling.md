@@ -172,3 +172,4 @@ dv.view("20 Reselling/_scripts/reselling", { view: "check" })
 - 26-11-2026: confirmed the £150 Red Bull refund (£50 + £100, 25-11-2026) has landed on the Amex statement. All 6 calendars returned and refunded in [[Stock]].
 - 26-11-2026: third PS5 Pro delivered (all three now in). Two unsold: #2 (last return 09-12-2026) and #3 (10-12-2026).
 - 26-11-2026: X-Mansion Vinted sale (£305, Southend buyer) cancelled: wrapped parcel wouldn't fit the InPost locker. Buyer plans to repurchase once his refund lands; pick a courier that takes large parcels (not a locker) this time. Set back to listed in [[Stock]].
+- 26-11-2026: Lover earbud case (order #TS1334668, £35.25) returned to sender before delivery. Ask Taylor Swift UK Store support for a full refund once it reaches their warehouse (not a reshipment). Mention the cancellation request from 16-11-2026.
