@@ -120,7 +120,7 @@ Rule: pay each statement balance **in full** by the due date, so no interest. Be
 - Plus everyday petrol and fast food.
 
 ### Amex (limit £2,300)
-- Statement date: ?  Payment due: ?  Direct debit for full balance: ?
+- Statement date: 07-12-2026  Payment due: ? (shown on the statement)  Direct debit for full balance: ?
 - Reselling charges: 18-11-2026 Red Bull calendars £150.00 (refunded 25-11-2026); 24-11-2026 Switch 2 Zelda £461.98 (GAME); 25-11-2026 GTA VI controller £74.99 (Smyths).
 - Smyths Beckton order UK304590537 (£149.98) cancelled 24-11-2026: no charge on the Amex statement (checked 26-11-2026).
 - Red Bull refunds (£50 + £100) showed on the Amex 25-11-2026. Current statement: £686.97 spent, £536.97 owed after refunds (Switch £461.98, controller £74.99).
