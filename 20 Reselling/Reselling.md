@@ -185,3 +185,4 @@ dv.view("20 Reselling/_scripts/reselling", { view: "check" })
 - 27-11-2026: standard PS5 from PlayStation Direct, £519.99 (order 787097746608108, the 'Dio' account). Resale unchecked: check eBay sold prices before listing. PS Direct allows returns up to 30 days after delivery.
 - 27-11-2026: GTA VI controller (Vinted sale, £94.50) dropped off at a Relay point. Keep the receipt until the buyer confirms.
 - 27-11-2026: X-Mansion posted to fahim2912 (Southend SS2) at Cherry Tree Post Office, Rainham: Royal Mail Tracked 48, tracking TN108994685GB. Proof of posting kept.
+- 27-11-2026: both eBay PS5 Pros posted at Cherry Tree Post Office, Rainham, Royal Mail Tracked 24 with signature. Mike (ME2, Rochester): MV110844755GB. Asher (DA1, Dartford): MV110843499GB. Proof of posting kept.
