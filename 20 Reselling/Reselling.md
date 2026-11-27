@@ -179,3 +179,4 @@ dv.view("20 Reselling/_scripts/reselling", { view: "check" })
 - 26-11-2026: GTA VI controller (Smyths, 25-11-2026, Amex) sold on Vinted for £94.50 (£19.51 profit).
 - 27-11-2026: the PS5 going to the eBay buyer (serial S01-F26701KAY10729236, DPD 15505382510661, delivered 25-11-2026) is very likely #3 (order …391813, placed 19:32 on 24-11, DPD label printed 20:08). Receipt for #3 sent with personal details covered. So #3's last return day is 09-12-2026, not 10-12. The other two deliveries: 25-11 12:02 (DPD …2380234) and 26-11 14:20 (DPD …2484331), orders still to match.
 - 27-11-2026: PS5 Pro #3 (…391813, serial S01-F26701KAY10729236) sold on eBay at the £1,025 Buy It Now (£235.01 profit). Post tracked and signed for to the eBay order address only, add tracking to the order.
+- 27-11-2026: PS5 Pro #3 posted to the eBay buyer by Royal Mail Tracked 24 with signature, £10.60 (profit after postage £224.41).
