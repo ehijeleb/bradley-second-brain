@@ -180,3 +180,4 @@ dv.view("20 Reselling/_scripts/reselling", { view: "check" })
 - 27-11-2026: PS5 Pro #3 (…391813, serial S01-F26701KAY10729236) sold on eBay at the £1,025 Buy It Now (£235.01 profit). Post tracked and signed for to the eBay order address only, add tracking to the order.
 - 27-11-2026: PS5 Pro #3 posted to the eBay buyer by Royal Mail Tracked 24 with signature, £10.60 (profit after postage £224.41).
 - 27-11-2026: PS5 Pro #2 (…104973, last one in hand) sold at the £1,025 Buy It Now (£235.01 profit before postage). Post tracked and signed for. Only PS5 #4 (…580327) left, not delivered yet.
+- 27-11-2026: both eBay PS5 Pro sales (#2 and #3) paid out £1,025 each (after eBay's fees), each with a £10.40 postage label (Bradley). #3 corrected from £10.60. Profit £224.61 each.
