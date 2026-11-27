@@ -186,3 +186,4 @@ dv.view("20 Reselling/_scripts/reselling", { view: "check" })
 - 27-11-2026: GTA VI controller (Vinted sale, £94.50) dropped off at a Relay point. Keep the receipt until the buyer confirms.
 - 27-11-2026: X-Mansion posted to fahim2912 (Southend SS2) at Cherry Tree Post Office, Rainham: Royal Mail Tracked 48, tracking TN108994685GB. Proof of posting kept.
 - 27-11-2026: both eBay PS5 Pros posted at Cherry Tree Post Office, Rainham, Royal Mail Tracked 24 with signature. Mike (ME2, Rochester): MV110844755GB. Asher (DA1, Dartford): MV110843499GB. Proof of posting kept.
+- 27-11-2026: H&M emailed that the Elie Saab dress refund is on its way (order 93045719970), to the original payment method (Apple Pay, NatWest) within 3 to 5 working days, so by about 04-12-2026. Amount not shown: check it's £553.98 (or £549.99 if delivery isn't refunded). Mark returned in [[Stock]] when it lands.
