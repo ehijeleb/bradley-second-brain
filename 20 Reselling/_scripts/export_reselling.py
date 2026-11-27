@@ -87,7 +87,7 @@ def export_items(today):
     rows, warnings = [], []
     for n, line in enumerate(bullet_lines(STOCK), start=1):
         f = {k.lower(): v.strip() for k, v in FIELD.findall(line)}
-        name = FIELD.sub("", line).strip()
+        name = re.split(r"\s*\[\w+::", line)[0].strip()  # notes after the fields are left out
         bought = parse_date(f.get("bought"))
         sold = parse_date(f.get("sold"))
         refunded = parse_date(f.get("refunded"))

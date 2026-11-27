@@ -36,7 +36,7 @@ def fields(line):
 
 
 def label(line):
-    text = FIELD.sub("", line)
+    text = re.split(r"\s*\[\w+::", line)[0]  # notes after the fields are left out
     text = re.sub(r"\([^)]*pending[^)]*\)", "", text, flags=re.I)
     return re.sub(r"\s+", " ", DATE_AT_START.sub("", text.strip())).strip()
 
@@ -108,7 +108,7 @@ def main():
         d, amt = parse_date(f.get("bought")), parse_money(f.get("cost"))
         if not d or amt is None:
             continue
-        name = FIELD.sub("", line).strip()
+        name = re.split(r"\s*\[\w+::", line)[0].strip()
         spending.append({"Date": d, "Month": month_of(d), "Description": name, "Kind": "Reselling stock",
                          "Category": category_of(name), "Group": "Reselling", "Amount": amt,
                          "Paid with": f.get("paid", ""), "Stock state": (f.get("state") or "in stock").lower()})
