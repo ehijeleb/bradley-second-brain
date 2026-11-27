@@ -94,7 +94,6 @@ Return windows for everything in [[Stock]], checked 18-11-2026. "Verified" means
 | Snow globes x6 | Taylor Swift UK Store (ordered 19-11-2026, not arrived) | 14 days from the day after delivery | Return straight away on arrival | Unopened, same condition | Assumed same as the sherpa |
 | Switch 2 Zelda 40th console | Argos online (1562154254, ordered 23-11-2026, not arrived) | Argos usually 30 days if unopened | Set on delivery | Sealed, receipt or order email | Unconfirmed: check the order email |
 | Switch 2 Zelda 40th console (2nd) | GAME online (GAME40000135877536, delivered 25-11-2026) | 14 days from the day after delivery (UK cooling-off; check GAME's terms) | 09-12-2026 (check 05-12-2026) | Sealed | Statutory minimum |
-| PS5 Pro 2TB (2nd) | PlayStation Direct (787097677104973, delivered 25-11-2026) | 14 days from the day after delivery (UK cooling-off) | 09-12-2026 (check 05-12-2026) | Sealed | Statutory minimum |
 | PS5 Pro 2TB (4th) | PlayStation Direct (787097730580327, ordered 26-11-2026) | 14 days from the day after delivery (UK cooling-off) | Set on delivery | Sealed | Statutory minimum |
 | Earbud case | Taylor Swift UK Store (dispatched 18-11-2026) | 14 days from the day after delivery | Return straight away on arrival | Unopened; Royal Mail returns portal in support's reply | Verified (support) |
 | Topps NOW Ronaldo pack | Topps UK | Printed to order; Topps' store policy says sales are final | No return | n/a | Unconfirmed for the UK site |
@@ -180,3 +179,4 @@ dv.view("20 Reselling/_scripts/reselling", { view: "check" })
 - 27-11-2026: the PS5 going to the eBay buyer (serial S01-F26701KAY10729236, DPD 15505382510661, delivered 25-11-2026) is very likely #3 (order …391813, placed 19:32 on 24-11, DPD label printed 20:08). Receipt for #3 sent with personal details covered. So #3's last return day is 09-12-2026, not 10-12. The other two deliveries: 25-11 12:02 (DPD …2380234) and 26-11 14:20 (DPD …2484331), orders still to match.
 - 27-11-2026: PS5 Pro #3 (…391813, serial S01-F26701KAY10729236) sold on eBay at the £1,025 Buy It Now (£235.01 profit). Post tracked and signed for to the eBay order address only, add tracking to the order.
 - 27-11-2026: PS5 Pro #3 posted to the eBay buyer by Royal Mail Tracked 24 with signature, £10.60 (profit after postage £224.41).
+- 27-11-2026: PS5 Pro #2 (…104973, last one in hand) sold at the £1,025 Buy It Now (£235.01 profit before postage). Post tracked and signed for. Only PS5 #4 (…580327) left, not delivered yet.
