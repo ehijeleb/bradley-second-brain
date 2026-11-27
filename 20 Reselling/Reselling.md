@@ -183,3 +183,4 @@ dv.view("20 Reselling/_scripts/reselling", { view: "check" })
 - 27-11-2026: PS5 Pro #2 (…104973, last one in hand) sold at the £1,025 Buy It Now (£235.01 profit before postage). Post tracked and signed for. Only PS5 #4 (…580327) left, not delivered yet.
 - 27-11-2026: both eBay PS5 Pro sales (#2 and #3) paid out £1,025 each (after eBay's fees), each with a £10.40 postage label (Bradley). #3 corrected from £10.60. Profit £224.61 each.
 - 27-11-2026: standard PS5 from PlayStation Direct, £519.99 (order 787097746608108, the 'Dio' account). Resale unchecked: check eBay sold prices before listing. PS Direct allows returns up to 30 days after delivery.
+- 27-11-2026: GTA VI controller (Vinted sale, £94.50) dropped off at a Relay point. Keep the receipt until the buyer confirms.
