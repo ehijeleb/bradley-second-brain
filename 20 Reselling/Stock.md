@@ -37,3 +37,4 @@ One line per item. Add the sold fields to the same line when it sells. Format an
 - PlayStation 5 Pro Console 2TB [bought:: 24-11-2026] [cost:: 789.99] [from:: PlayStation Direct (order 787097680391813)] [paid:: NatWest credit card] [state:: sold] [sold:: 27-11-2026] [price:: 1025.00] [postage:: 10.40] [platform:: eBay] (serial S01-F26701KAY10729236)
 - PS5 DualSense Wireless Controller, Grand Theft Auto VI Limited Edition, White [bought:: 25-11-2026] [cost:: 74.99] [from:: Smyths Toys (click and collect)] [paid:: Amex] [state:: sold] [sold:: 26-11-2026] [price:: 94.50] [platform:: Vinted]
 - PlayStation 5 Pro Console 2TB [bought:: 26-11-2026] [cost:: 789.99] [from:: PlayStation Direct (order 787097730580327)] [paid:: NatWest credit card] [state:: in stock]
+- PlayStation 5 Console (standard) [bought:: 27-11-2026] [cost:: 519.99] [from:: PlayStation Direct (order 787097746608108)] [paid:: NatWest (card to confirm)] [state:: in stock]

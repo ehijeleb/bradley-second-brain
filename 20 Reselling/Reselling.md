@@ -95,6 +95,7 @@ Return windows for everything in [[Stock]], checked 18-11-2026. "Verified" means
 | Switch 2 Zelda 40th console | Argos online (1562154254, ordered 23-11-2026, not arrived) | Argos usually 30 days if unopened | Set on delivery | Sealed, receipt or order email | Unconfirmed: check the order email |
 | Switch 2 Zelda 40th console (2nd) | GAME online (GAME40000135877536, delivered 25-11-2026) | 14 days from the day after delivery (UK cooling-off; check GAME's terms) | 09-12-2026 (check 05-12-2026) | Sealed | Statutory minimum |
 | PS5 Pro 2TB (4th) | PlayStation Direct (787097730580327, ordered 26-11-2026) | 14 days from the day after delivery (UK cooling-off) | Set on delivery | Sealed | Statutory minimum |
+| PS5 standard | PlayStation Direct (787097746608108, ordered 27-11-2026) | PS Direct terms: cancel up to 30 days after delivery, free returns | Set on delivery | Sealed | Verified (PS Direct order email) |
 | Earbud case | Taylor Swift UK Store (dispatched 18-11-2026) | 14 days from the day after delivery | Return straight away on arrival | Unopened; Royal Mail returns portal in support's reply | Verified (support) |
 | Topps NOW Ronaldo pack | Topps UK | Printed to order; Topps' store policy says sales are final | No return | n/a | Unconfirmed for the UK site |
 
@@ -181,3 +182,4 @@ dv.view("20 Reselling/_scripts/reselling", { view: "check" })
 - 27-11-2026: PS5 Pro #3 posted to the eBay buyer by Royal Mail Tracked 24 with signature, £10.60 (profit after postage £224.41).
 - 27-11-2026: PS5 Pro #2 (…104973, last one in hand) sold at the £1,025 Buy It Now (£235.01 profit before postage). Post tracked and signed for. Only PS5 #4 (…580327) left, not delivered yet.
 - 27-11-2026: both eBay PS5 Pro sales (#2 and #3) paid out £1,025 each (after eBay's fees), each with a £10.40 postage label (Bradley). #3 corrected from £10.60. Profit £224.61 each.
+- 27-11-2026: standard PS5 from PlayStation Direct, £519.99 (order 787097746608108, the 'Dio' account). Resale unchecked: check eBay sold prices before listing. PS Direct allows returns up to 30 days after delivery.
