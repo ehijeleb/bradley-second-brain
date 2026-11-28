@@ -148,6 +148,8 @@ One line per balance check, for the spending dashboard's savings page. Take the 
 - 24-11-2026 [saving:: Moneybox LISA] [balance:: 790.00]
 
 ## Status log
+- 28-11-2026 (Bradley): LISA stays at £50 a week + £500 a payday until 05-04-2027 (about £3,740 this tax year, under the £4,000 limit). From 06-04-2027, cut to about £333 a month so the year lands on £4,000.
+- 28-11-2026 (Bradley): plan to pay £1,500 off the accommodation debt once December pay and reselling money are in, after both credit cards are cleared.
 - 13-11-2026: Finance set up, blank
 - 13-11-2026: filled in with Bradley: pay, accounts, balances, budgets, recurring payments, debts and proposed goals.
 - 13-11-2026: tax refund details imported (about £884.60 due back on the December payslip). Hourly rate corrected to £14.96 from payslips.
