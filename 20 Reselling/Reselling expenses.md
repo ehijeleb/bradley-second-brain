@@ -8,3 +8,4 @@ Costs that aren't stock items: packaging, postage you paid up front, listing upg
 
 ## Expenses
 - 13-11-2026 House of Resell membership (monthly) [exp:: Subscription] [amt:: 35.00]
+- 28-11-2026 Vinted listing bumps (approx., November) [exp:: Fees] [amt:: 7.00]
