@@ -196,3 +196,4 @@ dv.view("20 Reselling/_scripts/reselling", { view: "check" })
 - 28-11-2026: balances: eBay £2,029.20 (£2,050 less two £10.40 labels, matches), Vinted £1,520 (£31.50 more than the £1,488.50 logged; source to confirm). Withdraw both once available, to clear the NatWest credit card (£2,330.47) and Amex (£536.97).
 - 28-11-2026: sold a free standard PS5 controller on Vinted for £36 (dates approximate). About £7 spent on Vinted bumps this month, logged in [[Reselling expenses]]. Explains most of the extra £31.50 in the Vinted balance.
 - 28-11-2026: correction: the £1,000 on Revolut went back to NatWest current on 20-11-2026 (see November budget), so Revolut is empty. Plan: once the cards are cleared, move a fixed reselling float to Revolut and only buy from that.
+- 28-11-2026: rule: reselling stock only on the NatWest credit card. Stop buying when its limit is used up. Log [paid:: NatWest credit card] in [[Stock]].

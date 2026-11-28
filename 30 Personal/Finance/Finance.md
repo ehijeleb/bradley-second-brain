@@ -148,6 +148,7 @@ One line per balance check, for the spending dashboard's savings page. Take the 
 - 24-11-2026 [saving:: Moneybox LISA] [balance:: 790.00]
 
 ## Status log
+- 28-11-2026 (Bradley): rule from now: reselling stock goes only on the NatWest credit card (limit £3,704.10 on file, Bradley says about £3.8k). When the limit's used up, no more buying until sales pay it down. Pay the statement balance in full every month.
 - 28-11-2026 (Bradley): LISA stays at £50 a week + £500 a payday until 05-04-2027 (about £3,740 this tax year, under the £4,000 limit). From 06-04-2027, cut to about £333 a month so the year lands on £4,000.
 - 28-11-2026 (Bradley): plan to pay £1,500 off the accommodation debt once December pay and reselling money are in, after both credit cards are cleared.
 - 13-11-2026: Finance set up, blank
