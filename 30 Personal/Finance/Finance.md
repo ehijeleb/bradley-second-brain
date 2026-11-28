@@ -45,9 +45,9 @@ Edit these and every month updates. Keep the `[key:: value]` parts as they are; 
 ### Accounts and where your wages go
 Give an account a `pct` to split your wages between accounts; the percentages must add up to 100. Accounts without a `pct` are just places money is paid from.
 - [account:: NatWest current] [pct:: 100]
-- [account:: NatWest credit card] used for petrol and fast food to build credit history, paid off from NatWest current
+- [account:: NatWest credit card] reselling stock only from 28-11-2026 (petrol and fast food moved to the Amex). Paid off in full every statement from NatWest current.
 - [account:: HSBC] may become the reselling account once buying picks up (15-11-2026)
-- [account:: Amex] credit card, arrived 17-11-2026, used for reselling stock from 18-11-2026. Limit £2,300.
+- [account:: Amex] credit card, arrived 17-11-2026. Limit £2,300. From 28-11-2026: petrol and fast food (everyday spending), no reselling. Paid off in full every statement.
 - [account:: Revolut] card used by a friend's checkout bot for reselling drops. Topped up with £1,000 on 19-11-2026 (a transfer, so not logged as spending). The £1,000 came back to NatWest current by 20-11-2026, so it's about empty; top it up again before a bot drop. Keep a spending limit on it.
 - [account:: Moneybox LISA] savings only: £50 a week plus £500 every payday go in automatically (transfers, so not logged as spending)
 
