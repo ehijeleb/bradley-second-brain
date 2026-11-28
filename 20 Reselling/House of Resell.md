@@ -81,6 +81,7 @@ HOR call it the "30th"; the shops list it as the Legend of Zelda 40th Anniversar
 
 ## What works for me
 Lessons from the group and from past sales: which categories, sizes and platforms make money.
+- PS5 Pro (28-11-2026): best flip so far. Sold £999 to £1,025 within 1 to 3 days, about £200 to £225 profit each, and prices rose after restocks. Plan: buy while hype lasts. Stop signals: eBay sold prices under about £920, or one takes more than 3 to 4 days to sell. Pay any card balance off before the statement.
 - Smyths limits (25-11-2026): hyped items are often 1 per customer, tied to account details. An order over the limit gets cancelled whole, even after the ready-to-collect email, and can't be reinstated. Order 1 at a time.
 - LEGO X-Mansion 76294 (16-11-2026): Smyths £289.99, sold within a day for £300 to me, £10 profit, with several buyers interested. Big LEGO sets from #smythstoys-instore sell fast; price above about £320 next time to leave room for offers. On eBay, "you'll receive" is what counts: offers include the buyer's fee.
 - Tickets: check HOR's risk rating, not just ROI. A 5/5 risk flip (Slipknot, 14-11-2026) only showed £35 profit on a £70 ticket before fees.
