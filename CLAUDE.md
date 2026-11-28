@@ -31,7 +31,7 @@ For anything to do with the job hunt (assessing adverts, suggesting companies, r
 - The Google Calendar connected in cloud sessions (benedict.ibha) is not Bradley's. Never read or write it.
 - Whenever Bradley asks to add something to his calendar, send him an `.ics` file instead (Bradley asked for this on 13-11-2026). Put it in the scratchpad, not the vault, and send it as a file.
 - Format: one VEVENT per event, `DTSTART;TZID=Europe/London`, a unique UID, a 30-minute reminder, CRLF line endings. Name the file after what's in it, e.g. `Gym plan.ics`.
-- Remind him how to import it: on the laptop, Google Calendar settings, then "Import & export"; on the iPhone, tap the file and check it goes into his Google calendar.
+- Remind him how to import it: on the laptop, Google Calendar settings, then "Import & export"; on the iPhone, the Claude app only shows the file as text, so tap the share button, "Save to Files", then open it from the Files app, tap "Add All" and check it goes into his Google calendar (28-11-2026).
 
 ## Emails
 - The Gmail connected in cloud sessions (benedict.ibha) is not Bradley's. Never read or write it.
