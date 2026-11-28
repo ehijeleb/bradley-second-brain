@@ -193,3 +193,4 @@ dv.view("20 Reselling/_scripts/reselling", { view: "check" })
 - 28-11-2026: resent the Taylor Swift returns and refunds request to support@umusicstoresupport.zendesk.com (UK store). Chase or post the sherpa back by 30-11-2026 if no reply (last day 02-12-2026).
 - 28-11-2026: VAT invoice arrived for order 787097746608108, the standard PS5 (£519.99), not Pro #4, so the standard PS5 has been dispatched. Pro #4 (787097730580327) not yet invoiced.
 - 28-11-2026: cashed out so far: only the first X-Mansion (eBay, £300). Still to come: Vinted £1,488.50 (PS5 #1 £999, X-Mansion £305, controllers £90 and £94.50) and eBay £2,050 (PS5 #2 and #3). Vinted balance has to be withdrawn manually.
+- 28-11-2026: balances: eBay £2,029.20 (£2,050 less two £10.40 labels, matches), Vinted £1,520 (£31.50 more than the £1,488.50 logged; source to confirm). Withdraw both once available, to clear the NatWest credit card (£2,330.47) and Amex (£536.97).
