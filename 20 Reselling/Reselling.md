@@ -85,7 +85,6 @@ Return windows for everything in [[Stock]], checked 18-11-2026. "Verified" means
 
 | Item | Shop | Window | Last day | Conditions | Confidence |
 | --- | --- | --- | --- | --- | --- |
-| LEGO X-Mansion x2 | Smyths Romford (in store, 17-11-2026) | 28 days from purchase | 15-12-2026 | Unopened, resaleable, receipt | Verified (Smyths returns page via search) |
 | Red Bull Advent Calendar x6 | Tesco (Rainham Extra 2, Hornchurch Superstore 4; 18-11-2026, Amex) | Returned 25-11-2026 | Refunded £150 to the Amex | n/a | Done |
 | H&M x Elie Saab dress | H&M online | Returned 22-11-2026 | Refund pending (£553.98 on NatWest, less any return fee) | n/a | Done |
 | Sherpa jacket | Taylor Swift UK Store (delivered 18-11-2026) | 14 days from the day after delivery | 02-12-2026 (check 28-11-2026) | Unworn, tags on | Verified (store terms) |
@@ -199,3 +198,4 @@ dv.view("20 Reselling/_scripts/reselling", { view: "check" })
 - 28-11-2026: correction: the £1,000 on Revolut went back to NatWest current on 20-11-2026 (see November budget), so Revolut is empty. Plan: once the cards are cleared, move a fixed reselling float to Revolut and only buy from that.
 - 28-11-2026: rule: reselling stock only on the NatWest credit card. Stop buying when its limit is used up. Log [paid:: NatWest credit card] in [[Stock]].
 - 28-11-2026: second standard PS5 from PlayStation Direct, £519.99 on the NatWest credit card (order 787097779087745). Resale of the standard model still unchecked.
+- 28-11-2026: last X-Mansion sold on Vinted to clairsatch for £300 (£10.01 profit). Post before 07-12-2026 09:00. Tell jennashort the held set has gone.
