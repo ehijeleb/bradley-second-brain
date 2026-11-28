@@ -87,17 +87,17 @@ Return windows for everything in [[Stock]], checked 18-11-2026. "Verified" means
 | --- | --- | --- | --- | --- | --- |
 | Red Bull Advent Calendar x6 | Tesco (Rainham Extra 2, Hornchurch Superstore 4; 18-11-2026, Amex) | Returned 25-11-2026 | Refunded £150 to the Amex | n/a | Done |
 | H&M x Elie Saab dress | H&M online | Returned 22-11-2026 | Refund pending (£553.98 on NatWest, less any return fee) | n/a | Done |
-| Sherpa jacket | Taylor Swift UK Store (delivered 18-11-2026) | 14 days from the day after delivery | 02-12-2026 (check 28-11-2026) | Unworn, tags on | Verified (store terms) |
-| Sweatpants | Taylor Swift UK Store (delivered 19-11-2026) | 14 days from the day after delivery | 03-12-2026 (check 29-11-2026) | Sealed, same condition | Assumed same as the sherpa |
-| Slippers | Taylor Swift UK Store (delivered 19-11-2026) | 14 days from the day after delivery | 03-12-2026 (check 29-11-2026) | Unworn, tags on | Assumed same as the sherpa |
-| Notebook | Taylor Swift UK Store (delivered 19-11-2026) | 14 days from the day after delivery | 03-12-2026 (check 29-11-2026) | Sealed in its wrap | Assumed same as the sherpa |
-| Snow globes x6 | Taylor Swift UK Store (ordered 19-11-2026, not arrived) | 14 days from the day after delivery | Return straight away on arrival | Unopened, same condition | Assumed same as the sherpa |
+| Sherpa jacket | Taylor Swift UK Store (delivered 18-11-2026) | 28 days from receipt (store support, 28-11-2026), free Royal Mail returns | 16-12-2026 (check 12-12-2026) | Unworn, tags on | Verified (store support email) |
+| Sweatpants | Taylor Swift UK Store (delivered 19-11-2026) | 28 days from receipt, free Royal Mail returns | 17-12-2026 (check 13-12-2026) | Sealed, same condition | Verified (store support email) |
+| Slippers | Taylor Swift UK Store (delivered 19-11-2026) | 28 days from receipt, free Royal Mail returns | 17-12-2026 (check 13-12-2026) | Unworn, tags on | Verified (store support email) |
+| Notebook | Taylor Swift UK Store (delivered 19-11-2026) | 28 days from receipt, free Royal Mail returns | 17-12-2026 (check 13-12-2026) | Sealed | Verified (store support email) |
+| Snow globes x6 | Taylor Swift UK Store | TS1343164 (1): refunded 28-11-2026. TS1344044 (4): full refund once returned to sender. TS1341036 (1): arriving by 03-12-2026, then 28 days | TS1341036: about 31-12-2026 | Unopened | Verified (store support email) |
 | Switch 2 Zelda 40th console | Argos online (1562154254, ordered 23-11-2026, not arrived) | Argos usually 30 days if unopened | Set on delivery | Sealed, receipt or order email | Unconfirmed: check the order email |
 | Switch 2 Zelda 40th console (2nd) | GAME online (GAME40000135877536, delivered 25-11-2026) | 14 days from the day after delivery (UK cooling-off; check GAME's terms) | 09-12-2026 (check 05-12-2026) | Sealed | Statutory minimum |
 | PS5 Pro 2TB (4th) | PlayStation Direct (787097730580327, ordered 26-11-2026) | 14 days from the day after delivery (UK cooling-off) | Set on delivery | Sealed | Statutory minimum |
 | PS5 standard | PlayStation Direct (787097746608108, ordered 27-11-2026) | PS Direct terms: cancel up to 30 days after delivery, free returns | Set on delivery | Sealed | Verified (PS Direct order email) |
 | PS5 standard (2nd) | PlayStation Direct (787097779087745, ordered 28-11-2026) | PS Direct terms: cancel up to 30 days after delivery, free returns | Set on delivery | Sealed | Verified (PS Direct order email) |
-| Earbud case | Taylor Swift UK Store (dispatched 18-11-2026) | 14 days from the day after delivery | Return straight away on arrival | Unopened; Royal Mail returns portal in support's reply | Verified (support) |
+| Earbud case | Taylor Swift UK Store | Returned to sender, refunded 28-11-2026 | Done | n/a | Verified (store support email) |
 | Topps NOW Ronaldo pack | Topps UK | Printed to order; Topps' store policy says sales are final | No return | n/a | Unconfirmed for the UK site |
 
 ## Notes
@@ -199,3 +199,4 @@ dv.view("20 Reselling/_scripts/reselling", { view: "check" })
 - 28-11-2026: rule: reselling stock only on the NatWest credit card. Stop buying when its limit is used up. Log [paid:: NatWest credit card] in [[Stock]].
 - 28-11-2026: second standard PS5 from PlayStation Direct, £519.99 on the NatWest credit card (order 787097779087745). Resale of the standard model still unchecked.
 - 28-11-2026: last X-Mansion sold on Vinted to clairsatch for £300 (£10.01 profit). Post before 07-12-2026 09:00. Tell jennashort the held set has gone.
+- 28-11-2026: Taylor Swift UK Store replied ([[2026-11-28 UMUK Store Support - Refunds and returns]]): refunds processed for TS1343164 (1 Ophelia snow globe, £55.25) and TS1334668 (earbud case, £35.25), 3-5 working days to NatWest. TS1344044 (4 snow globes, £207.95) fully refunded incl. delivery once it's back with them, so leave it at the delivery office. TS1341036 (1 Opalite) arriving by 03-12-2026. Returns window is 28 days from receipt (not 14), free via the Royal Mail returns portal: sherpa by 16-12-2026, sweatpants, slippers, notebook by 17-12-2026. Portal needs the TS order number for each.
