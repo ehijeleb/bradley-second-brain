@@ -97,6 +97,7 @@ Return windows for everything in [[Stock]], checked 18-11-2026. "Verified" means
 | Switch 2 Zelda 40th console (2nd) | GAME online (GAME40000135877536, delivered 25-11-2026) | 14 days from the day after delivery (UK cooling-off; check GAME's terms) | 09-12-2026 (check 05-12-2026) | Sealed | Statutory minimum |
 | PS5 Pro 2TB (4th) | PlayStation Direct (787097730580327, ordered 26-11-2026) | 14 days from the day after delivery (UK cooling-off) | Set on delivery | Sealed | Statutory minimum |
 | PS5 standard | PlayStation Direct (787097746608108, ordered 27-11-2026) | PS Direct terms: cancel up to 30 days after delivery, free returns | Set on delivery | Sealed | Verified (PS Direct order email) |
+| PS5 standard (2nd) | PlayStation Direct (787097779087745, ordered 28-11-2026) | PS Direct terms: cancel up to 30 days after delivery, free returns | Set on delivery | Sealed | Verified (PS Direct order email) |
 | Earbud case | Taylor Swift UK Store (dispatched 18-11-2026) | 14 days from the day after delivery | Return straight away on arrival | Unopened; Royal Mail returns portal in support's reply | Verified (support) |
 | Topps NOW Ronaldo pack | Topps UK | Printed to order; Topps' store policy says sales are final | No return | n/a | Unconfirmed for the UK site |
 
@@ -197,3 +198,4 @@ dv.view("20 Reselling/_scripts/reselling", { view: "check" })
 - 28-11-2026: sold a free standard PS5 controller on Vinted for £36 (dates approximate). About £7 spent on Vinted bumps this month, logged in [[Reselling expenses]]. Explains most of the extra £31.50 in the Vinted balance.
 - 28-11-2026: correction: the £1,000 on Revolut went back to NatWest current on 20-11-2026 (see November budget), so Revolut is empty. Plan: once the cards are cleared, move a fixed reselling float to Revolut and only buy from that.
 - 28-11-2026: rule: reselling stock only on the NatWest credit card. Stop buying when its limit is used up. Log [paid:: NatWest credit card] in [[Stock]].
+- 28-11-2026: second standard PS5 from PlayStation Direct, £519.99 on the NatWest credit card (order 787097779087745). Resale of the standard model still unchecked.

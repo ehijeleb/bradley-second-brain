@@ -116,7 +116,7 @@ Rule: pay each statement balance **in full** by the due date, so no interest. Be
 
 ### NatWest credit card (limit £3,704.10)
 - Statement date: ?  Payment due: ?  Direct debit for full balance: ?
-- Reselling charges: 24-11-2026 PS5 Pro 2TB £750.49 (PS Direct); 24-11-2026 PS5 Pro 2TB £789.99 (PS Direct, 19:31); 26-11-2026 PS5 Pro 2TB £789.99 (PS Direct). Total £2,330.47.
+- Reselling charges: 24-11-2026 PS5 Pro 2TB £750.49 (PS Direct); 24-11-2026 PS5 Pro 2TB £789.99 (PS Direct, 19:31); 26-11-2026 PS5 Pro 2TB £789.99 (PS Direct); 28-11-2026 PS5 standard £519.99 (PS Direct). Total £2,850.46 (plus the 27-11 standard PS5 £519.99 if that was on this card too).
 - Plus everyday petrol and fast food.
 - 26-11-2026: card no longer shows in the NatWest app. NatWest had asked whether recent payments were fraudulent (Bradley said no, they were his reselling buys), then sent a notification about the card. To do: contact NatWest through the app chat or the number on the back of the card, and ask whether the card is blocked, replaced or closed, whether both PS5 payments went through, the balance, and the payment due date.
 - 26-11-2026: NatWest said they'll remove the blocks and reinstate the card (same card, so saved details should still work). Still to check: the card is back in the app, both PS5 payments went through, the balance and the payment due date.

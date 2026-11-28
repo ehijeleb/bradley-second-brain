@@ -39,3 +39,4 @@ One line per item. Add the sold fields to the same line when it sells. Format an
 - PlayStation 5 Pro Console 2TB [bought:: 26-11-2026] [cost:: 789.99] [from:: PlayStation Direct (order 787097730580327)] [paid:: NatWest credit card] [state:: in stock]
 - PlayStation 5 Console (standard) [bought:: 27-11-2026] [cost:: 519.99] [from:: PlayStation Direct (order 787097746608108)] [paid:: NatWest (card to confirm)] [state:: in stock]
 - PS5 DualSense Wireless Controller (standard, free) [bought:: 28-11-2026] [cost:: 0.00] [from:: Free (gift)] [state:: sold] [sold:: 28-11-2026] [price:: 36.00] [platform:: Vinted]
+- PlayStation 5 Console (standard) [bought:: 28-11-2026] [cost:: 519.99] [from:: PlayStation Direct (order 787097779087745)] [paid:: NatWest credit card] [state:: in stock]
