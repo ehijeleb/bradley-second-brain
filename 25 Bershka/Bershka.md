@@ -23,9 +23,11 @@ status: active
 | 23-11-2026 | Mon 23 to Fri 27 paid holiday. Sat 28 and Sun 29 off. | Holiday |
 | 30-11-2026 | Mon 30 12:00-21:00. Tue 1 Dec 12:30-21:30. Fri 4 12:30-21:30. Sat 5 11:00-19:00. Sun 6 10:00-18:00. Wed 2 and Thu 3 off. | 40 (weekend 16) |
 | 07-12-2026 | Tue 8 13:30-21:30. Wed 9 13:30-21:30. Thu 10 11:00-19:00. Fri 11 13:30-21:30. Sat 12 10:00-18:00. Mon 7 and Sun 13 off. | 40 (weekend 8) |
-| 14-12-2026 | Not published yet. | |
+| 14-12-2026 | Mon 14 13:30-22:30. Wed 16 13:30-22:30. Thu 17 09:30-18:30. Fri 18 13:30-22:30. Sat 19 14:00-23:00. Tue 15 and Sun 20 off. | 40 (weekend 8) |
+| 21-12-2026 | Mon 21 12:30-21:30. Wed 23 12:30-21:30. Thu 24 10:00-19:00. Sat 26 (Boxing Day, bank holiday) 10:00-19:00. Sun 27 10:00-18:00. Tue 22 off, Fri 25 Christmas Day (closed). | 40 (weekend 16) |
+| 28-12-2026 | Mon 28 bank holiday. Rest not published yet. | |
 
-From rota screenshots, 13-11-2026. Paid hours take off unpaid lunch: a 9-hour shift has 1 hour unpaid lunch and a 20-minute paid break (8 paid), an 8-hour shift has a paid 30-minute lunch (8 paid). So every shift so far is 8 paid hours. The split shifts on 10 and 11 November already have the hour off between the two parts (8 paid each). The app showed 209 hours worked from 01-10-2026 to 12-11-2026.
+From rota screenshots, 13-11-2026. Paid hours take off unpaid lunch: a 9-hour shift has 1 hour unpaid lunch and a 20-minute paid break (8 paid), an 8-hour shift has a paid 30-minute lunch (8 paid). So every shift so far is 8 paid hours. The split shifts on 10 and 11 November already have the hour off between the two parts (8 paid each). The app showed 209 hours worked from 01-10-2026 to 12-11-2026, and 242 hours 40 minutes from 01-10-2026 to 27-11-2026.
 
 ## Notes
 - Paid holiday 02-11-2026 to 06-11-2026 and 23-11-2026 to 27-11-2026.
@@ -42,3 +44,4 @@ From rota screenshots, 13-11-2026. Paid hours take off unpaid lunch: a 9-hour sh
 - 13-11-2026: corrected, 30-minute lunch on 8-hour shifts is paid.
 - 13-11-2026: holiday 02-11-2026 to 06-11-2026 added; November pay estimated.
 - 17-11-2026: Dart Charge can be claimed in the Inet app.
+- 28-11-2026: shifts added for 14-12-2026 to 27-12-2026 from the rota. Working Boxing Day (26-12-2026, bank holiday): check whether it pays extra.
